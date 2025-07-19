@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"Hi, I'm looking for a BMW.",,,,,,,,
+,,Chatbot,,"Ahh, lemme tell ya, we got a whole lotta nice BMWs on da lot. What kinda BMW you tryna cop?",,,,,"Great, we have a lot of great options here. What type of BMW are you interested in?",,,
+,,User,,I'm not really sure. I just know that I want one.,,,,,,,,
+,,Chatbot,,"A'ight den, lemme show ya what we got, see if somethin' strike ya fancy.",,,,,"Well, let's take a look at what we have and see if anything catches your eye.",,,
+,,User,,OK.,,,,,,,,
+,,Chatbot,,"We got da 3 series, da 5 series, and den we got da 7 series, too.",,,,,"We have the 3 series, the 5 series, and the 7 series.",,,
+,,User,,I like the 3 series.,,,,,,,,
+,,Chatbot,,"We got a few diff'rent models in da 3 series, so which one you think you might be interested in?",,,,,"Great, we have a few options in that series. Do you have a particular model in mind?",,,
+,,User,,"No, not really. I just want something that looks good and drives well.",,,,,,,,
+,,Chatbot,,"A'ight, lemme show ya what we got in da 3 series den. We got da 320i, 328i, 335i, and 340i, so maybe one a' dem'll catch ya eye.",,,,,"OK, let's take a look at the 3 series then. We have the 320i, 328i, 335i, and 340i.",,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Shopping Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,True,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,False,True,False
+,,I find this chatbot to be offensive,,,,,,False,False,False,True,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,True,False,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,True,False,False
+,,I feel that this chatbot is similar to me,,,,,,False,False,True,False,False
+,,I would like a Shopping Assistant chatbot to speak to me like this,,,,,,False,True,False,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,True,False,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,True,False,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,True,False
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,True,False,False,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,True,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

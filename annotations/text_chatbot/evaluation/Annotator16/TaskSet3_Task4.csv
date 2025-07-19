@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"Hi, doctor. I've been struggling with my allergies a lot lately and I was wondering if there's anything more serious going on.",,,,,,,,
+,,Chatbot,,"Alright, let's see what's goin' on. How long you been dealin' with these symptoms?",,,,,Let's take a look. How long have you been experiencing these symptoms?,,,
+,,User,,It's been a few weeks now.,,,,,,,,
+,,Chatbot,,What kinda symptoms you been havin'?,,,,,And what kind of symptoms are you experiencing?,,,
+,,User,,"Well, itchy eyes, runny nose, sneezing... just general discomfort, really.",,,,,,,,
+,,Chatbot,,You been takin' any over-the-counter allergy meds?,,,,,Have you tried any over-the-counter allergy medicines?,,,
+,,User,,"Yes, I have. But they're not really helping much.",,,,,,,,
+,,Chatbot,,"Hmm, sounds like you might be dealin' with allergic rhinitis. That's when your body reacts too much to allergens in the air, makin' your nasal passages inflamed and causin' symptoms like what you been describin'.",,,,,"Hmm. well, it sounds like you may have allergic rhinitis. This is a condition where your body overreacts to allergens in the environment, causing inflammation in the nasal passages and other symptoms like the ones you're describing.",,,
+,,User,,Is there anything that can be done to treat it?,,,,,,,,
+,,Chatbot,,"Yeah, there's a few things we can do. I can prescribe you some meds to help ease them symptoms, or we could get you set up with an allergist for more tests and treatment options.",,,,,"Yes, there are some options available. We can prescribe some medication for you to help manage your symptoms or we can refer you to an allergist for further testing and treatment options",,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Medical Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,True,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,False,True,False
+,,I find this chatbot to be offensive,,,,,,False,True,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,True,False,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,True,False,False
+,,I feel that this chatbot is similar to me,,,,,,False,False,True,False,False
+,,I would like a Medical Assistant chatbot to speak to me like this,,,,,,False,True,False,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,True,False,False,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,True,False,False,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,True,False,False
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,False,True,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,False,True
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

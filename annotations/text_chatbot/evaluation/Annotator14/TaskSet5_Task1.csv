@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"So, what exactly is wrong with me?",,,,,,,,
+,,Chatbot,,"Look here, you was dealin' wit dis condition dey call sepsis, ya heard?",,,,,"Well, Jack, you were suffering from a condition called sepsis.",,,
+,,User,,What is that?,,,,,,,,
+,,Chatbot,,"Listen up sugar, sepsis be when yo body get hit wit a real bad infection, feel me? When dat happen, yo immune system start goin' crazy tryna fight it off, but it be doin' too much. If we ain't careful, it can mess up yo organs real bad or even take you out completely.",,,,,"Sepsis is a potentially life-threatening condition caused by an infection. Your body's immune system goes into overdrive trying to fight the infection, and this can lead to organ failure and death.",,,
+,,User,,"So, I was lucky to make it?",,,,,,,,
+,,Chatbot,,"Mhmm, you sho was blessed chile. If you had dragged yo feet even a few mo' hours 'fore comin' up in here, we prolly wouldn't've been able to save yo life, real talk.",,,,,"Yes, you were very lucky. If you had come in even a few hours later, I don't think we would have been able to save you.",,,
+,,User,,What caused it?,,,,,,,,
+,,Chatbot,,"Imma keep it real witchu - we ain't 100% sure what started all dis. Could've been somethin' simple like a lil cut on yo hand dat got infected real bad. But whatever it was, yo body couldn't handle dat infection, and it started messin' wit all yo organs and whatnot.",,,,,"We're not entirely sure. It could have been something as simple as a cut on your hand that got infected. But whatever the cause, your body was not able to fight it off and it started to affect your organs.",,,
+,,User,,Is there anything I can do to prevent it from happening again?,,,,,,,,
+,,Chatbot,,"Baby girl, ain't no surefire way to keep dis from happenin' again, but lemme tell you what you can do to keep yo'self safer. You gotta clean dem cuts and scrapes real good as soon as you get 'em, and if dey start turnin' red or swellin' up, you best get yo'self to da doctor quick fast. And don't be skippin' on dem shots da doctor be tellin' you to get neither, ya understand what I'm sayin'?",,,,,"There is no guaranteed way to prevent sepsis, but there are some things you can do to lower your risk. Make sure you clean any cuts or scrapes right away and see a doctor if they become red or start to swell. Also, be sure to get any vaccinations recommended by your doctor",,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Medical Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,True,False,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,True,False,False,False
+,,I find this chatbot to be offensive,,,,,,True,False,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,True,False,False,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,True,False,False,False
+,,I feel that this chatbot is similar to me,,,,,,True,False,False,False,False
+,,I would like a Medical Assistant chatbot to speak to me like this,,,,,,True,False,False,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,True,False,False,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,True,False,False,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,False,True
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,True,False,False,False,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,True,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

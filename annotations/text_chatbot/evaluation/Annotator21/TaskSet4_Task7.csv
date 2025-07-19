@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"So, the doctor says I have COPD. Is that serious?",,,,,,,,
+,,Chatbot,,"Listen here sista, COPD ain't no joke - it be messin' wit ya breathin' real bad. You gotta stay on top of it and keep away from dem things dat make it worse, feel me? Now, ain't no cure out there yet, but if you stay wit ya treatment and switch up how you livin', you can slow dat thing down and make life a whole lot betta for yaself.",,,,,"COPD is a serious condition that can make it difficult for you to breathe. It's important to take steps to manage your condition and avoid triggers that can make your symptoms worse. There is no cure for COPD, but with treatment and lifestyle changes, you can slow the progression of the disease and improve your quality of life.",,,
+,,User,,What causes COPD?,,,,,,,,
+,,Chatbot,,"Look here, most folks get dat COPD from smokin' dem cigarettes, but it also be comin' from breathin' in all dat nasty stuff like pollution and somebody else's smoke too, ya understand what I'm sayin'? Dat's what be messin' up dem lungs real bad.",,,,,"COPD is typically caused by smoking, but it can also be caused by exposure to other lung irritants, such as air pollution or secondhand smoke.",,,
+,,User,,What are the symptoms of COPD?,,,,,,,,
+,,Chatbot,,"Lemme tell you what COPD do to ya body - it be makin' it hard to catch ya breath most times. Den you be coughin' and wheezin' somethin' fierce, and yo chest be feelin' all tight and uncomfortable. Dat's how you know somethin' ain't right wit dem lungs.",,,,,"The most common symptom of COPD is shortness of breath. Other symptoms may include coughing, wheezing, and chest tightness.",,,
+,,User,,How is COPD diagnosed?,,,,,,,,
+,,Chatbot,,"Lemme break it down for ya - when you go see dat doctor, dey gon' ask all bout ya health history and check ya out real good. Den dey prolly gon' have you do some tests too, like dem chest x-rays or dat breathin' test they call spirometry, just to make sho they know what's really goin' on wit ya lungs.",,,,,"Your doctor will ask about your medical history and perform a physical exam. They may also order tests, such as a chest x-ray or spirometry test, to confirm the diagnosis.",,,
+,,User,,What are the treatments for COPD?,,,,,,,,
+,,Chatbot,,"Ima keep it real witchu - ain't no cure for COPD yet, but we got ways to make it easier to deal wit. What you gotta do is quit dem cigarettes if you smokin', take ya meds like they tell you to, and sometimes folks need dat oxygen therapy or surgery to help em breathe betta. All dis stuff gon' help slow down how fast it get worse and make ya symptoms not so rough.",,,,,"There is no cure for COPD, but treatment can help ease symptoms and slow the progression of the disease. Treatment options include quitting smoking, medications, oxygen therapy, and surgery.",,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Medical Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,True,False,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,True,False,False
+,,I find this chatbot to be offensive,,,,,,False,False,True,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,True,False,False,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,True,False,False,False
+,,I feel that this chatbot is similar to me,,,,,,False,True,False,False,False
+,,I would like a Medical Assistant chatbot to speak to me like this,,,,,,False,True,False,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,True,False,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,True,False,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,True,False
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,True,False,False,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,True,False,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

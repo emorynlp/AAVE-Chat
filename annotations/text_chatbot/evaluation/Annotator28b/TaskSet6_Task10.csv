@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,I'm studying for a test on the American Revolution.,,,,,,,,
+,,Chatbot,,What all you been learnin' 'bout the American Revolution so far?,,,,,What have you been learning?,,,
+,,User,,I've been reading my textbook and taking notes on the important events and people. I've also looked up some information on the internet.,,,,,,,,
+,,Chatbot,,"That sounds like a solid plan. Now, I'm curious, what are some of the key events you've come across that led up to the American Revolution?",,,,,That's good. The American Revolution was a very important time in our history. Can you tell me some of the events that led up to it?,,,
+,,User,,"Sure. One of the main events was the Boston Tea Party, where colonists protesting against British taxes dumped crates of tea into Boston Harbor. That really angered the British, and tensions continued to rise until finally, in 1775, war broke out at Lexington and Concord.",,,,,,,,
+,,Chatbot,,What were some of the key figures that played a major role in the Revolution?,,,,,Who were some of the key figures in the Revolution?,,,
+,,User,,"George Washington was obviously a very important figure, as he was the commander-in-chief of the Continental Army. Other notable figures include Thomas Jefferson, who wrote the Declaration of Independence, and Benjamin Franklin, who was one of America's Founding Fathers.",,,,,,,,
+,,Chatbot,,"Now I'm wonderin', what were some of the main principles the colonists were fightin' for?",,,,,What were some of the key principles that the colonists were fighting for?,,,
+,,User,,"They were fighting for independence from British rule, and they also wanted to have a government that would represent their interests. They didn't want to be taxed without having a say in how their government was run.",,,,,,,,
+,,Chatbot,,I'm glad you're gettin' a good understanding of the American Revolution.,,,,,That's right. The American Revolution was all about the colonists asserting their rights as citizens. Thanks for studying up on it!,,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Educational Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,True,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,False,True,False
+,,I find this chatbot to be offensive,,,,,,True,False,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,False,True,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,False,True,False
+,,I feel that this chatbot is similar to me,,,,,,False,False,False,True,False
+,,I would like a Educational Assistant chatbot to speak to me like this,,,,,,False,False,False,True,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,False,False,True,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,False,False,True,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,True,False
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,True,False,False,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,False,True
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

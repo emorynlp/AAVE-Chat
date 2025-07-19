@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,I just don't know what to write about.,,,,,,,,
+,,Chatbot,,"I hear ya, not knowin' what to write 'bout can be tough. What kinda things you usually into readin'?",,,,,That's a common problem. What do you like to read?,,,
+,,User,,I like adventure books and fantasy.,,,,,,,,
+,,Chatbot,,"Aight den, let's see what we can come up with in them genres. How 'bout a story 'bout a young girl who's on a mission, goin' on some kinda adventure?",,,,,"Okay, let's try something in those genres then. What if you wrote a story about a girl who goes on an adventure?",,,
+,,User,,I don't know...,,,,,,,,
+,,Chatbot,,"Now dat we got a lil' somethin' to work wit', let's think 'bout where dis young girl's adventure takes her.",,,,,Let's brainstorm a little bit. Where does she go on her adventure?,,,
+,,User,,Um...I don't know.,,,,,,,,
+,,Chatbot,,"You ever thought 'bout a place you always wanted to visit, somethin' that'd be real interestin' for your character to check out?",,,,,Is there somewhere you've always wanted to go? Somewhere that would be interesting for your character to explore?,,,
+,,User,,I guess I've always wanted to go to Africa.,,,,,,,,
+,,Chatbot,,So your character's headed to Africa now. What kinda situation she get herself into when she arrives?,,,,,"Okay, so your character goes to Africa. What happens when she gets there?",,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Educational Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,True,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,False,True,False
+,,I find this chatbot to be offensive,,,,,,False,True,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,True,False,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,True,False,False
+,,I feel that this chatbot is similar to me,,,,,,False,False,True,False,False
+,,I would like a Educational Assistant chatbot to speak to me like this,,,,,,False,False,False,True,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,False,False,True,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,True,False,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,False,True
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,False,True,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,True,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

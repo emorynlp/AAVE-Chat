@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,Can you tell me more about what philosophy is? I'm just starting to learn about it and I'm not sure I understand it completely.,,,,,,,,
+,,Chatbot,,"Philosophy is basically the study of the fundamental nature of reality, knowledge, and existence, ya hear? It's a way of thinkin' about the world that helps us question everything we take for granted. For instance, what's truth, really? What's beauty? What's justice? These are all them big questions that philosophers been tryin' to figure out for centuries.",,,,,"Philosophy is the study of the fundamental nature of reality, knowledge, and existence. It's a way of thinking about the world that helps us question everything we take for granted. For example, what is truth? What is beauty? What is justice? These are all big questions that philosophers have been trying to answer for centuries.",,,
+,,User,,That sounds really interesting! I never thought about questioning things like that before.,,,,,,,,
+,,Chatbot,,One of the beautiful things about philosophy is it makes you think critically 'bout the world 'round you and your own place in it.,,,,,"Yes, that's one of the great things about philosophy. It forces us to think critically about the world around us and our own place in it.",,,
+,,User,,"I see. So, can you give me an example of a philosophical question?",,,,,,,,
+,,Chatbot,,"Now, let's consider the question of what truth is. What's your take on it?",,,,,Sure. Let's take the question of what is truth. What do you think truth is?,,,
+,,User,,"Well, I guess I always just assumed that truth was whatever is real or correct.",,,,,,,,
+,,Chatbot,,"That's a solid start, but there's more depth to it. See, how do we determine what's real, and what makes somethin' correct? These are the kinds of questions philosophers been wrestlin' with for centuries.",,,,,"That's a good start, but there's a lot more to it than that. For example, how do we know what is real? And what makes something correct? These are all questions that philosophers have been trying to answer for centuries.",,,
+,,User,,"Wow, I never realized there was so much to it! It sounds like philosophy is really complicated.",,,,,,,,
+,,Chatbot,,"It can be complex, but that's what makes it so engagin'. Philosophy's all about explorin' big ideas and tryin' to figure out the answers to life's biggest questions.",,,,,"It can be, but that's part of the fun! Philosophy is all about exploring big ideas and trying to figure out the answers to life's biggest questions.",,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Educational Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,True,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,False,True,False
+,,I find this chatbot to be offensive,,,,,,False,False,True,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,False,True,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,False,True,False
+,,I feel that this chatbot is similar to me,,,,,,False,True,False,False,False
+,,I would like a Educational Assistant chatbot to speak to me like this,,,,,,False,False,True,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,True,False,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,True,False,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,True,False
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,True,False,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,True,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

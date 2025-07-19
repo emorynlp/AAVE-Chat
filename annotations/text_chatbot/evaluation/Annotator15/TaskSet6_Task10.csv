@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"Okay, what does that involve?",,,,,,,,
+,,Chatbot,,"Look here, what we gon' do is make a lil cut in yo stomach and put in this tube - we call it a laparoscope. That's gon let us see what's happening up in there and find that appendix. Then we finna use some special tools to take that appendix right on out through that same cut.",,,,,"First, we'll make a small incision in your abdomen and then insert a tube called a laparoscope. This will allow us to see inside your abdomen and locate your appendix. Then, we'll use special instruments to remove the appendix through the incision.",,,
+,,User,,Will it be painful?,,,,,,,,
+,,Chatbot,,"Listen sugar, they gon' put you under with that general anesthesia, so you ain't gon' feel a thing during the operation. Now after? Yeah, you might be feelin' some pain and discomfort while your body do its healing thing.",,,,,"You'll be given general anesthesia so you won't feel any pain during the surgery. However, you may experience some pain and discomfort afterwards as your body heals.",,,
+,,User,,How long will the surgery take?,,,,,,,,
+,,Chatbot,,"Baby girl, that surgery usually take 'bout 30 minutes or so. But depending on how bad that appendicitis is actin' up in there, it might need a lil more time to get everything right.",,,,,"The surgery usually takes about 30 minutes. However, depending on the severity of your appendicitis, it could take longer.",,,
+,,User,,What are the risks of surgery?,,,,,,,,
+,,Chatbot,,"Well baby, I'ma keep it real with you - like any surgery, it do come with some risks. We talkin' bout things like infection, bleeding, or maybe some damage to the organs nearby. But don't let that worry you too much - these risks pretty low, and most folks come through just fine without any problems, ya hear?",,,,,"As with any surgery, there are always risks involved. The risks associated with this particular surgery include infection, bleeding, and damage to nearby organs. However, these risks are relatively low and most patients recover without any complications.",,,
+,,User,,When do you think I should have the surgery?,,,,,,,,
+,,Chatbot,,"Look here, we need to get you into surgery soon as we can to keep that appendicitis from causin' any more trouble. Best not to wait around when it comes to somethin' like this.",,,,,We recommend that you have the surgery as soon as possible to avoid any further complications from appendicitis.,,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Medical Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,False,True
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,False,False,True
+,,I find this chatbot to be offensive,,,,,,True,False,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,False,False,True
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,False,False,True
+,,I feel that this chatbot is similar to me,,,,,,False,True,True,False,False
+,,I would like a Medical Assistant chatbot to speak to me like this,,,,,,False,False,False,False,True
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,False,False,False,True
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,False,False,False,True
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,False,True
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,False,True,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,False,True
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

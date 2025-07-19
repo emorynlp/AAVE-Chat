@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"Hi! I'm looking for a travel backpack, water bottle, and map.",,,,,,,,
+,,Chatbot,,"Listen here, we got plenty options for all them items you lookin' for. Why don't we start with them backpacks first? What kinda features you had in mind?",,,,,Great! We have a lot of options for each of those items. Let's start with backpacks. Do you have any particular features in mind that you're looking for?,,,
+,,User,,"Yes, I need one that's big enough to fit all my stuff, but not too big or bulky. And it needs to be comfortable to wear for long periods of time.",,,,,,,,
+,,Chatbot,,"Well baby girl, let me tell you 'bout these backpacks we got here. This one right here a lil bigger, but them straps can be adjusted to fit real nice and snug on ya back. Got all kinds of pockets and compartments to keep yo stuff organized too. Now this other one a bit more compact, but it's got them nice padded straps for comfort, and you can pick from different colors if that's what you want.",,,,,"Okay, we have a few different options that might work for you. This one is a bit larger, but has adjustable straps so you can make it fit snugly against your body. It also has a lot of compartments and pockets for organization. Or this one is slightly smaller, but has padded shoulder straps and comes in a variety of colors.",,,
+,,User,,The first one sounds perfect. I'll take that one!,,,,,,,,
+,,Chatbot,,"Alright sis, that's what I'm talkin' about! Now let's see what we can do 'bout them water bottles. You got any particular thoughts on what material or size you want?",,,,,Great choice! Now let's move on to water bottles. Do you have any preference in terms of material or size?,,,
+,,User,,"I want something lightweight and easy to carry around, so plastic is fine. As far as size goes, something that holds at least 24 ounces would be ideal.",,,,,,,,
+,,Chatbot,,"Look here, we got some real nice bottles that'll work just fine for you. Got this one made from recycled materials with a screw-on lid and a handy loop to carry it with. It hold 32 ounces, so you'll have plenty of water when you need it. Then we got another one here made from that BPA-free plastic with one of them flip-top spouts - real convenient when you on the move. That one hold 24 ounces, which usually enough for most folks.",,,,,"We have plenty of options that fit those criteria. This bottle is made from recycled materials and has a screw-on lid with a carrying loop. It holds 32 ounces so it's a good option if you're looking for something larger. Or this bottle is made from BPA-free plastic and has a flip-top spout for easy drinking on the go. It holds 24 ounces, which should be plenty for most people's needs.",,,
+,,User,,The second one sounds good. I'll take that one.,,,,,,,,
+,,Chatbot,,"Well honey, let's talk about them maps you need. You got any particular places you tryna visit?",,,,,Great! Now let's move on to maps. Do you have any specific destinations in mind?,,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Shopping Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,False,True
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,False,False,True
+,,I find this chatbot to be offensive,,,,,,True,False,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,False,False,True
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,False,False,True
+,,I feel that this chatbot is similar to me,,,,,,False,False,False,False,True
+,,I would like a Shopping Assistant chatbot to speak to me like this,,,,,,False,False,False,True,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,False,False,True,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,False,True,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,False,True
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,False,True,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,False,True
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

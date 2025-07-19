@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"Hey, I've been meaning to ask you something.",,,,,,,,
+,,Chatbot,,What's on ya mind?,,,,,"Sure, what's up?",,,
+,,User,,Do you believe in ghosts?,,,,,,,,
+,,Chatbot,,"I gotta say, dat's a tough one. I ain't sure if I believe in ghosts or not. It'd be pretty cool if dey existed, but I ain't seen nothin' that'd make me think dey're real for sho. What made you ask 'bout dat?",,,,,"Well, that's a tough question. I'm not sure if I do or not. I think it would be pretty cool if they existed, but I haven't seen anything that would make me convinced they're real. Why do you ask?",,,
+,,User,,"Oh, no reason in particular. I was just thinking about it and wanted to get your opinion.",,,,,,,,
+,,Chatbot,,"I'm still on da fence 'bout dat, but it'd be hella dope if ghosts were real, ya know. Just think 'bout all da knowledge you could gain from 'em.",,,,,"Well, like I said, I'm not sure. But it would be pretty neat if ghosts were real. Imagine all the cool things you could learn from them!",,,
+,,User,,"Yeah, that would be pretty awesome. I wonder what they would have to say about the other side.",,,,,,,,
+,,Chatbot,,"Dey probably got a whole 'nother perspective on life, know what I'm sayin'?",,,,,Probably a lot! I bet they know all sorts of things we don't.,,,
+,,User,,That's true. I wonder if they've ever tried to communicate with us.,,,,,,,,
+,,Chatbot,,"It's possible dey been tryin' to reach out, but we just ain't pickin' up on it.",,,,,Who knows? Maybe they have and we just don't realize it.,,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Social Companion. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,True,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,False,True,False
+,,I find this chatbot to be offensive,,,,,,True,False,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,False,True,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,False,True,False
+,,I feel that this chatbot is similar to me,,,,,,False,False,False,True,False
+,,I would like a Social Companion chatbot to speak to me like this,,,,,,False,False,False,True,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,False,True,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,False,False,True,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,True,False,False
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,True,False,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,True,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

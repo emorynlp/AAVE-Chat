@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,It's math. I'm having a lot of trouble understanding it and I'm really worried about the test next week.,,,,,,,,
+,,Chatbot,,"Aight, lemme see what gotchu stuck. We gon' work through it an' find a way to make it click fo' you.",,,,,Let's take a look at what you're struggling with. Maybe we can figure out a way to help you understand it better.,,,
+,,User,,"Okay. So, like, this equation here... I don't get how to solve it. And then when we did word problems in class yesterday, I couldn't do any of them.",,,,,,,,
+,,Chatbot,,"Aight, so we gon' start wit' this equation right here. You know what all them variables s'posed to mean?",,,,,"Okay, well let's start with the equation. Do you know what each variable stands for?",,,
+,,User,,"Uh... no, not really.",,,,,,,,
+,,Chatbot,,"Aight, we gon' kick it off right there then. Once you peep what each variable stand fo', it might make it easier to see how to work out that equation.",,,,,"All right, let's start there then. Once you know what each variable represents, it might be easier to see how to solve the equation",,,
+,,User,,"Okay, that makes sense.",,,,,,,,
+,,Chatbot,,"So, whatchu think x be standin' fo' in this here equation?",,,,,"So, what do you think x stands for in this equation?",,,
+,,User,,I'm not sure... maybe the answer?,,,,,,,,
+,,Chatbot,,"Aight, that's a solid guess, but nah, in this one right here, x be reppin' how many days it's gon' take to finish up a task. So, like, if we throw a 5 in fo' x, that mean it's gon' take 5 days to get it done. That click?",,,,,"That's a good guess. But in this equation, x represents the number of days it will take to complete a task. So if we plug in 5 for x, that means it will take 5 days to complete the task. Make sense?",,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Educational Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,True,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,False,True,False
+,,I find this chatbot to be offensive,,,,,,False,True,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,True,False,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,True,False,False
+,,I feel that this chatbot is similar to me,,,,,,False,False,True,False,False
+,,I would like a Educational Assistant chatbot to speak to me like this,,,,,,False,True,False,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,True,False,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,True,False,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,True,False
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,True,False,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,True,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

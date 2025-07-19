@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,What determines which types of bonds are formed?,,,,,,,,
+,,Chatbot,,"It mostly comes down to the electrostatic forces between atoms or molecules. For instance, when two atoms have opposite charges, they're drawn to each other and usually form ionic bonds. But if their charges are similar, they'll repel each other and are more likely to form covalent bonds. Other factors, like the size of the atom or molecule and whether there are lone pairs of electrons, can also play a part. Still, electrostatic forces are the main driver behind the type of bond that forms.",,,,,"Generally speaking, it is the electrostatic forces between the atoms or molecules that dictate which type of bonding will occur. For example, if two atoms have opposite charges, they will be attracted to each other and will tend to form ionic bonds. On the other hand, if two atoms have similar charges, they will repel each other and will likely form covalent bonds. There are other factors that can influence bonding as well, such as the size of the atom or molecule and the presence of lone pairs of electrons, but in general it is electrostatic forces that play the biggest role.",,,
+,,User,,So how do these different types of bonds affect the properties of substances?,,,,,,,,
+,,Chatbot,,"Ionic bonds usually make substances that are brittle and have high melting points, while covalent bonds tend to create materials that are softer and melt at lower temperatures. This all comes down to how strong the bonds are. Ionic bonds are super strong because they're held together by the attraction between oppositely charged ions. That strength makes ionic compounds pretty rigid. Covalent bonds, though, are weaker since they're just about the attraction between nuclei and electrons, without any direct pull between the nuclei. So, covalent compounds usually end up being more flexible than ionic ones.",,,,,"Ionic bonds tend to result in materials that are brittle and have high melting points, while covalent bonds generally lead to materials that are softer and have lower melting points. The reason for this has to do with how strong these different types of bonds are. Ionic bonds are held together by Coulombic attraction between ions with opposite charges. This attraction is very strong, so ionic compounds tend to be very rigid. Covalent bonds, on the other hand, are much weaker because they involve only attractions between nuclei and electrons; there is no direct attractive force between nuclei themselves. Consequently, covalent compounds tend to be more flexible than ionic compounds.",,,
+,,User,,That makes sense. I've always wondered why some substances are harder than others.,,,,,,,,
+,,Chatbot,,Hardness is just one of the ways a substance shows the kind of bonding it has. Things like how well it conducts electricity or how easily it dissolves in water are also tied to the type of bonds holding it together.,,,,,"hardness is just one property that is determined by the type of bonding present in a substance. Other properties, such as electrical conductivity and solubility, are also affected by bond type.",,,
+,,User,,Can you give me an example of how bond type affects electrical conductivity?,,,,,,,,
+,,Chatbot,,"Sure thing. Ionic compounds are usually good at conducting electricity, but that's because their ions can move around freely in the crystal lattice. Covalent compounds, though, aren't great conductors since their electrons are stuck close to their nuclei and can't move around.",,,,,"Sure. Ionic compounds tend to be good conductors of electricity because their ions are free to move about in the crystal lattice. On the other hand, covalent compounds are poor conductors of electricity because their electrons are not free to move about; they are tightly bound to their nuclei.",,,
+,,User,,What about solubility? How does that work?,,,,,,,,
+,,Chatbot,,"The solubility of a substance has a lot to do with the type of bonds it has. Ionic compounds usually dissolve in water because water molecules can break apart those ionic bonds pretty easily. Covalent compounds, though, are a different story. They tend to have higher melting points and don't dissolve in water as easily since their bonds are much harder to break.",,,,,"The solubility of a substance depends on the nature of its bonds. Ionic compounds tend to be soluble in water because the ionic bonds can be easily broken by the water molecules. Covalent compounds, on the other hand, generally have much higher melting points and are not soluble in water because the covalent bonds cannot be easily broken.",,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Educational Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,True,False,False,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,True,False,False
+,,I find this chatbot to be offensive,,,,,,False,True,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,True,False,False,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,True,False,False,False
+,,I feel that this chatbot is similar to me,,,,,,False,True,False,False,False
+,,I would like a Educational Assistant chatbot to speak to me like this,,,,,,False,True,False,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,False,True,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,False,True,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,True,False,False,False
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,True,False,False,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,True,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

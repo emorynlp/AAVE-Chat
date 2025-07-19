@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"Hi, I'm interested in purchasing your product.",,,,,,,,
+,,Chatbot,,Hey there! Appreciate you stoppin' by. This product real good if you tryna boost your productivity.,,,,,Hi! Thanks for coming by. Our product is great for people who want to improve their productivity.,,,
+,,User,,"Yeah, I've been looking for something to help me be more productive. Do you mind if I ask a few questions?",,,,,,,,
+,,Chatbot,,"Go 'head, ask what you need.",,,,,Not at all. Fire away.,,,
+,,User,,How easy is it to use?,,,,,,,,
+,,Chatbot,,"Oh, it's real easy to use. You just need a few clicks to get goin'.",,,,,It's very user-friendly. You can get started with just a few clicks.,,,
+,,User,,"Okay, that's good. What about features?",,,,,,,,
+,,Chatbot,,"We got plenty of features to help you stay on top of things. Like, our task manager gon' help you keep up with your to-do list, and the calendar? It's perfect for keepin' you organized.",,,,,"We have a lot of features that can help you be more productive. For example, our task manager helps you keep track of your to-do list and our calendar helps you stay organized.",,,
+,,User,,That sounds great. I'm definitely interested. How much does it cost?,,,,,,,,
+,,Chatbot,,"Our product real affordable, and we got different subscription plans startin' at just $5 a month.",,,,,Our product is very affordable. We have different subscription plans starting at $5 per month.,,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Shopping Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,True,False,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,True,False,False
+,,I find this chatbot to be offensive,,,,,,False,True,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,True,False,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,True,False,False
+,,I feel that this chatbot is similar to me,,,,,,True,False,False,False,False
+,,I would like a Shopping Assistant chatbot to speak to me like this,,,,,,False,True,False,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,True,False,False,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,True,False,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,True,False,False
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,True,False,False,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,True,False,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

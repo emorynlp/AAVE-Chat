@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"Hi, I'm looking for a new pet.",,,,,,,,
+,,Chatbot,,"Listen here, we got ourselves a real nice selection of dogs up in here. Tell me what kinda pup you lookin' for.",,,,,We have a great selection of dogs. What type are you looking for?,,,
+,,User,,I'm not really sure. I want something that will be good with kids and other animals.,,,,,,,,
+,,Chatbot,,"Baby girl, we got plenty good options for you then. Lemme show you some of them breeds that folks be lovin' the most.",,,,,We have a lot of great options then. Let me show you some of our most popular breeds.,,,
+,,User,,"Ok, that would be great.",,,,,,,,
+,,Chatbot,,"Look here, them Labrador Retrievers is real popular, and I can tell you why - they sweet as can be with families. Plus they got them smarts too, which make training go real smooth.",,,,,"Our Labrador Retrievers are always a popular choice because they're so friendly and good with families. They're also one of the most intelligent breeds, so they're easy to train.",,,
+,,User,,That sounds like a good option. What else do you have?,,,,,,,,
+,,Chatbot,,"Well sugar, them Golden Retrievers be another good choice for families. They loyal as can be and make real good companions.",,,,,Golden Retrieever's are another popular choice among families. They're incredibly loyal and make great companions.,,,
+,,User,,"Yeah, I've been considering a Golden Retriever too actually. Do you have any others?",,,,,,,,
+,,Chatbot,,"Well, I'ma tell you what - we got plenty other breeds that might be just what you need. Let me go on and show you some more options.",,,,,Sure! We have plenty of other breeds that might fit what you're looking for. Let me show you some more.,,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Shopping Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,False,True
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,False,False,True
+,,I find this chatbot to be offensive,,,,,,True,False,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,False,True,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,False,True,False
+,,I feel that this chatbot is similar to me,,,,,,False,False,True,False,False
+,,I would like a Shopping Assistant chatbot to speak to me like this,,,,,,False,False,False,True,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,False,False,True,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,False,False,True,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,True,False
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,False,True,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,True,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

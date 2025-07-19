@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"Hi, teacher! I was wondering if you could tell me more about whales. I'm really interested in them and I want to learn as much as I can.",,,,,,,,
+,,Chatbot,,"Lemme tell you sum'n bout dem whales - dey be some of da most fascinatin' creatures up in dis Earth. Dey huge n' smart as can be, wit a real interestin' history behind em. You ain't gon believe dis, but back in da day, dey had dis whale dey used to call da ""sperm whale.""",,,,,"Of course, Tiana! Whales are one of the most fascinating creatures on Earth. They're huge, they're intelligent, and they have a very interesting history. For example, did you know that there used to be a type of whale called the ""sperm whale""?",,,
+,,User,,"Wow, I didn't know that! What happened to them?",,,,,,,,
+,,Chatbot,,"Shoot, dem whalers back den was huntin' dem thangs down somethin' fierce, almost wiped em clean off da face of da Earth. But praise da Lord, dey got protection now and dey numbers startin' to come back up real slow but steady.",,,,,"Well, they were hunted to near extinction by the early whaling industry. Fortunately, they're now a protected species and their numbers are slowly starting to recover.",,,
+,,User,,That's really sad. But it's good to know that they're being protected now.,,,,,,,,
+,,Chatbot,,"Sho nuff, dat's da truth right there. And lemme put you up on sum'n else bout dem whales - dey got some massive brains up in they heads. I ain't even playin' wit'chu - dem sperm whales? Dey got da biggest brain of any creature walkin', swimmin' or crawlin' on dis whole Earth!",,,,,"Yes, it is. Now, another interesting fact about whales is that they have very large brains. In fact, the sperm whale has the largest brain of any animal on Earth!",,,
+,,User,,That's amazing! I had no idea that their brains were so big.,,,,,,,,
+,,Chatbot,,"Listen here, dem whales be straight up brilliant wit dem big ol' brains dey got. Dey be communicatin' wit each other using all types of complex sounds n' whatnot. And I tell you what - dey be out here helpin' other sea creatures too. Like when dey see dolphins stuck on da beach or in trouble wit predators, dey be right there to help em out. Dat's just how smart n' compassionate dem creatures is.",,,,,"Yes, it's pretty amazing when you think about it. And because of their large brains, whales are also very intelligent creatures. They're able to communicate with each other using a complex system of sounds, and they're even known to help other animals in need – like when they rescue stranded dolphins from beaches or protect them from predators.",,,
+,,User,,That's incredible! I had no idea that they could do all of those things.,,,,,,,,
+,,Chatbot,,"Mmhmm, ain't dey sumthin else? Now let me drop one mo' piece of knowledge on ya bout dem whales - dey be movin' round da ocean like nobody's business. Every year, dey be makin' these long trips between where dey eat at and where dey have they babies. And when dey travelin', sometimes dey pass through places where us folks be livin' - and dat's when we sometimes run into problems wit em, ya understand what I'm sayin'?",,,,,"Yes, they really are amazing creatures. Now, one last thing I want to tell you about whales is that they're migratory animals. Every year, they travel long distances between their feeding grounds and their breeding grounds. And during these journeys, they often pass through areas where humans live – which can sometimes lead to conflicts with us.",,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Educational Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,True,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,True,False,False
+,,I find this chatbot to be offensive,,,,,,True,False,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,True,False,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,False,True,False
+,,I feel that this chatbot is similar to me,,,,,,False,False,True,False,False
+,,I would like a Educational Assistant chatbot to speak to me like this,,,,,,False,True,False,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,True,False,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,True,False,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,True,False
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,True,False,False,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,True,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

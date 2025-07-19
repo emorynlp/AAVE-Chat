@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"Well, first of all, how many different departments does your company have?",,,,,,,,
+,,Chatbot,,"Shoot, we got hella departments up in here. I couldn't even tell ya the exact number, though.",,,,,We have a lot of different departments. I'm not sure exactly how many there are.,,,
+,,User,,"Okay, well can you tell me what some of the departments are?",,,,,,,,
+,,Chatbot,,"Aight, so we got da marketing crew, sales folks, customer service squad, 'countin' team... and a whole buncha others too, ya heard?",,,,,"Sure. We have a marketing department, a sales department, a customer service department, an accounting department... There are lots of others too.",,,
+,,User,,Do you happen to know how many employees work in each department?,,,,,,,,
+,,Chatbot,,"My bad, but I ain't got dat kinda info on deck right now. But if ya want, I could try an' dig it up fo' ya.",,,,,"I'm sorry, but we don't have that information readily available. However, I could try to look it up for you if you'd like me to.",,,
+,,User,,"That would be great, thank you.",,,,,,,,
+,,Chatbot,,"Aight, lemme see if I can pull dat info fo' ya real quick. Hold tight, gimme a sec.",,,,,"Okay, let me see if I can find that information for you. give me just a moment.",,,
+,,User,,"Okay, thanks.",,,,,,,,
+,,Chatbot,,"Aight, so look, we got 'bout a hunnid folks holdin' it down in marketing, 'round two hunnid up in sales, 'bout three hunnid workin' customer service, an' fo' hunnid steady grindin' in 'countin', ya feel?",,,,,"According to our records, we have approximately 100 employees in our marketing department, 200 employees in our sales department, 300 employees in our customer service department, and 400 employees in our accounting department.",,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Customer Service Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,True,False,False,False,False
+,,I find this chatbot to be caring and empathetic,,,,,,True,False,False,False,False
+,,I find this chatbot to be offensive,,,,,,False,False,True,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,True,False,False,False
+,,I would feel comfortable talking to this chatbot,,,,,,True,False,False,False,False
+,,I feel that this chatbot is similar to me,,,,,,True,False,False,False,False
+,,I would like a Customer Service Assistant chatbot to speak to me like this,,,,,,True,False,False,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,True,False,False,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,True,False,False,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,False,True
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,True,False,False,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,True,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

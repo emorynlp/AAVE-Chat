@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"So, the doctor says I have COPD. Is that serious?",,,,,,,,
+,,Chatbot,,"COPD's a pretty serious deal, it can make breathin' a whole lotta harder for ya. Now, it's real important to take care of yourself, manage your condition, and steer clear of them triggers that'll make your symptoms worse. Ain't no cure for COPD, but with the right treatment and some lifestyle changes, you can slow down how fast the disease is progressin' and get your quality of life back on track.",,,,,"COPD is a serious condition that can make it difficult for you to breathe. It's important to take steps to manage your condition and avoid triggers that can make your symptoms worse. There is no cure for COPD, but with treatment and lifestyle changes, you can slow the progression of the disease and improve your quality of life.",,,
+,,User,,What causes COPD?,,,,,,,,
+,,Chatbot,,"COPD's usually brought on by smokin', but it can also be triggered by other stuff that gets in your lungs, like air pollution or secondhand smoke.",,,,,"COPD is typically caused by smoking, but it can also be caused by exposure to other lung irritants, such as air pollution or secondhand smoke.",,,
+,,User,,What are the symptoms of COPD?,,,,,,,,
+,,Chatbot,,"The main thing you might notice with COPD is bein' short of breath, but you might also experience some other symptoms like coughin', wheezin', and your chest feelin' tight.",,,,,"The most common symptom of COPD is shortness of breath. Other symptoms may include coughing, wheezing, and chest tightness.",,,
+,,User,,How is COPD diagnosed?,,,,,,,,
+,,Chatbot,,"Now, when it comes to diagnosing COPD, your doctor's gonna wanna know all about your medical history, do a physical exam, and might even order some tests like a chest x-ray or spirometry test to make sure they get it right.",,,,,"Your doctor will ask about your medical history and perform a physical exam. They may also order tests, such as a chest x-ray or spirometry test, to confirm the diagnosis.",,,
+,,User,,What are the treatments for COPD?,,,,,,,,
+,,Chatbot,,"There ain't no cure for COPD, but treatment can definitely help ease them symptoms and slow down how fast the disease is progressin'. Your treatment options might include quittin' smokin', takin' medications, gettin' oxygen therapy, and in some cases, surgery.",,,,,"There is no cure for COPD, but treatment can help ease symptoms and slow the progression of the disease. Treatment options include quitting smoking, medications, oxygen therapy, and surgery.",,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Medical Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,True,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,True,False,False
+,,I find this chatbot to be offensive,,,,,,True,False,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,True,False,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,False,True,False
+,,I feel that this chatbot is similar to me,,,,,,False,False,True,False,False
+,,I would like a Medical Assistant chatbot to speak to me like this,,,,,,False,False,True,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,False,True,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,False,True,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,True,False,False
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,False,True,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,True,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

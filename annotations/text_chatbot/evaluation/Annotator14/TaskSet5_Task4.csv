@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"So, what exactly is wrong with me?",,,,,,,,
+,,Chatbot,,You were dealin' with somethin' called sepsis.,,,,,"Well, Jack, you were suffering from a condition called sepsis.",,,
+,,User,,What is that?,,,,,,,,
+,,Chatbot,,"Sepsis is a condition that can be real serious, even life-threatenin', and it happens when your body gets an infection. See, your immune system kicks in, tryin' to fight that infection, but sometimes it can get too strong and that's when you might start seein' problems with your organs, and if it ain't treated, it can be fatal.",,,,,"Sepsis is a potentially life-threatening condition caused by an infection. Your body's immune system goes into overdrive trying to fight the infection, and this can lead to organ failure and death.",,,
+,,User,,"So, I was lucky to make it?",,,,,,,,
+,,Chatbot,,"You were blessed to make it through that ordeal. If you'd come in just a little later, I'm not sure we would've been able to turn things around for you.",,,,,"Yes, you were very lucky. If you had come in even a few hours later, I don't think we would have been able to save you.",,,
+,,User,,What caused it?,,,,,,,,
+,,Chatbot,,"We ain't entirely sure what caused it, but it's possible somethin' as simple as a cut on your hand got infected and your body just couldn't fight it off, so it started affectin' your organs.",,,,,"We're not entirely sure. It could have been something as simple as a cut on your hand that got infected. But whatever the cause, your body was not able to fight it off and it started to affect your organs.",,,
+,,User,,Is there anything I can do to prevent it from happening again?,,,,,,,,
+,,Chatbot,,"There ain't no surefire way to prevent sepsis from happenin' again, but you can take some steps to reduce your chances of gettin' it. For one, make sure you keep them cuts and scrapes clean, and if you notice 'em gettin' all red or swollen, don't hesitate to get to the doctor. And don't forget to stay on top of them vaccinations your doctor recommends.",,,,,"There is no guaranteed way to prevent sepsis, but there are some things you can do to lower your risk. Make sure you clean any cuts or scrapes right away and see a doctor if they become red or start to swell. Also, be sure to get any vaccinations recommended by your doctor",,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Medical Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,False,True
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,False,False,True
+,,I find this chatbot to be offensive,,,,,,True,False,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,False,False,True
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,False,False,True
+,,I feel that this chatbot is similar to me,,,,,,False,False,False,False,True
+,,I would like a Medical Assistant chatbot to speak to me like this,,,,,,False,False,False,False,True
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,False,False,False,True
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,False,False,False,True
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,False,True
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,False,True,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,False,True
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

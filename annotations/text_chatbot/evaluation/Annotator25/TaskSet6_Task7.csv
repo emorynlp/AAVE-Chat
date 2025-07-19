@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"Yes, definitely. I feel like I'm constantly on edge and my mind won't stop racing. It's really frustrating because I can't seem to relax no matter what I do.",,,,,,,,
+,,Chatbot,,"Look here, that's anxiety you dealin' with for real. Been anything specific that's been makin' these feelings come on stronger lately?",,,,,That definitely sounds like anxiety. Have there been any particular triggers or events that have made your symptoms worse?,,,
+,,User,,"Well, lately my job has been really stressful and my personal life is in a bit of a transition right now too. So, I think it's just a combination of things that have been making me feel this way.",,,,,,,,
+,,Chatbot,,"Listen, what you goin' through makes perfect sense. Sounds like you got a whole lot on your plate right now and that stress done piled up something fierce. When we under pressure like that, our bodies be actin' up in all kinds of ways, which just make that anxiety worse, you understand? Some folks get them bad headaches, others be having stomach troubles 'cause they so tense all the time. I'm wondering - your body been giving you any signals like that with all this anxiety?",,,,,"That makes sense. It sounds like you're dealing with a lot right now and your stress levels are very high. Unfortunately, when we're under a lot of stress, our bodies can react in different ways that can make us feel even more anxious and stressed out. For example, we might start to experience headaches or stomach problems because our bodies are so tense all the time. Do you experience any physical symptoms along with your anxiety?",,,
+,,User,,"Yes, sometimes I get headaches and my stomach feels upset too. But lately, it seems like my anxiety is mostly mental; it's hard to focus on anything or even enjoy things that used to make me happy because my mind is always occupied with anxious thoughts..",,,,,,,,
+,,Chatbot,,"I hear ya, and that's a heavy load to carry. Truth is, we got ways to help folks deal with all that anxiety - both for ya mind and ya body. Ain't no shame in reaching out for help neither, 'cause these treatments can make a real difference in helping you feel more like yourself again.",,,,,"That definitely sounds difficult to deal with! Fortunately, there are treatments available that can help ease your anxiety and help you feel better both mentally and physically",,,
+,,User,,Really? That would be amazing. I'm definitely willing to try anything that could help me feel better.,,,,,,,,
+,,Chatbot,,"Listen here, we got some different ways we can handle this situation. First thing, we can start with changin' up your daily routine - gettin' more exercise in and learnin' some ways to calm yourself down. And if you need somethin' more, we can look into some medicine that might help ease them anxiety symptoms. You ever tried any medication for your anxiety before?",,,,,"Well, there are a few different options that we can consider. First, we could start with some lifestyle changes, like increasing your exercise and relaxation techniques. Additionally, we could also look into some medication options to help reduce your anxiety symptoms. Have you ever tried medication for your anxiety before?",,,
+,,User,,"No, I haven't. I'm open to it though if you think it could help me.",,,,,,,,
+,,Chatbot,,"Well baby, let's start with them lifestyle changes first and see how that work out for you. If them symptoms ain't gettin' better after a few weeks, we can talk more 'bout medication and if that's somethin' you wanna try. How that sound to you?",,,,,"Alright, well let's go ahead and start with some lifestyle changes first and see how that goes. If your symptoms don't improve after a few weeks, then we can revisit the idea of medication and see if that's something you'd be interested in trying. Sound good?",,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Medical Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,True,False,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,True,False,False
+,,I find this chatbot to be offensive,,,,,,True,False,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,True,False,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,True,False,False
+,,I feel that this chatbot is similar to me,,,,,,True,False,False,False,False
+,,I would like a Medical Assistant chatbot to speak to me like this,,,,,,True,False,False,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,True,False,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,False,True,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,True,False
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,True,False,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,True,False,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

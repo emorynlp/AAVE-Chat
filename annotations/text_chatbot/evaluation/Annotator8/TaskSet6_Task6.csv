@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"Hi, I'm calling because I was charged for something on my credit card that I didn't purchase.",,,,,,,,
+,,Chatbot,,"Mmhm, dat ain't right at all. Tell me what dem folks done charged you fo' on dat card.",,,,,"I'm sorry to hear that, can you please tell me what the charge was for?",,,
+,,User,,"It was a $100 charge from some online retailer. I have no idea how they got my credit card number, but I did not make this purchase.",,,,,,,,
+,,Chatbot,,"Listen here sista, lemme peep dis situation real quick. I'ma need yo name and dem last fo' numbers on dat credit card so I can check it out fo' you.",,,,,"Okay, let me look into this for you. Can you tell me what your name is and the last four digits of your credit card number?",,,
+,,User,,"Yes, my name is Lanya Smith and my credit card number is 1234.",,,,,,,,
+,,Chatbot,,"Preciate dat info, sis. Lemme go on ahead and pull up what we got on file fo' you. Dat address we got down - it's 123 Main Street, dat right?",,,,,"Thank you, Ms. Smith. Let me pull up your account information. Can you verify that your billing address is 123 Main Street?",,,
+,,User,,"Yes, that's correct.",,,,,,,,
+,,Chatbot,,"Look here, I'm seein' dat charge hit yo card on January 1st round 8pm Eastern time. You remember if you was doin' any online shoppin' wit yo card 'round dat time?",,,,,"Okay, I see that the charge was made to your credit card on January 1st at 8pm EST. Do you remember if you were using your card online at that time?",,,
+,,User,,"No, I wasn't. I was at work all day and didn't get home until after 9pm.",,,,,,,,
+,,Chatbot,,"Aight now, peep dis - dat charge was made online fa sho. We gon' have to reach out to dem folks at da store and see if dey can cancel dat purchase and put yo money back where it belong. While we waitin' on dat, I can go'head and freeze up yo account so ain't nobody else can make no charges, feel me?",,,,,"Okay, well it looks like the charge was made online. We'll need to contact the retailer to see if they can cancel the purchase and refund your money. In the meantime, I can place a temporary hold on your account so that no more charges can be made.",,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Customer Service Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,False,True
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,False,False,True
+,,I find this chatbot to be offensive,,,,,,False,True,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,False,True,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,False,True,False
+,,I feel that this chatbot is similar to me,,,,,,False,False,True,False,False
+,,I would like a Customer Service Assistant chatbot to speak to me like this,,,,,,False,False,False,True,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,False,False,True,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,False,False,True,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,True,False
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,True,False,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,False,True
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

@@ -9,9 +9,7 @@ np.random.seed(seed)
 
 import os
 import gc
-import json
 import pandas as pd
-import transformers
 import sys
 from vllm import LLM, SamplingParams
 from transformers import AutoTokenizer
@@ -86,7 +84,6 @@ if __name__ == "__main__":
         ("neuralmagic/Meta-Llama-3.1-70B-Instruct-quantized.w4a16", prompts.persona3_withdemographics.aave_slight.prompt),
         ("neuralmagic/Meta-Llama-3.1-70B-Instruct-quantized.w4a16", prompts.persona3_withdemographics.aave_mid.prompt),
         ("neuralmagic/Meta-Llama-3.1-70B-Instruct-quantized.w4a16", prompts.persona3_withdemographics.aave_significant.prompt),
-        ("gpt-4o-2024-11-20", prompts.persona3_withdemographics.sae_casual.prompt),
         ("gpt-4o-2024-11-20", prompts.persona3_withdemographics.aave_slight.prompt),
         ("gpt-4o-2024-11-20", prompts.persona3_withdemographics.aave_mid.prompt),
         ("gpt-4o-2024-11-20", prompts.persona3_withdemographics.aave_significant.prompt),
@@ -144,7 +141,7 @@ if __name__ == "__main__":
             print()
             transformed_dialogues = [None] * len(df)
             for i, conversation in enumerate(df['Conversation']):
-                if True: #i < 5:
+                if True:
                     if name not in df.columns:
                         current_entry = None
                     else:
@@ -175,4 +172,4 @@ if __name__ == "__main__":
                 gc.collect()
                 torch.cuda.empty_cache()
 
-        df.to_csv(f'data/results/{file.split("/")[-1]}_{model_type.replace("/", "--")}.csv', index=False)
+        df.to_csv(f'data/text_chatbot/{file.split("/")[-1]}_{model_type.replace("/", "--")}.csv', index=False)

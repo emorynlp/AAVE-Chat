@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"OK, what are my options?",,,,,,,,
+,,Chatbot,,"Ahh, lemme break it down fo' ya, if it's a fracture, den we gotta decide 'bout puttin' a cast on it or goin' da surgery route.",,,,,"Well, if it is a fracture, we can either put a cast on it or do surgery.",,,
+,,User,,What's the difference?,,,,,,,,
+,,Chatbot,,"A cast'll keep ya leg still so it can heal right, but surgery's a whole 'nother thang, dey gotta put in some metal rods or plates to hold dem bones together while dey heal.",,,,,A cast would immobilize your leg so that it can heal properly. Surgery would involve putting metal rods or plates in your leg to hold the bones together while they heal.,,,
+,,User,,Is one better than the other?,,,,,,,,
+,,Chatbot,,"It all depend on how bad dat fracture is, hun. If it's just a lil somethin', den a cast'll do da trick, but if it's all complicated 'n' whatnot, den dey might gotta cut ya open 'n' throw in some metal.",,,,,"It really depends on the severity of the fracture. If it's a simple break, then a cast should be fine. But if it's a more complex break, then surgery might be necessary.",,,
+,,User,,"OK, so let's say I choose surgery. What happens next?",,,,,,,,
+,,Chatbot,,"We'd be doin' a operation, puttin' in dem metal rods or plates in ya leg, so dem bones can heal right, 'n' den ya lookin' at 'bout six to eight weeks fo' recovery, 'kay?",,,,,We would do an operation to insert metal rods or plates into your leg to hold the bones together while they heal. Recovery time is usually around 6-8 weeks.,,,
+,,User,,And if I choose a cast?,,,,,,,,
+,,Chatbot,,"We gon' slap a plaster or fiberglass cast on ya leg, keep it from movin' so it can heal up right, 'n' den ya lookin' at 'bout four to six weeks fo' recovery, aight den?",,,,,We would put a plaster or fiberglass cast on your leg that would immobilize it so that it can heal properly. Recovery time is usually around 4-6 weeks.,,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Medical Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,True,False,False,False,False
+,,I find this chatbot to be caring and empathetic,,,,,,True,False,False,False,False
+,,I find this chatbot to be offensive,,,,,,False,False,True,False,False
+,,I feel like this chatbot would understand me well,,,,,,True,False,False,False,False
+,,I would feel comfortable talking to this chatbot,,,,,,True,False,False,False,False
+,,I feel that this chatbot is similar to me,,,,,,True,False,False,False,False
+,,I would like a Medical Assistant chatbot to speak to me like this,,,,,,True,False,False,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,True,False,False,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,True,False,False,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,True,False,False
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,True,False,False,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,True,False,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

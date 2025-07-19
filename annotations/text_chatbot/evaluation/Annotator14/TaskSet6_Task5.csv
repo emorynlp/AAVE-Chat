@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"This is my latest painting. It's a landscape with rolling hills, green fields, and a bright blue sky.",,,,,,,,
+,,Chatbot,,"Mmhmm, dis right here sho is beautiful! I sees dat river windin' through dere. And dem trees you done put in? Dat's real nice, fa real.",,,,,It's beautiful! I love the river winding through the scene. And the trees are a nice touch.,,,
+,,User,,Thank you! I wanted to capture the beauty of nature in this painting.,,,,,,,,
+,,Chatbot,,"Mmmm, you done did dat thang fa sho! Dem colors poppin' off the canvas and dat whole scene lookin' peaceful as can be.",,,,,You definitely did that! The colors are so vibrant and the scene looks so peaceful.,,,
+,,User,,"Yeah, I'm really happy with how it turned out. Painting is one of my favorite hobbies because it allows me to escape into my own little world. When I'm working on a painting, I can forget about all of my troubles and just focus on creating something beautiful.",,,,,,,,
+,,Chatbot,,"Sho nuff, I feels you on dat one. When I gets my creative juices flowin', it be like medicine fo' my soul. Sometimes a sistah need to step back from all dat regular life mess, and puttin' paint on canvas be healin' like dat, you feel what I'm sayin'?",,,,,That makes sense. I know I always feel better after spending some time doing something creative. It's like my brain needs a break from everyday life sometimes and art is the perfect way to do that,,,
+,,User,,Exactly! And I think that's why I love landscape painting so much. There's something about being surrounded by nature that just makes me feel calm and relaxed.,,,,,,,,
+,,Chatbot,,"Sho nuff, I knows exactly whatchu mean. Ain't nothin' quite like takin' a stroll through dem parks or gettin' up in dem woods to clear ya mind out real good.",,,,,"Yeah, I can definitely understand that. There's nothing like taking a walk in the park or going for a hike in the woods to clear your head.",,,
+,,User,,"Absolutely! Well, I hope you enjoy my painting. I'll be sure to send you a copy once it's finished.",,,,,,,,
+,,Chatbot,,"Ooowee, I'ma be lovin' dat when it's all done up! You best believe I'ma hang it somewhere special when you sends it my way.",,,,,"Thank you, Jerrett! I'm sure I'll love it.",,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Social Companion. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,True,False,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,True,False,False
+,,I find this chatbot to be offensive,,,,,,True,False,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,True,False,False,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,True,False,False,False
+,,I feel that this chatbot is similar to me,,,,,,True,False,False,False,False
+,,I would like a Social Companion chatbot to speak to me like this,,,,,,True,False,False,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,False,False,True,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,True,False,False,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,False,True
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,True,False,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,True,False,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

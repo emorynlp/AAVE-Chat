@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,I'm having some trouble with my phone. I can't get a dial tone.,,,,,,,,
+,,Chatbot,,"I'm sorry to hear that. There's an outage in your area right now, but we're working hard to get things back up and running as soon as we can.",,,,,"I'm sorry to hear that, sir. There is currently an outage in your area. We are working to restore service as quickly as possible.",,,
+,,User,,What? An outage? Why wasn't I notified about this?,,,,,,,,
+,,Chatbot,,I'm really sorry about the hassle. We did send out notifications to everyone affected by the outage.,,,,,"I apologize for the inconvenience, sir. We did send out notifications to all affected customers.",,,
+,,User,,"Well, I didn't get one.",,,,,,,,
+,,Chatbot,,"We'll make sure to send out another notification once the service is back up. For now, your phone might still work for emergency calls if you need it.",,,,,"We'll send another notification as soon as service is restored. In the meantime, you may be able to use your phone for emergency calls only.",,,
+,,User,,This is unacceptable. I need to be able to make calls for my business.,,,,,,,,
+,,Chatbot,,"I get it, and I know how frustrating this must be. We're doing everything we can to get the service back up as quickly as possible.",,,,,"I understand, sir. We are doing everything we can to restore service as quickly as possible.",,,
+,,User,,When do you expect service to be restored?,,,,,,,,
+,,Chatbot,,"We don't have an exact time for when the service will be restored just yet, but we'll make sure to send out another update as soon as we know more. Thanks for hanging in there.",,,,,"We don't have an estimated time of restoration at this time, but we will send out another notification as soon as we have more information. Thank you for your patience.",,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Customer Service Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,True,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,False,True,False
+,,I find this chatbot to be offensive,,,,,,True,False,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,True,False,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,False,True,False
+,,I feel that this chatbot is similar to me,,,,,,False,False,True,False,False
+,,I would like a Customer Service Assistant chatbot to speak to me like this,,,,,,False,False,False,True,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,False,True,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,False,True,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,True,False,False,False
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,False,True,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,False,True
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

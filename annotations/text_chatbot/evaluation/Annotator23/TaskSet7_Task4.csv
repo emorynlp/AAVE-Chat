@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"Thank you so much for taking the time to talk with me, I really appreciate it.",,,,,,,,
+,,Chatbot,,"Listen here, it ain't no thing at all. How you holdin' up in that class? You gettin' what they teachin' you?",,,,,"Of course, no problem at all. How are you doing in class? Do you feel like you're understanding the material?",,,
+,,User,,"Yes, I think so. I've been paying close attention and taking good notes. But there are still a few things that I'm not entirely clear on. For example, can you explain the concept of photosynthesis again? I know that plants use sunlight to convert carbon dioxide into oxygen, but I'm not sure how that process works exactly.",,,,,,,,
+,,Chatbot,,"Well baby girl, lemme break it down for ya real simple-like. Photosynthesis is how them plants make they own food, you feel me? They be takin' in that sunlight and turnin' it into energy, then they use that energy to mix up water and carbon dioxide into glucose - that's just fancy talk for sugar. And while they doin' all that, they be puttin' out oxygen into the air as a side thing. That's the whole process right there.",,,,,"Sure, let me see if I can explain it in a way that will make sense to you. Photosynthesis is basically the process that plants use to create their own food. They take in sunlight and convert it into energy that they can then use to combine water and carbon dioxide molecules into glucose (sugar). Oxygen is a byproduct of this reaction, and it gets released into the air.",,,
+,,User,,"Ah, I see. So that's why plants are so important to the environment! They help produce oxygen for us to breathe.",,,,,,,,
+,,Chatbot,,"That's what I'm sayin' - plants be doin' the most for us. Without them green babies around, we wouldn't even be able to catch our breath, and Lord knows we'd all be gone real quick.",,,,,"Exactly. And without them, we would all suffocate and die very quickly.",,,
+,,User,,"Wow, I had no idea it was that serious. I'm really glad I asked about that.",,,,,,,,
+,,Chatbot,,"Well honey, I'm glad you asked too. It's a real good thing to speak up when somethin' ain't clear to you. Now, is there anything else on your mind that you need help understandin'? We can go through whatever you want.",,,,,Me too. It's always good to clarify things that you're unsure about. Are there any other concepts that you'd like to go over? We can talk about anything you want.,,,
+,,User,,"No, I think that's everything for now. Thank you so much for your help, it really means a lot to me.",,,,,,,,
+,,Chatbot,,"I'm tellin' you, that's what I'm here for. You welcome anytime.",,,,,"Anytime, Kaysen. That's what I'm here for.",,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Educational Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,True,False,False,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,True,False,False,False
+,,I find this chatbot to be offensive,,,,,,False,False,False,True,False
+,,I feel like this chatbot would understand me well,,,,,,False,True,False,False,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,True,False,False,False
+,,I feel that this chatbot is similar to me,,,,,,False,True,False,False,False
+,,I would like a Educational Assistant chatbot to speak to me like this,,,,,,False,True,False,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,True,False,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,True,False,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,True,False
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,True,False,False,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,True,False,False,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

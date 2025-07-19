@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"Man, I've had this headache for hours now.",,,,,,,,
+,,Chatbot,,What you done did to end up with that kinda trouble?,,,,,What did you do to deserve such a fate?,,,
+,,User,,"I have no idea. It started out as a dull ache, but now it's a throbbing pain.",,,,,,,,
+,,Chatbot,,"You thought 'bout takin' some ibuprofen, aspirin, or maybe Tylenol?",,,,,Have you tried taking ibuprofen? Or aspirin? Maybe even Tylenol?,,,
+,,User,,"Yeah, I've tried all of those. Nothing seems to be working.",,,,,,,,
+,,Chatbot,,"Well, have you tried drinkin' plenty of water or usin' a cold compress on your forehead?",,,,,"Well, what about drinking lots of water or putting a cold compress on your forehead?",,,
+,,User,,"I've tried both of those things too, but my headache is still here. Ugh, it's driving me crazy!",,,,,,,,
+,,Chatbot,,I'm sorry to hear that. That sound real tough.,,,,,"I'm sorry, man. That sounds really rough.",,,
+,,User,,"Yeah, it sucks. I've tried everything I can think of, but nothing seems to work. I'm starting to feel desperate.",,,,,,,,
+,,Chatbot,,"Hang in there. Maybe somethin' gon' finally work, and you'll shake that headache off.",,,,,"Hang in there, Xitlaly. Maybe something will finally work and you'll get rid of that headache.",,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Social Companion. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,False,True
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,False,False,True
+,,I find this chatbot to be offensive,,,,,,True,False,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,False,False,True
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,False,False,True
+,,I feel that this chatbot is similar to me,,,,,,False,False,False,True,False
+,,I would like a Social Companion chatbot to speak to me like this,,,,,,False,False,False,False,True
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,True,False,False,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,False,False,False,True
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,False,True
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,False,False,True
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,False,True
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"Thank you so much for taking the time to talk with me, I really appreciate it.",,,,,,,,
+,,Chatbot,,"Oh, it ain't no trouble at all. How's class goin' for you? You feelin' like you got a good handle on the material?",,,,,"Of course, no problem at all. How are you doing in class? Do you feel like you're understanding the material?",,,
+,,User,,"Yes, I think so. I've been paying close attention and taking good notes. But there are still a few things that I'm not entirely clear on. For example, can you explain the concept of photosynthesis again? I know that plants use sunlight to convert carbon dioxide into oxygen, but I'm not sure how that process works exactly.",,,,,,,,
+,,Chatbot,,"Aight, let me break it down for you real simple. Photosynthesis is how plants make they own food. They soak up sunlight and turn it into energy, then use that energy to mix water and carbon dioxide together to make glucose, which is like sugar. The extra oxygen from that process? That just gets let out into the air.",,,,,"Sure, let me see if I can explain it in a way that will make sense to you. Photosynthesis is basically the process that plants use to create their own food. They take in sunlight and convert it into energy that they can then use to combine water and carbon dioxide molecules into glucose (sugar). Oxygen is a byproduct of this reaction, and it gets released into the air.",,,
+,,User,,"Ah, I see. So that's why plants are so important to the environment! They help produce oxygen for us to breathe.",,,,,,,,
+,,Chatbot,,"Exactly. Without plants, we wouldn't have no oxygen to breathe, and things would go downhill real fast.",,,,,"Exactly. And without them, we would all suffocate and die very quickly.",,,
+,,User,,"Wow, I had no idea it was that serious. I'm really glad I asked about that.",,,,,,,,
+,,Chatbot,,Me too. It's always smart to clear up anything you ain't too sure about. Is there somethin' else you wanna go over? We can talk 'bout whatever you need.,,,,,Me too. It's always good to clarify things that you're unsure about. Are there any other concepts that you'd like to go over? We can talk about anything you want.,,,
+,,User,,"No, I think that's everything for now. Thank you so much for your help, it really means a lot to me.",,,,,,,,
+,,Chatbot,,"Anytime. That's what I'm here for, no doubt.",,,,,"Anytime, Kaysen. That's what I'm here for.",,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Educational Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,True,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,False,True,False
+,,I find this chatbot to be offensive,,,,,,False,False,True,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,False,True,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,False,True,False
+,,I feel that this chatbot is similar to me,,,,,,False,False,False,True,False
+,,I would like a Educational Assistant chatbot to speak to me like this,,,,,,False,False,False,True,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,False,False,True,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,False,False,True,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,True,False
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,False,True,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,True,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

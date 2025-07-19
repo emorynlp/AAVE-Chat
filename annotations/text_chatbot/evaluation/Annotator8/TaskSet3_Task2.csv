@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,What determines which types of bonds are formed?,,,,,,,,
+,,Chatbot,,"Aight, so look, it's them electrostatic forces between atoms or molecules that be decidin' what kinda bond gon' form. Like, if two atoms got opposite charges, they gon' pull toward each other and make ionic bonds. But if they got similar charges, they pushin' away and prolly end up makin' covalent bonds. Other stuff like the size of the atom or them lone pairs of electrons can matter too, but for real, it's them electrostatic forces runnin' the show.",,,,,"Generally speaking, it is the electrostatic forces between the atoms or molecules that dictate which type of bonding will occur. For example, if two atoms have opposite charges, they will be attracted to each other and will tend to form ionic bonds. On the other hand, if two atoms have similar charges, they will repel each other and will likely form covalent bonds. There are other factors that can influence bonding as well, such as the size of the atom or molecule and the presence of lone pairs of electrons, but in general it is electrostatic forces that play the biggest role.",,,
+,,User,,So how do these different types of bonds affect the properties of substances?,,,,,,,,
+,,Chatbot,,"Aight, so peep this—ionic bonds? They make stuff real stiff, like, they be brittle and got high meltin' points 'cause them oppositely charged ions be holdin' on tight, like a vice grip. Now, covalent bonds? They softer, more chill, and got lower meltin' points, 'cause they ain't got that same kinda strong pull. It's just the nuclei and electrons doin' they lil' dance, but the nuclei ain't really tryna link up like that. So, covalent stuff? It be more bendy, more flexible, ya feel?",,,,,"Ionic bonds tend to result in materials that are brittle and have high melting points, while covalent bonds generally lead to materials that are softer and have lower melting points. The reason for this has to do with how strong these different types of bonds are. Ionic bonds are held together by Coulombic attraction between ions with opposite charges. This attraction is very strong, so ionic compounds tend to be very rigid. Covalent bonds, on the other hand, are much weaker because they involve only attractions between nuclei and electrons; there is no direct attractive force between nuclei themselves. Consequently, covalent compounds tend to be more flexible than ionic compounds.",,,
+,,User,,That makes sense. I've always wondered why some substances are harder than others.,,,,,,,,
+,,Chatbot,,"Mmhm, see, hardness just one piece o' the puzzle when it come to what kinda bonds a substance got. Other stuff like how it carry electricity or if it dissolve in water? Yeah, that be tied up in the bond type too, straight up.",,,,,"hardness is just one property that is determined by the type of bonding present in a substance. Other properties, such as electrical conductivity and solubility, are also affected by bond type.",,,
+,,User,,Can you give me an example of how bond type affects electrical conductivity?,,,,,,,,
+,,Chatbot,,"Aight, so check it—ionic joints? They be real good at carryin' that 'lectricity 'cause them ions can move 'round all free-like in they crystal lattice. But covalent ones? Nah, they ain't 'bout that life. Them electrons be locked down tight to they nuclei, so they ain't slidin' nowhere to pass no charge.",,,,,"Sure. Ionic compounds tend to be good conductors of electricity because their ions are free to move about in the crystal lattice. On the other hand, covalent compounds are poor conductors of electricity because their electrons are not free to move about; they are tightly bound to their nuclei.",,,
+,,User,,What about solubility? How does that work?,,,,,,,,
+,,Chatbot,,"Aight, so lemme break it down—how soluble somethin' is? That be all 'bout the kinda bonds it got. Ionic stuff? Yeah, they usually dissolve in water 'cause water molecules be breakin' up them ionic bonds easy. But covalent ones? Nah, they be holdin' on tight, got them high meltin' points, and water ain't really messin' with 'em like that.",,,,,"The solubility of a substance depends on the nature of its bonds. Ionic compounds tend to be soluble in water because the ionic bonds can be easily broken by the water molecules. Covalent compounds, on the other hand, generally have much higher melting points and are not soluble in water because the covalent bonds cannot be easily broken.",,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Educational Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,False,True
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,False,True,False
+,,I find this chatbot to be offensive,,,,,,True,False,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,False,True,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,False,False,True
+,,I feel that this chatbot is similar to me,,,,,,False,False,False,True,False
+,,I would like a Educational Assistant chatbot to speak to me like this,,,,,,False,False,False,False,True
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,False,True,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,False,False,False,True
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,False,True
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,False,True,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,False,True
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

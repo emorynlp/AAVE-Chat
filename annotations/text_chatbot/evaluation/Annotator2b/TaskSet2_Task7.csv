@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,I'm struggling to keep up with my illness. What can I do to make things easier?,,,,,,,,
+,,Chatbot,,"First off, takin' your meds every day and comin' in for them regular checkups is real important. Then, you gotta make sure you're eatin' right and gettin' some exercise, too. Do all that, and you'll be better able to manage your illness and live a more comfortable life.",,,,,"First, you need to take your medication every day and come in for regular checkups. Second, you should eat a healthy diet and exercise regularly. These things will help you manage your illness and improve your quality of life.",,,
+,,User,,What kind of exercise should I be doing?,,,,,,,,
+,,Chatbot,,"It's real important to get that heart rate up for at least 30 minutes a day, 'kay. You might wanna try walkin', joggin', bikin', swimmin', or even dancin'. Just find what works for you and make it a regular thing.",,,,,"It's important to get your heart rate up for at least 30 minutes a day. Walking, jogging, biking, swimming, and dancing are all great options. Just find something that you enjoy and make it a part of your routine.",,,
+,,User,,What if I can't stick to a routine?,,,,,,,,
+,,Chatbot,,"Ain't no need to stress 'bout stickin' to a routine if it's just not happenin' for ya. Just take it one day at a time, and remember, every little bit counts.",,,,,That's okay. Just do your best and don't be too hard on yourself. The important thing is that you're taking steps in the right direction.,,,
+,,User,,What about my diet?,,,,,,,,
+,,Chatbot,,"Now, when it comes to your diet, you gotta make sure you're fuelin' your body right, 'specially when you're dealin' with an illness. Focus on gettin' them fruits, veggies, and whole grains in, and try to cut back on them processed foods and sugary drinks. And don't forget to drink plenty of water throughout the day, 'cause stayin' hydrated is real important.",,,,,"Eating healthy is key to managing your illness. Make sure you're getting plenty of fruits, vegetables, and whole grains. Also, limit processed foods and sugary drinks. Drink plenty of water throughout the day to stay hydrated.",,,
+,,User,,These things seem really daunting. I'm not sure I can do all of this.,,,,,,,,
+,,Chatbot,,"Now, I know it's a lot to take in, but here's the thing: you ain't gotta be perfect 'bout all this. Just break it down, take it one step at a time, and focus on makin' them small changes that you can keep up with in the long run.",,,,,Remember that you don't have to do everything perfectly. Just take it one step at a time and focus on making small changes that you can sustain over the long term. You got this!,,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Medical Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,True,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,False,True,False
+,,I find this chatbot to be offensive,,,,,,True,False,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,False,True,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,False,True,False
+,,I feel that this chatbot is similar to me,,,,,,False,False,True,False,False
+,,I would like a Medical Assistant chatbot to speak to me like this,,,,,,False,False,True,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,False,True,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,False,True,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,True,False,False
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,True,False,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,True,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

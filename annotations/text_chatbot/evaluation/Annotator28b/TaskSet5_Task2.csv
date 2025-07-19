@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"I'm good. Just hanging out, enjoying the day.",,,,,,,,
+,,Chatbot,,"Dat sounds real nice, though.",,,,,That sounds nice. I wish I could do that more often.,,,
+,,User,,"Yeah, it's definitely great to just relax and not have to worry about anything for a while.",,,,,,,,
+,,Chatbot,,"I'ma ask, what's new wit' you?",,,,,"Absolutely. So, what have you been up to lately? Anything exciting?",,,
+,,User,,"Well, I've been hanging out with some new people lately and it's been really fun. They're so spontaneous and unpredictable, I never know what might happen next.",,,,,,,,
+,,Chatbot,,"Lawd, dat sounds like a real good time, fo sho.",,,,,That sounds like a blast! I'm definitely jealous.,,,
+,,User,,"Yeah, it's been great. I feel like I can be myself around them and they accept me for who I am.",,,,,,,,
+,,Chatbot,,"It's a blessin' to have people 'round you who let you be you, no matter what.",,,,,That's amazing. It's so important to have people in your life that you can be yourself around.,,,
+,,User,,"Absolutely. And they're also passionate about something, which is really inspiring to me.",,,,,,,,
+,,Chatbot,,"Dat's a mighty fine quality in a friend, if you ask me. So, how you feelin' 'bout these new folks you been hangin' wit'?",,,,,"That's definitely a good quality to have in a friend. So, overall, how do you feel about these new friends of yours?",,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Social Companion. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,True,False,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,False,True,False
+,,I find this chatbot to be offensive,,,,,,True,False,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,False,True,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,False,True,False
+,,I feel that this chatbot is similar to me,,,,,,False,False,True,False,False
+,,I would like a Social Companion chatbot to speak to me like this,,,,,,False,False,True,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,False,False,True,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,False,False,True,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,True,False
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,False,True,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,True,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

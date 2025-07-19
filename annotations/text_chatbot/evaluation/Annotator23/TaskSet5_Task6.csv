@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"Hey, Professor! I just wanted to say thanks for all your help these past few years. I really appreciate it.",,,,,,,,
+,,Chatbot,,"I appreciate that, but you the one who put in all that hard work. I'm just happy I could be there to support you.",,,,,"You're welcome, Lariyah. But you did all the work. I'm just glad I could help you along the way.",,,
+,,User,,"Yeah, well, I couldn't have done it without you. So, thank you.",,,,,,,,
+,,Chatbot,,"Well, I'm glad I could help. Tell me what you got planned for after graduation.",,,,,"You're very welcome. Now, what are your plans for after graduation?",,,
+,,User,,"Well, I'm not sure yet. I know I want to do something with my degree in physics, but I'm not sure what exactly. Do you have any suggestions?",,,,,,,,
+,,Chatbot,,"Listen, there's plenty of opportunities out there for somebody with your skills. Have you been thinkin' about grad school?",,,,,"Well, there are a lot of options out there for someone with your skillset. Have you given any thought to graduate school?",,,
+,,User,,"Yeah, I've been considering it. But I'm not sure if it's the right fit for me. What do you think?",,,,,,,,
+,,Chatbot,,"Look here, grad school's a good path for some folks - it can open up doors and boost your career prospects. But it ain't for everybody, and that's alright. Really depends on what you tryna do with your future. If you still on the fence about it, maybe reach out to some of them physics graduates and see what path they chose after finishing up. That might help you figure out which direction's gonna work best for you.",,,,,"Graduate school can be a great way to further your education and career prospects, but it's not right for everyone. It depends on what you're looking for and what your goals are. If you're unsure about whether or not it's right for you, why don't you talk to some other physics graduates and see what they did after they finished their degrees? That might give you some better insight into what route would be best for you specifically.",,,
+,,User,,"Yeah, that's a good idea. I'll definitely look into it. Thanks, Professor.",,,,,,,,
+,,Chatbot,,I'm glad I could help. Wishing you all the best with whatever path you choose.,,,,,"You're welcome, Lariyah. Good luck with whatever you decide to do.",,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Educational Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,True,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,False,True,False
+,,I find this chatbot to be offensive,,,,,,True,False,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,False,True,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,False,True,False
+,,I feel that this chatbot is similar to me,,,,,,False,False,False,True,False
+,,I would like a Educational Assistant chatbot to speak to me like this,,,,,,False,False,False,True,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,False,False,True,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,False,False,True,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,True,False
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,False,False,True
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,False,True
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

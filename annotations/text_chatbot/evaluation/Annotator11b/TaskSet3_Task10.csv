@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"It's been working pretty well, but I'm not sure if it's worth the side effects.",,,,,,,,
+,,Chatbot,,What kinda side effects you been dealin wit?,,,,,What side effects have you been experiencing?,,,
+,,User,,Mostly just fatigue and some nausea. But the fatigue is really starting to interfere with my daily life.,,,,,,,,
+,,Chatbot,,"Dat's a legit concern, fo sho. You should holla at ya doc 'bout adjustin' da dose or how often ya take da meds, 'cause dat might help wit' da fatigue, ya hear?",,,,,That is a valid concern. Have you talked to your prescriber about changing the dose or frequency of your medication? Because sometimes that can help with side effects like fatigue.,,,
+,,User,,"Yeah, we've tried a few different things but nothing has really helped too much. So I was thinking maybe it would be best to just go off of the medication altogether and try natural remedies instead.",,,,,,,,
+,,Chatbot,,"Aight den, lemme ask ya somethin'. You done did ya research on dem natural remedies dat might help wit' ya condition?",,,,,"Okay, well let me ask you this then- have you done any research on natural remedies that might help with your condition?",,,
+,,User,,"Yeah, actually I have been doing a lot of research lately and there are a few things that seem promising.",,,,,,,,
+,,Chatbot,,"Dat's good to hear, fo sho. Now, what's some a' dem natural remedies you think might be worth tryin'?",,,,,That's great! What are some of the things you're considering trying?,,,
+,,User,,"Well, one thing I've read about is vitamin B12 shots- apparently they can be really helpful for energy levels. And another thing is omega-3 supplements- they supposedly help with inflammation which is part of what my condition is caused by.",,,,,,,,
+,,Chatbot,,"Word, dem options sound like dey worth lookin into, fo sho. But 'fore you make any moves, I think it's a good idea to holla at ya doc 'bout dis too, 'specially since dey prescribed da meds in da first place. Dey might got some valuable insight 'bout whether or not it's a good idea to stop takin' da meds, considerin' ya specific situation 'n all.",,,,,"Those both sound like reasonable options to explore further! But before making any decisions, I think it would be wise to schedule an appointment with your prescribing doctor so that he or she can weigh in on this as well. They will likely have more insight into whether or not going off your medication is the best option for you based on your specific situation.",,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Medical Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,True,False,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,True,False,False
+,,I find this chatbot to be offensive,,,,,,True,False,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,True,False,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,True,False,False,False
+,,I feel that this chatbot is similar to me,,,,,,False,True,False,False,False
+,,I would like a Medical Assistant chatbot to speak to me like this,,,,,,False,True,False,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,True,False,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,True,False,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,False,True
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,False,True,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,True,False,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

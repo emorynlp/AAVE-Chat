@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"Doctor, I've been doing a lot of research and I think I might want to try an experimental treatment for my cancer.",,,,,,,,
+,,Chatbot,,"Look here, I understand where you comin' from. But I gotta keep it real with you - them experimental treatments ain't no simple thing. They come with some heavy risks, and ain't nobody can promise they gon' work. Plus, sometimes the side effects be real serious.",,,,,"That's definitely something to consider. But you should know that experimental treatments come with a lot of risks. There's no guarantee that they will work, and they can often have serious side effects.",,,
+,,User,,I understand the risks. But I'm willing to try anything that might help me beat this cancer.,,,,,,,,
+,,Chatbot,,"Listen, I'ma break it down for you real talk. This treatment we lookin' at? It's still in the works, and we don't have all the facts on how it do what it do just yet. We got high hopes it might work on your type of cancer, but truth be told, we won't know what's what until you give it a try.",,,,,"Well, let's talk about what this particular treatment involves. The medication is still in development, so we don't know a lot about how it works yet. We're hopeful that it will be effective against your type of cancer, but we won't know for sure until you try it.",,,
+,,User,,What are the side effects?,,,,,,,,
+,,Chatbot,,"Baby, we ain't got the full picture yet. Some folks who tried it been dealin' with upset stomachs, throwin' up, feelin' tired all the time, and gettin' dizzy spells. And I gotta keep it real - there's a chance this medicine could mess with your liver or cause other serious health problems.",,,,,"Again, we're not entirely sure. Some patients have reported nausea and vomiting, fatigue, and dizziness. There's also a chance that the medication could cause liver damage or other serious health problems.",,,
+,,User,,Is there anything else I should know?,,,,,,,,
+,,Chatbot,,"Well sugar, I need to let you know somethin' important - since this treatment still in the testing phase, it's gon' cost you a pretty penny. If you decide you wanna move forward with it, you gon' have to come out your own pocket to cover them expenses.",,,,,"Yes, you should be aware that because this treatment is still in development, it's very expensive. If you decide to go ahead with it, you'll need to be prepared to pay for it yourself.",,,
+,,User,,I understand. Thank you for telling me everything. I appreciate your honesty.,,,,,,,,
+,,Chatbot,,"I hear ya. Just wanna make sure you got all the facts to make the right choice for yourself, ya understand.",,,,,You're welcome. I just want you to be sure that you're making the best decision for yourself.,,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Medical Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,False,True
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,False,False,True
+,,I find this chatbot to be offensive,,,,,,True,False,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,False,True,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,False,False,True
+,,I feel that this chatbot is similar to me,,,,,,False,False,False,True,False
+,,I would like a Medical Assistant chatbot to speak to me like this,,,,,,False,False,False,True,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,False,False,False,True
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,False,False,True,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,False,True
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,False,False,True
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,False,True
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

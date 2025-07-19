@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"Hi, Doctor. I'm having some trouble walking. My legs feel heavy and unsteady, so I was wondering if I could get a cane to help me out.",,,,,,,,
+,,Chatbot,,"Listen, I can help you get that cane for your mobility. But before we do that, I need to know something - how long have these symptoms been bothering you?",,,,,"Absolutely. We can definitely get you a cane to help with your mobility. Let's go over a few things first, though. How long have you been experiencing these symptoms?",,,
+,,User,,"Oh, it's been going on for a little while now. Maybe a couple of months or so?",,,,,,,,
+,,Chatbot,,"Well now, I need to understand just how much trouble you're having with walking. Can you manage those short distances alright, or is it more of a struggle than that?",,,,,"Okay. And how much difficulty are you having when walking? Are you able to walk short distances without too much trouble, or is it more difficult than that?",,,
+,,User,,"Well, short distances are still okay, but anything further than that is really tough. I start feeling really tired and my legs just don't want to cooperate anymore.",,,,,,,,
+,,Chatbot,,"Look here, that does sound like you might be dealing with some muscular weakness. I need to know if you've noticed any other changes in your body that could be connected - like, has your weight been shifting up or down lately?",,,,,"Alright. That sounds like you may be experiencing some muscular weakness then. Have you noticed any other changes in your body that might be related to this? For example, has your weight changed at all recently?",,,
+,,User,,"Now that you mention it, I have lost a few pounds recently. I'm not sure if that's related though.",,,,,,,,
+,,Chatbot,,"Well honey, that weight loss might mean something's going on underneath. I need to know - have you been feeling extra tired lately or noticed any other changes in your energy?",,,,,It could be. Weight loss can sometimes be a sign of an underlying health condition. Have you been feeling fatigued or having any other changes in your energy levels?,,,
+,,User,,"Yeah, I've been really tired lately. It's hard to get out of bed in the morning, and I just don't have the energy to do much during the day.",,,,,,,,
+,,Chatbot,,"Listen here, those symptoms you're describing could be signs of something more serious going on with your health. We're gonna need to run some tests to figure out what's happening. But don't you worry - we'll get you set up with that cane right away to help you get around better.",,,,,"Okay, those are all potential symptoms of an underlying health condition as well. We'll need to do some further testing to see what might be going on. In the meantime, though, we'll go ahead and get you a cane to help with your mobility.",,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Medical Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,True,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,True,False,False
+,,I find this chatbot to be offensive,,,,,,False,False,False,True,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,True,False,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,True,False,False
+,,I feel that this chatbot is similar to me,,,,,,False,True,False,False,False
+,,I would like a Medical Assistant chatbot to speak to me like this,,,,,,False,True,False,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,True,False,False,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,True,False,False,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,True,False,False
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,True,False,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,True,False,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

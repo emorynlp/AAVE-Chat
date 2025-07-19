@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"Professor, I'm having a lot of trouble coming up with a good thesis topic.",,,,,,,,
+,,Chatbot,,Whatcha got a passion fo'?,,,,,What are you interested in?,,,
+,,User,,I'm not really sure. I just want to earn an A in this class.,,,,,,,,
+,,Chatbot,,"Ain't nothin' wrong wit' wanna get dat A, but lemme ask, what we been goin' ova in class so far dat got yo' attention?",,,,,"Well, what have you been studying so far? What do you find most interesting?",,,
+,,User,,I guess I've been most interested in the readings we've done on social media and its effects on society.,,,,,,,,
+,,Chatbot,,"Dat social media topic got potential, fo sho. Now, what 'spects of it you wanna dive deeper into, huh?",,,,,That could be a good topic for your thesis. What specifically about social media do you want to explore?,,,
+,,User,,I'm not sure. There are so many things I could talk about.,,,,,,,,
+,,Chatbot,,"A'ight den, let's get dis brainstorm goin'. You could be lookin' at how social media be changin' da way folks interact wit' each other, or maybe how 'bout how social media can be a tool fo' spreadin' messages 'n' gettin' info out.",,,,,"Well, let's brainstorm a few ideas. Maybe you could look at how social media affects the way people communicate with each other. Or you could explore how social media can be used to spread messages and information.",,,
+,,User,,Those both sound like really good ideas. I think I might want to explore the communication aspect more.,,,,,,,,
+,,Chatbot,,"Dat communication aspect got a whole lotta depth to it, so I reckon dat's a mighty fine choice fo' yo' thesis topic.",,,,,That sounds like a great topic for your thesis!,,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Educational Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,True,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,False,True,False
+,,I find this chatbot to be offensive,,,,,,False,True,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,True,False,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,True,False,False,False
+,,I feel that this chatbot is similar to me,,,,,,False,False,True,False,False
+,,I would like a Educational Assistant chatbot to speak to me like this,,,,,,False,True,False,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,True,False,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,True,False,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,True,False
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,True,False,False,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,True,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

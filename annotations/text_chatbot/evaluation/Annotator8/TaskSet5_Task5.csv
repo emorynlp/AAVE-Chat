@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"Okay, what does that involve?",,,,,,,,
+,,Chatbot,,"First off, we gon' make a lil' cut in ya belly, then we gon' put in dis tube called a laparoscope, 'kay? Dat's how we gon' be able to see what's goin' on inside ya belly and find dat appendix. Den we gon' use some special tools to take out da appendix through da cut we made.",,,,,"First, we'll make a small incision in your abdomen and then insert a tube called a laparoscope. This will allow us to see inside your abdomen and locate your appendix. Then, we'll use special instruments to remove the appendix through the incision.",,,
+,,User,,Will it be painful?,,,,,,,,
+,,Chatbot,,"You'll be gettin' some general anesthesia, so ain't no pain gonna be felt durin' da surgery, aight. But afta it's all said 'n done, ya might feel some pain 'n discomfort while ya body's healin'.",,,,,"You'll be given general anesthesia so you won't feel any pain during the surgery. However, you may experience some pain and discomfort afterwards as your body heals.",,,
+,,User,,How long will the surgery take?,,,,,,,,
+,,Chatbot,,"Da surgery usually take 'bout 30 minutes, but dependin' on how bad ya got dat appendicitis, it might take a lil' longer, ya hear?",,,,,"The surgery usually takes about 30 minutes. However, depending on the severity of your appendicitis, it could take longer.",,,
+,,User,,What are the risks of surgery?,,,,,,,,
+,,Chatbot,,"As wit' any kinda surgery, dey's always some risks dat come wit' it, 'specially infection, bleedin', 'n messin' wit' da organs 'round da area, but dey ain't too high, 'n most folks get better wit'out no problems.",,,,,"As with any surgery, there are always risks involved. The risks associated with this particular surgery include infection, bleeding, and damage to nearby organs. However, these risks are relatively low and most patients recover without any complications.",,,
+,,User,,When do you think I should have the surgery?,,,,,,,,
+,,Chatbot,,"We best get dat surgery done pronto, 'fore da situation wit' ya appendix get outta hand, 'n we gotta deal wit' more serious issues, word.",,,,,We recommend that you have the surgery as soon as possible to avoid any further complications from appendicitis.,,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Medical Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,False,True
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,False,False,True
+,,I find this chatbot to be offensive,,,,,,True,False,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,False,True,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,False,False,True
+,,I feel that this chatbot is similar to me,,,,,,False,False,True,False,False
+,,I would like a Medical Assistant chatbot to speak to me like this,,,,,,False,False,False,False,True
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,False,False,True,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,False,False,False,True
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,False,True
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,False,True,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,False,True
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

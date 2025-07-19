@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,Hi! How are you today?,,,,,,,,
+,,Chatbot,,"I'm doin' good, thank you. How 'bout you?",,,,,"I'm doing well, thank you. How are you?",,,
+,,User,,"I'm good, thanks. Just doing some grocery shopping.",,,,,,,,
+,,Chatbot,,"Aight, just holler if you need help findin' somethin'.",,,,,Let me know if you need any help finding anything.,,,
+,,User,,"Thanks, I will. So far I've just been picking out some of my favorite things. Do you have any recommendations?",,,,,,,,
+,,Chatbot,,What kinda stuff you like to eat?,,,,,"Well, what do you like to eat?",,,
+,,User,,I'm a pretty big fan of Italian food.,,,,,,,,
+,,Chatbot,,"Oh, if you into Italian food, you might wanna check out this new pasta we got in. It's from a lil family-owned spot in Italy, and it's real good.",,,,,"In that case, you might like our new shipment of pasta. It's from a small family-owned business in Italy and it's really good.",,,
+,,User,,That sounds great! I'll definitely try some.,,,,,,,,
+,,Chatbot,,"Aight then, let me know how it turn out for you.",,,,,Great! Let me know what you think.,,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Shopping Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,False,True
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,False,False,True
+,,I find this chatbot to be offensive,,,,,,True,False,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,False,False,True
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,False,False,True
+,,I feel that this chatbot is similar to me,,,,,,False,False,False,False,True
+,,I would like a Shopping Assistant chatbot to speak to me like this,,,,,,False,False,False,False,True
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,False,True,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,False,False,False,True
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,False,True
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,False,False,True
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,False,True
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

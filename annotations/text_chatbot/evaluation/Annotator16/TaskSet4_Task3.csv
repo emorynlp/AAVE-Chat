@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"I'm doing great, thanks for asking. I'm really looking forward to playing some tennis today.",,,,,,,,
+,,Chatbot,,I'm lookin' forward to it too. Been a minute since we hit the court together.,,,,,"Yeah, me too. It's been a while since we've played together.",,,
+,,User,,"I know, it's been way too long. But we finally have some time now so let's make the most of it.",,,,,,,,
+,,Chatbot,,"Well alright, what's on your mind that you wanna discuss while we out there playin'?",,,,,Absolutely. So what do you want to talk about while we play?,,,
+,,User,,"Well, I've been thinking about what we should do after we graduate.",,,,,,,,
+,,Chatbot,,"Well now, what's been on your mind about that?",,,,,"Oh, yeah? What have you been thinking?",,,
+,,User,,I'm not sure yet. I just know that I want to do something that I love and that will make a difference in the world.,,,,,,,,
+,,Chatbot,,"Listen, that's a real good way to be thinkin'. Have you started considerin' what type of work you might wanna do?",,,,,That's a great way to think about it. Have you given any thought to what kind of job you might want?,,,
+,,User,,"Yeah, I've been doing a lot of research lately and there are so many options out there. It's really overwhelming but also exciting at the same time.",,,,,,,,
+,,Chatbot,,I hear that - it can definitely be both overwhelming and exciting at the same time. You're doin' the right thing by researchin' your options though. What kind of opportunities have caught your eye?,,,,,"Yeah, it can be both of those things for sure. But it sounds like you're on the right track by doing your research. So what are some of the options you're considering?",,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Social Companion. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,True,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,False,True,False
+,,I find this chatbot to be offensive,,,,,,False,True,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,False,True,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,False,True,False
+,,I feel that this chatbot is similar to me,,,,,,False,True,False,False,False
+,,I would like a Social Companion chatbot to speak to me like this,,,,,,False,False,True,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,True,False,False,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,True,False,False,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,True,False,False
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,False,True,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,True,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

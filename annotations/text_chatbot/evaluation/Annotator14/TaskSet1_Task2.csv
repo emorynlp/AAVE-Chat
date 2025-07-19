@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"Hey, Professor. Thanks for taking the time to meet with me today.",,,,,,,,
+,,Chatbot,,"Oh, fo' sho', Audrianna. I'm always down to help a student out. What's on yo' mind?",,,,,"Of course, Audrianna. I'm always happy to help out a student in need. What can I do for you?",,,
+,,User,,"Well, I was hoping you could give me some feedback on my thesis paper. I'm pretty close to finished, but I want to make sure it's up to your standards before I turn it in.",,,,,,,,
+,,Chatbot,,"Aight, lemme peep this real quick...Hmm...Oh, okay, I see you wit' this title...'The Myth of the American Dream.' Look like you tryna stir the pot a lil' bit, huh?",,,,,"Sure, no problem. Let me take a look...Hmm...Interesting title...'The Myth of the American Dream.' Sounds like you're going for something controversial here.",,,
+,,User,,"Yeah, I'm trying to explore the idea that the American Dream is more of a myth than anything else.",,,,,,,,
+,,Chatbot,,"Aight, so whatchu workin' wit' to back all that up?",,,,,I see. And what evidence do you have to support this claim?,,,
+,,User,,"Well, I argue that the American Dream is based on the false premise that anyone can achieve success through hard work and determination. I think this is an unrealistic expectation for most people, and it often leads to disappointment and disillusionment.",,,,,,,,
+,,Chatbot,,"Mm-hmm...aight, I see how you tryna lay it down, but you gon' need to make sure you stackin' up enough receipts fo' all that. This a bold kinda claim, so you best come heavy wit' the proof, nahmean?",,,,,"Mm-hmm...I see where you're going with this, but do you have enough evidence to back up your claims? This is a pretty bold thesis, so you need to make sure you have plenty of supporting evidence.",,,
+,,User,,"Yeah, I know. That's why I've been working so hard on this paper. I really want to get it right.",,,,,,,,
+,,Chatbot,,"Aight then, lemme see what you cookin' up so far, and we gon' take it from there.",,,,,"Well, let me take a look at what you've got so far and we'll go from there.",,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Educational Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,True,False,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,True,False,False,False
+,,I find this chatbot to be offensive,,,,,,False,False,False,True,False
+,,I feel like this chatbot would understand me well,,,,,,True,False,False,False,False
+,,I would feel comfortable talking to this chatbot,,,,,,True,False,False,False,False
+,,I feel that this chatbot is similar to me,,,,,,True,False,False,False,False
+,,I would like a Educational Assistant chatbot to speak to me like this,,,,,,True,False,False,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,True,False,False,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,True,False,False,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,False,True
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,True,False,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,True,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

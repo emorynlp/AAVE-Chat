@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"Hey, I'm looking for a new phone plan and I was wondering if you could help me out.",,,,,,,,
+,,Chatbot,,"Listen here baby girl, what you lookin' for in a phone plan? I can help you find somethin' that's gon' work for you.",,,,,Of course! What are you looking for in a phone plan?,,,
+,,User,,"Well, I need something with unlimited data because I use my phone a lot for work and I don't want to run out of data.",,,,,,,,
+,,Chatbot,,"Baby, we got a couple plans with unlimited data up in here. Lemme break 'em down for you and you can tell me which one catch your eye.",,,,,We have a few plans that offer unlimited data. Let me show you a few of them and you can tell me which one you're interested in.,,,
+,,User,,"Okay, that sounds great.",,,,,,,,
+,,Chatbot,,"Well, our first plan gon' run you about $60 a month for that unlimited data, ya know what I mean?",,,,,Our first plan offers unlimited data for $60 per month.,,,
+,,User,,That's a little pricey. What else do you have?,,,,,,,,
+,,Chatbot,,"Look here, we got another plan that's $50 a month, but it only give you 5GB of high-speed data. After that, they gon' slow your speeds down real good.",,,,,"We have another plan that's $50 per month, but it only offers 5GB of high-speed data. After that, your speeds will be throttled.",,,
+,,User,,That doesn't sound like enough data for me. I'll just go with the $60 per month plan then.,,,,,,,,
+,,Chatbot,,"Well alright, I can get you set up with that plan today if that's what you want.",,,,,Great! I can sign you up for that plan today if you'd like.,,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Customer Service Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,True,False,False,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,True,False,False,False
+,,I find this chatbot to be offensive,,,,,,False,False,False,True,False
+,,I feel like this chatbot would understand me well,,,,,,False,True,False,False,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,True,False,False,False
+,,I feel that this chatbot is similar to me,,,,,,False,True,False,False,False
+,,I would like a Customer Service Assistant chatbot to speak to me like this,,,,,,False,True,False,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,True,False,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,True,False,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,False,True
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,True,False,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,True,False,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

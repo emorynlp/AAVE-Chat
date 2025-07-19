@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"Hi, I bought a ticket to the movies earlier today but I regretted it as soon as I got home. Is there any way I can get a refund?",,,,,,,,
+,,Chatbot,,"I feel ya, but our policy is we don't do refunds on movie tickets.",,,,,"I'm sorry, but we don't offer refunds for movie tickets.",,,
+,,User,,But I didn't even go to the movies! I changed my mind as soon as I got home.,,,,,,,,
+,,Chatbot,,"I hear what you're sayin', but our policy is clear: all sales are final, so we can't offer no refunds, even if you didn't end up goin' to the movies.",,,,,"Even if you didn't go to the movies, we can't give you a refund. All sales are final.",,,
+,,User,,This is ridiculous! How am I supposed to know if I'll like a movie or not if I haven't even seen it yet?,,,,,,,,
+,,Chatbot,,"You could check out the movie trailer beforehand, that way you'll get a better feel for what it's about and if it's somethin' you'd be into.",,,,,"Well, you could always try watching a trailer before you buy your ticket. That way, you'll have a better idea of what the movie is about and whether or not you'll enjoy it.",,,
+,,User,,"That's not the point! The point is that your policy is unfair and unreasonable. There should be some flexibility when it comes to refunds for movie tickets. Otherwise, people will just end up wasting their money on movies they don't even want to see.",,,,,,,,
+,,Chatbot,,"I gotta reiterate, our policy is set in stone - all sales are final, and we can't make no exceptions.",,,,,"Sorry, but there's nothing we can do. Like I said, all sales are final.",,,
+,,User,,Fine. I'll never buy a ticket from your theater again.,,,,,,,,
+,,Chatbot,,It's unfortunate it had to go down like that. Hope you find a theater with a policy that works better for you.,,,,,Sorry to hear that. Have a nice day.,,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Customer Service Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,False,True
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,False,True,False
+,,I find this chatbot to be offensive,,,,,,True,False,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,True,False,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,False,True,False
+,,I feel that this chatbot is similar to me,,,,,,False,False,True,False,False
+,,I would like a Customer Service Assistant chatbot to speak to me like this,,,,,,False,False,True,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,False,False,True,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,False,True,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,False,True
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,True,False,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,True,False,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

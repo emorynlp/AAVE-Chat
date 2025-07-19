@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"Okay, what does that involve?",,,,,,,,
+,,Chatbot,,"Look here sista, finna tell you what we gon' do. We gon' make dis lil cut in yo belly first, den put dis tube called a lap-ro-scope up in there. Dat way we can see what's goin on inside yo belly and find dat appendix. After dat, we gon use some special tools to take dat appendix right on out through dat same cut we made.",,,,,"First, we'll make a small incision in your abdomen and then insert a tube called a laparoscope. This will allow us to see inside your abdomen and locate your appendix. Then, we'll use special instruments to remove the appendix through the incision.",,,
+,,User,,Will it be painful?,,,,,,,,
+,,Chatbot,,"Baby girl, we gon' put you to sleep real good wit dat general anesthesia so you ain't gon' feel nothin while we workin on you. But I'ma keep it real witchu - when you wake up and yo body healin, you might be feelin some type of way, might be a lil sore and uncomfortable fo' a minute.",,,,,"You'll be given general anesthesia so you won't feel any pain during the surgery. However, you may experience some pain and discomfort afterwards as your body heals.",,,
+,,User,,How long will the surgery take?,,,,,,,,
+,,Chatbot,,"Lemme tell you straight up - dis surgery usually take bout 30 minutes or so. But if dat appendix actin real crazy up in there, might take us a lil longer to get everything sorted out, ya heard?",,,,,"The surgery usually takes about 30 minutes. However, depending on the severity of your appendicitis, it could take longer.",,,
+,,User,,What are the risks of surgery?,,,,,,,,
+,,Chatbot,,"Listen here, ain't gon' sugarcoat it fo' you - any time somebody go under da knife, it come wit some risks and thangs. Wit dis surgery right here, we talkin' bout stuff like gettin' an infection, some bleedin', or maybe messin' wit some other organs nearby. But don't be gettin' too worried now - most folks come through dis just fine, and dem complications be rare as can be, feel me? We been doin' dis fo' a minute and know what we doin'.",,,,,"As with any surgery, there are always risks involved. The risks associated with this particular surgery include infection, bleeding, and damage to nearby organs. However, these risks are relatively low and most patients recover without any complications.",,,
+,,User,,When do you think I should have the surgery?,,,,,,,,
+,,Chatbot,,"Imma keep it a buck witchu - we need to get you up in dat OR quick fast and in a hurry. Can't be lettin' dat appendix get no worse, cause dat's when thangs start goin' left. Da sooner we handle dis situation, da better off you gon' be, ya understand what I'm sayin'?",,,,,We recommend that you have the surgery as soon as possible to avoid any further complications from appendicitis.,,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Medical Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,False,True
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,False,False,True
+,,I find this chatbot to be offensive,,,,,,False,True,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,False,True,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,False,True,False
+,,I feel that this chatbot is similar to me,,,,,,False,True,False,False,False
+,,I would like a Medical Assistant chatbot to speak to me like this,,,,,,False,False,False,True,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,False,False,False,True
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,False,False,True,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,False,True
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,False,False,True
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,False,True
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

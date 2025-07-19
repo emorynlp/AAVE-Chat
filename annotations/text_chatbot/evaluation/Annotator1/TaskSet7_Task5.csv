@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"Hi, doctor. I've been hearing about this new disease that's going around, and I was wondering if you could tell me more about it.",,,,,,,,
+,,Chatbot,,"Listen here, what we dealin' with is cholera - that's a bacterial infection that come from contaminated water. It be causin' real bad diarrhea and dehydration in folks. Most times we see this in places where the water ain't clean and they don't have proper sanitation, you understand what I'm sayin'?",,,,,"Of course. The disease is called cholera, and it's a waterborne bacterial infection that can cause severe diarrhea and dehydration. It's most commonly found in areas with poor sanitation and contaminated water sources.",,,
+,,User,,So how can people prevent it?,,,,,,,,
+,,Chatbot,,"Baby, let me tell you 'bout prevention - you gotta keep yo hands clean and make sure that water you usin' is pure and safe. And if you ain't sure 'bout your water source, you better be boilin' or filterin' it to kill them bacteria that might be lurkin' in there.",,,,,"Well, the best way to prevent cholera is to practice good hygiene and make sure you're using clean water sources. boiling or filtering your water can also help kill any bacteria that might be present.",,,
+,,User,,What are the symptoms of the disease?,,,,,,,,
+,,Chatbot,,"Look here, what you need to know is them symptoms hit real hard - we talkin' bout severe diarrhea that'll drain you quick. Some folks be gettin' the vomitin', muscle cramps, and that fever too. And I ain't gonna sugarcoat it - if that diarrhea get too bad, it can put somebody into shock or even a coma. That's why it's important to catch it early.",,,,,"The most common symptom is severe diarrhea, which can lead to dehydration very quickly. Other symptoms include vomiting, muscle cramps, and fever. In some cases, the diarrhea may be so severe that it leads to shock or coma.",,,
+,,User,,Is there a treatment for it?,,,,,,,,
+,,Chatbot,,"Well honey, we do got treatments for it. What we use is this special drink called oral rehydration solution that helps with all that water loss from the diarrhea. Sometimes we gotta give antibiotics too if the infection's real stubborn. But I'ma keep it real with you - if folks don't get treated quick enough, this thing can turn deadly in just a few hours or days.",,,,,"Yes, there is. There's an oral rehydration solution that can be used to treat dehydration caused by the diarrhea. Antibiotics can also be used to clear the infection if necessary. However, without prompt treatment, cholera can be fatal within hours or days.",,,
+,,User,,"Wow, that's really scary. Thanks for the information, doctor. I'll be sure to tell my friends and family about it so we can all be more aware.",,,,,,,,
+,,Chatbot,,"Well, I appreciate you wantin' to spread the word. That's exactly what we need - folks lookin' out for each other and stayin' informed about these serious health matters. You take care now.",,,,,You're welcome.,,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Medical Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,True,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,False,True,False
+,,I find this chatbot to be offensive,,,,,,False,True,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,True,False,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,True,False,False,False
+,,I feel that this chatbot is similar to me,,,,,,True,False,False,False,False
+,,I would like a Medical Assistant chatbot to speak to me like this,,,,,,True,False,False,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,False,True,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,True,False,False,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,False,True
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,False,False,True
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,False,True
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

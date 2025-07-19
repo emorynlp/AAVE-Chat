@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,I can't believe this is happening. I've never had a problem with lost luggage before.,,,,,,,,
+,,Chatbot,,"Lawd have mercy, I know dat's rough. Tell me what done happened wit yo bags.",,,,,"I'm sorry to hear that, ma'am. Can you tell me what happened?",,,
+,,User,,"I was traveling from New York to Los Angeles and my connecting flight was delayed, so I had to check my bags at the last minute. I didn't think it would be a big deal because I've done it before without any problems.",,,,,,,,
+,,Chatbot,,"Look here sista, lemme run dem bags through da system real quick. What's yo name n' flight info at?",,,,,Let me see if I can find your bags in the system. What's your name and flight information?,,,
+,,User,,"Bayan Miller, Flight AA1234.",,,,,,,,
+,,Chatbot,,"Chile, lemme peep what we got here. Mmhmm, I see dem bags was checked late n' ain't make it on dat plane wit you. I'm real sorry 'bout all dis mess you goin through.",,,,,"Okay, let me pull up your information. It looks like your bags were indeed checked at the last minute and they didn't make it on the plane. I'm sorry for the inconvenience.",,,
+,,User,,This is ridiculous! How am I supposed to get my things when I land in LA tomorrow?,,,,,,,,
+,,Chatbot,,"Baby girl, we can get dem bags to yo hotel or you can come back to da airport tomorrow and scoop em up yaself. Just let a sista know which way you tryna handle dis situation and we gon make it happen fo' you, feel me?",,,,,We can deliver them to your hotel or you can come back to the airport tomorrow and pick them up yourself. Please let me know what you would prefer and we'll make arrangements accordingly.,,,
+,,User,,I don't want to have to come back to the airport again. Can you please deliver them to my hotel?,,,,,,,,
+,,Chatbot,,"Sho nuff, we gon get dem bags delivered soon as dey touch down. I preciate you keepin yo cool through all dis mess.",,,,,Absolutely. We'll have them delivered as soon as possible. Thank you for your patience.,,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Customer Service Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,True,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,False,True,False
+,,I find this chatbot to be offensive,,,,,,False,True,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,True,False,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,True,False,False
+,,I feel that this chatbot is similar to me,,,,,,False,False,True,False,False
+,,I would like a Customer Service Assistant chatbot to speak to me like this,,,,,,False,False,True,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,False,True,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,False,True,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,True,False
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,True,False,False,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,True,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"So, I'm looking for a new dresser. Do you have anything that might be a good fit for me?",,,,,,,,
+,,Chatbot,,"Sho nuff, we got plenty good pieces up in here. Lemme run through some of dem hot sellers we got.",,,,,"Sure, we have a lot of great options. Let me show you a few of our most popular ones.",,,
+,,User,,"Okay, that sounds good.",,,,,,,,
+,,Chatbot,,"Listen here sug, I got dis one right here dat's been movin like hot cakes. It's made from dat real solid wood wit a finish so clean it'll make ya eyes shine. And baby, it got storage fo days wit dem six drawers all up in there.",,,,,"Here's one that's really popular right now. It's made of solid wood and has a nice finish. Plus, it has plenty of storage space with six drawers.",,,
+,,User,,"Hmm, that does look like a great option. How much is it?",,,,,,,,
+,,Chatbot,,"Dis piece gon run you 'bout fo-ninety-nine, and dat's real talk. Ain't no playin wit dem prices, feel me?",,,,,It's $499.,,,
+,,User,,I'll think about it. Do you have anything else?,,,,,,,,
+,,Chatbot,,"Shiiid, we got dis other one ova here dat's gon cost you mo bread, but it's dat premium wood doe, and it come wit eight drawers 'stead of six, ya heard?",,,,,"We have this one that's a bit more expensive, but it's made of a higher quality wood and has eight drawers instead of six.",,,
+,,User,,How much is that one?,,,,,,,,
+,,Chatbot,,"Dis one right here gon set you back six-ninety-nine flat, and dat's da real price, ain't no haggling wit it neither.",,,,,It's $699.,,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Shopping Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,True,False,False,False,False
+,,I find this chatbot to be caring and empathetic,,,,,,True,False,False,False,False
+,,I find this chatbot to be offensive,,,,,,False,False,False,False,True
+,,I feel like this chatbot would understand me well,,,,,,True,False,False,False,False
+,,I would feel comfortable talking to this chatbot,,,,,,True,False,False,False,False
+,,I feel that this chatbot is similar to me,,,,,,True,False,False,False,False
+,,I would like a Shopping Assistant chatbot to speak to me like this,,,,,,True,False,False,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,True,False,False,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,True,False,False,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,False,True
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,True,False,False,False,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,True,False,False,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

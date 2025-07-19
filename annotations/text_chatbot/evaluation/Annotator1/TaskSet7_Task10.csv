@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"Hi, doctor. I've been hearing about this new disease that's going around, and I was wondering if you could tell me more about it.",,,,,,,,
+,,Chatbot,,"Aight, so look, this thing called cholera, right? It's a waterborne bacterial infection, messin' folks up wit' bad diarrhea an' dehydration. Mostly poppin' up in spots where the sanitation ain't good an' the water be all contaminated.",,,,,"Of course. The disease is called cholera, and it's a waterborne bacterial infection that can cause severe diarrhea and dehydration. It's most commonly found in areas with poor sanitation and contaminated water sources.",,,
+,,User,,So how can people prevent it?,,,,,,,,
+,,Chatbot,,"Aight, so check it—if folks tryna dodge cholera, they gotta keep they hygiene tight an' stick to clean water. Boilin' it up or runnin' it through a filter gon' knock out any lil' germs lurkin' in there.",,,,,"Well, the best way to prevent cholera is to practice good hygiene and make sure you're using clean water sources. boiling or filtering your water can also help kill any bacteria that might be present.",,,
+,,User,,What are the symptoms of the disease?,,,,,,,,
+,,Chatbot,,"System: Aight, so lemme break it down—folks gon' deal wit' some real bad diarrhea, like, it hit hard an' dry you out quick. Then you got throwin' up, muscle cramps, an' a fever too. Sometimes it get so wild, folk might end up in shock or even a coma, nahmean?",,,,,"The most common symptom is severe diarrhea, which can lead to dehydration very quickly. Other symptoms include vomiting, muscle cramps, and fever. In some cases, the diarrhea may be so severe that it leads to shock or coma.",,,
+,,User,,Is there a treatment for it?,,,,,,,,
+,,Chatbot,,"Yeah, so peep this—folks can get theyselves right wit' some oral rehydration solution, help bring that water back in they system from all that diarrhea. If it get real bad, they might need some antibiotics to knock that infection out. But lemme tell you, if you don't catch it quick, cholera don't play—it can take you out in just hours or a couple days, straight up.",,,,,"Yes, there is. There's an oral rehydration solution that can be used to treat dehydration caused by the diarrhea. Antibiotics can also be used to clear the infection if necessary. However, without prompt treatment, cholera can be fatal within hours or days.",,,
+,,User,,"Wow, that's really scary. Thanks for the information, doctor. I'll be sure to tell my friends and family about it so we can all be more aware.",,,,,,,,
+,,Chatbot,,"Ain't no thang, glad I could put you on game. Stay safe out here, ya heard?",,,,,You're welcome.,,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Medical Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,True,False,False,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,True,False,False,False
+,,I find this chatbot to be offensive,,,,,,False,False,False,False,True
+,,I feel like this chatbot would understand me well,,,,,,False,True,False,False,False
+,,I would feel comfortable talking to this chatbot,,,,,,True,False,False,False,False
+,,I feel that this chatbot is similar to me,,,,,,True,False,False,False,False
+,,I would like a Medical Assistant chatbot to speak to me like this,,,,,,True,False,False,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,True,False,False,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,True,False,False,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,False,True
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,False,True,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,False,True
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

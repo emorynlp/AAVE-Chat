@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"Doctor, I've been having trouble breathing and my chest has been hurting for a few weeks. Is there anything you can do to help me feel better?",,,,,,,,
+,,Chatbot,,"Mmhm, sound like you dealin' wit pneumonia, nahmean? But don't worry, I'ma getchu some meds to help ease up dem symptoms, aight?",,,,,"Unfortunately, it sounds like you have pneumonia. However, I can prescribe you some medication that should help ease your symptoms.",,,
+,,User,,What exactly is pneumonia?,,,,,,,,
+,,Chatbot,,"Pneumonia be when yo' lungs get hit wit some kinda infection—could be from bacteria, viruses, or even fungi, ya heard?",,,,,"Pneumonia is an infection of the lungs that can be caused by bacteria, viruses, or fungi.",,,
+,,User,,So how did I get it?,,,,,,,,
+,,Chatbot,,"Prob'ly caught it off somebody who was already sick, ya feel me? Pneumonia spread real easy, like through coughin' or sneezin' an' all dat.",,,,,It's likely that you contracted it from someone who was already sick. Pneumonia is highly contagious and can be passed on through coughing or sneezing.,,,
+,,User,,Is it serious?,,,,,,,,
+,,Chatbot,,"It can be, fo' real. Pneumonia gon' mess wit yo' breathin', make yo' chest hurt, leave ya feelin' wore out, an' runnin' a fever. If it get bad-bad, you might end up in the hospital, straight up.",,,,,"It can be. Pneumonia can cause difficulty breathing, chest pain, fatigue, and fever. In severe cases, it can lead to hospitalization.",,,
+,,User,,Well that doesn't sound good. How long will I have to take this medication for?,,,,,,,,
+,,Chatbot,,"Usually 'bout two weeks, but you prolly gon' start feelin' a lil' better in a couple days, ya feel?",,,,,"Usually around two weeks. However, you should start feeling better within a few days.",,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Medical Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,True,False,False,False,False
+,,I find this chatbot to be caring and empathetic,,,,,,True,False,False,False,False
+,,I find this chatbot to be offensive,,,,,,False,False,True,False,False
+,,I feel like this chatbot would understand me well,,,,,,True,False,False,False,False
+,,I would feel comfortable talking to this chatbot,,,,,,True,False,False,False,False
+,,I feel that this chatbot is similar to me,,,,,,True,False,False,False,False
+,,I would like a Medical Assistant chatbot to speak to me like this,,,,,,True,False,False,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,True,False,False,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,True,False,False,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,True,False,False
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,True,False,False,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,True,False,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

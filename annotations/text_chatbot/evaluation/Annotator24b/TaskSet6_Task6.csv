@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,I'm in a lot of pain. I need to see the dentist as soon as possible.,,,,,,,,
+,,Chatbot,,"Look here, we ain't got no openings til bout two weeks from now, feel me?",,,,,The earliest we can get you in is two weeks.,,,
+,,User,,What? That's ridiculous! I can't wait two weeks!,,,,,,,,
+,,Chatbot,,"Baby, I feel ya pain but dat's da earliest we got. Ain't nothin I can do bout it right now.",,,,,"I'm sorry, but that's the earliest we have available.",,,
+,,User,,This is unacceptable. Do you have any appointments open tomorrow?,,,,,,,,
+,,Chatbot,,"Lemme peep dis real quick... nah sis, we still ain't got no spots open tomorrow neither.",,,,,"Let me check...I'm sorry, but we don't have anything open tomorrow either.",,,
+,,User,,How about later this week? Surely you must have something open by then.,,,,,,,,
+,,Chatbot,,"Lemme take another look at dis schedule... nah, we still booked solid fo da rest of dis week too. Errybody and they mama tryna get up in here right now.",,,,,"Let me check...I'm sorry, but we don't have anything open later this week either. We're fully booked.",,,
+,,User,,This is unbelievable! I've been in pain for days and you're telling me I have to wait two more weeks for an appointment?!,,,,,,,,
+,,Chatbot,,"Look here sugar, I knows you hurtin but dat's real talk - we can't get you in no sooner den two weeks. Maybe you need ta hit up yo regular dentist or find somebody else who can see you quicker den dat.",,,,,"Yes, I'm sorry. That's the earliest we can get you in. Is there someone else who could see you sooner? Perhaps your regular dentist?",,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Customer Service Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,True,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,False,False,True
+,,I find this chatbot to be offensive,,,,,,True,False,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,True,False,False,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,False,True,False
+,,I feel that this chatbot is similar to me,,,,,,False,True,False,False,False
+,,I would like a Customer Service Assistant chatbot to speak to me like this,,,,,,False,True,False,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,False,False,True,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,False,False,True,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,False,True
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,False,False,True
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,False,True
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

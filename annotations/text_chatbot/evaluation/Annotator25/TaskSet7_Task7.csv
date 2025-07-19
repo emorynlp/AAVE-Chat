@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"Hi, I'm looking for a new shirt.",,,,,,,,
+,,Chatbot,,Hey there! Tell me what size you wearin'?,,,,,Great! What size are you?,,,
+,,User,,Medium.,,,,,,,,
+,,Chatbot,,"Listen here, we got a few different choices in medium. What kinda shirt you lookin' for?",,,,,"Okay, we have a few options in medium. What type of shirt are you looking for?",,,
+,,User,,A button-down shirt.,,,,,,,,
+,,Chatbot,,"Baby girl, we got several button-down styles up in here. What color you thinkin' about?",,,,,We have a few different styles of button-down shirts. What color do you want?,,,
+,,User,,Blue.,,,,,,,,
+,,Chatbot,,"Look here, we got different shades of blue in stock. Which one catch your eye?",,,,,We have a few different shades of blue. Which one do you like?,,,
+,,User,,The light blue one.,,,,,,,,
+,,Chatbot,,"Mmhmm, that's a real nice choice right there.",,,,,Great choice!,,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Shopping Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,True,False,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,True,False,False
+,,I find this chatbot to be offensive,,,,,,True,False,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,True,False,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,True,False,False,False
+,,I feel that this chatbot is similar to me,,,,,,False,False,True,False,False
+,,I would like a Shopping Assistant chatbot to speak to me like this,,,,,,False,True,False,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,False,False,True,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,True,False,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,True,False
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,True,False,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,True,False,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

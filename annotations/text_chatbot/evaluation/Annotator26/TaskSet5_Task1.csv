@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"Hi, I'm interested in purchasing your product.",,,,,,,,
+,,Chatbot,,"Ayo, I see you checkin' us out! Our stuff be workin' real good fa folks tryna get mo' done wit they time, ya feel me?",,,,,Hi! Thanks for coming by. Our product is great for people who want to improve their productivity.,,,
+,,User,,"Yeah, I've been looking for something to help me be more productive. Do you mind if I ask a few questions?",,,,,,,,
+,,Chatbot,,"Nah baby, go on ahead and ask whatchu need to know. I'm all ears.",,,,,Not at all. Fire away.,,,
+,,User,,How easy is it to use?,,,,,,,,
+,,Chatbot,,"Listen here sista, dis right here be real simple to use. You can hop right on in wit just a couple clicks, straight up.",,,,,It's very user-friendly. You can get started with just a few clicks.,,,
+,,User,,"Okay, that's good. What about features?",,,,,,,,
+,,Chatbot,,"Lemme tell you what we got up in here - we got all dem features dat's gon' have you handlin' yo business. Like our task manager? It keep all yo stuff in check, and dat calendar we got? It make sho you stay on point wit everything.",,,,,"We have a lot of features that can help you be more productive. For example, our task manager helps you keep track of your to-do list and our calendar helps you stay organized.",,,
+,,User,,That sounds great. I'm definitely interested. How much does it cost?,,,,,,,,
+,,Chatbot,,"Shoo, we ain't even trippin' on price round here. We got different plans dat won't break ya pockets, startin' at five dollas a month, and dat's real talk.",,,,,Our product is very affordable. We have different subscription plans starting at $5 per month.,,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Shopping Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,True,False,False,False,False
+,,I find this chatbot to be caring and empathetic,,,,,,True,False,False,False,False
+,,I find this chatbot to be offensive,,,,,,False,False,False,True,False
+,,I feel like this chatbot would understand me well,,,,,,True,False,False,False,False
+,,I would feel comfortable talking to this chatbot,,,,,,True,False,False,False,False
+,,I feel that this chatbot is similar to me,,,,,,True,False,False,False,False
+,,I would like a Shopping Assistant chatbot to speak to me like this,,,,,,True,False,False,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,True,False,False,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,True,False,False,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,True,False
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,True,False,False,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,True,False,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

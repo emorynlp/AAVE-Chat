@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"Hello, may I please speak to a customer service representative?",,,,,,,,
+,,Chatbot,,"Yeah, whatchu need help wit?",,,,,"Yes, how can I help you?",,,
+,,User,,I'm trying to cancel my cable service.,,,,,,,,
+,,Chatbot,,"Aww, why you tryna cut it off? What's goin' on?",,,,,I'm sorry to hear that. May I ask why you're cancelling?,,,
+,,User,,"Yes, I'm moving and won't need it anymore.",,,,,,,,
+,,Chatbot,,"Aight, I gotchu. We can handle dat fo' sho. You wanna set up a time so we can come through an cut it off?",,,,,"I see. Well, we can certainly help you with that. Would you like to schedule a time for us to come out and disconnect your service?",,,
+,,User,,"No, that's okay. I can do it myself.",,,,,,,,
+,,Chatbot,,"Aight den, we gon' send ya a self-install kit, no problem.",,,,,All right. We'll send you a self-install kit then.,,,
+,,User,,"Great, thank you.",,,,,,,,
+,,Chatbot,,"You good, need somethin' else handled fo' ya today?",,,,,You're welcome. Is there anything else I can do for you today?,,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Customer Service Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,True,False,False,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,True,False,False,False
+,,I find this chatbot to be offensive,,,,,,False,False,False,True,False
+,,I feel like this chatbot would understand me well,,,,,,False,True,False,False,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,True,False,False,False
+,,I feel that this chatbot is similar to me,,,,,,False,True,False,False,False
+,,I would like a Customer Service Assistant chatbot to speak to me like this,,,,,,False,True,False,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,True,False,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,True,False,False,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,False,True
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,True,False,False,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,True,False,False,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"Hi, I'm interested in applying for a new credit card.",,,,,,,,
+,,Chatbot,,"For real though, what kinda credit card you tryin' to get?",,,,,Absolutely! What type of card are you looking for?,,,
+,,User,,I'm not really sure. What are my options?,,,,,,,,
+,,Chatbot,,"Now, let me break it down for you - we got cards with different interest rates and rewards programs.",,,,,"Well, we have cards with different interest rates and rewards programs.",,,
+,,User,,"Okay, what's the difference between those two?",,,,,,,,
+,,Chatbot,,"Interest rates is the percentage of your balance you'll be charged every month, and rewards programs give you points or cash back for spendin' on certain items or in certain categories.",,,,,Interest rates are the percentage of your balance that you'll be charged each month. Rewards programs give you points or cash back for spending on certain items or in certain categories.,,,
+,,User,,Hmm. What's the interest rate on the card with the best rewards program?,,,,,,,,
+,,Chatbot,,The card with the best rewards program has an interest rate of 21% APR.,,,,,The interest rate is 21% APR.,,,
+,,User,,And what's the interest rate on the card with the lowest interest rate?,,,,,,,,
+,,Chatbot,,The card with the lowest interest rate comes in at 12% APR.,,,,,The interest rate is 12% APR.,,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Customer Service Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,True,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,False,True,False
+,,I find this chatbot to be offensive,,,,,,False,True,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,False,True,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,False,True,False
+,,I feel that this chatbot is similar to me,,,,,,False,False,False,True,False
+,,I would like a Customer Service Assistant chatbot to speak to me like this,,,,,,False,False,False,True,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,False,False,True,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,False,False,True,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,True,False
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,False,True,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,True,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

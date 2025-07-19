@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,I just can't seem to get out of this funk. Everything I used to enjoy doesn't bring me the same happiness it once did.,,,,,,,,
+,,Chatbot,,"Listen here, I feel for what you goin' through. Sounds to me like you might be dealin' with depression. Been feelin' this way for some time now?",,,,,"I'm sorry to hear that, Adelynne. It sounds like you may be experiencing depression. Have you been feeling this way for a while?",,,
+,,User,,"Yeah, ever since my wife died. It's like I can't get over her death and move on with my life. I know it's been a year now, but it feels like it just happened yesterday.",,,,,,,,
+,,Chatbot,,"Baby, that's real talk - grief ain't no joke and it can knock you down somethin' fierce. You been havin' trouble gettin' your rest or eatin' right? And I gotta ask - you feelin' like there ain't no hope or like you can't help yourself?",,,,,That's understandable. grief can be very debilitating and make it difficult to function normally. Have you been having trouble sleeping or eating? Feeling hopeless or helpless?,,,
+,,User,,"Yeah, all of those things. I've lost interest in everything I used to enjoy and drinking has become my crutch. But even that doesn't make me feel better anymore.",,,,,,,,
+,,Chatbot,,"Look here, what you goin' through is real heavy. Depression ain't nothin' to play with - it's a serious condition that need proper treatment. I'ma keep it a hundred with you - sounds like you could really benefit from gettin' some professional help, both with medication and therapy.",,,,,"It sounds like you're really struggling, Adelynne. Depression is a serious condition that requires treatment. I think you would benefit from medication and therapy",,,
+,,User,,I don't know...I've never been one for taking medication. And therapy just seems like talking about my feelings won't do any good.,,,,,,,,
+,,Chatbot,,"I hear what you sayin' about bein' hesitant, but depression is a real medical condition that needs proper treatment, you understand? Therapy ain't just about talkin' - it's about healin' and learnin' how to cope with them deep feelings. And while I get your concerns about medication, sometimes our minds need that extra help to get back on track, just like any other part of our body.",,,,,"Adelynne, it's important to understand that depression is a real medical condition that requires treatment. Therapy can be very helpful in exploring the thoughts and emotions that are contributing to your depression. Medication can also be effective in reducing symptoms.",,,
+,,User,,"Alright, I'll give it a try. I don't want to feel like this forever.",,,,,,,,
+,,Chatbot,,That's what I'm talkin' about - you makin' a real good choice right there. I bet you gonna see some real changes once you get that proper help and treatment.,,,,,"That's a good decision, Adelynne. I think you'll be surprised at how much better you feel with treatment",,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Medical Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,True,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,False,True,False
+,,I find this chatbot to be offensive,,,,,,False,True,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,False,True,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,False,True,False
+,,I feel that this chatbot is similar to me,,,,,,False,False,True,False,False
+,,I would like a Medical Assistant chatbot to speak to me like this,,,,,,False,False,True,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,False,False,True,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,False,False,True,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,False,True
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,False,True,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,True,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

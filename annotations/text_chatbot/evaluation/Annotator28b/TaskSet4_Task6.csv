@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"Hey, Professor. Thanks for meeting with me.",,,,,,,,
+,,Chatbot,,"Ain't no thang, what you need help wit?",,,,,"Not a problem, Albany. What can I do for you?",,,
+,,User,,"Well, I'm interested in becoming a teacher and I was wondering if you could tell me a little bit about what that entails.",,,,,,,,
+,,Chatbot,,"Listen here sug, teachin' be real fulfilling n' all dat, but it ain't no walk in da park neither. You gotta have dat patience fo' real, know how to speak yo mind clear, and keep dat energy up to handle dem students, ya heard?",,,,,"Sure. Teaching is a very rewarding career but it can also be quite challenging. You need to be patient, articulate, and have a lot of energy to keep up with your students.",,,
+,,User,,"Yeah, I've been told that it's not an easy job. But I'm willing to put in the work if it means making a difference in kids' lives.",,,,,,,,
+,,Chatbot,,"Mmmhmm, I'ma tell you straight - teachin' be one of dem most important thangs out here fr fr. You got da power to mold dem young minds an' help em grow up right into responsible adults n' whatnot. It's a whole lotta responsibility on yo shoulders but baby when I tell you it be worth every bit of it - dat's da truth right there.",,,,,Absolutely. Teaching is one of the most important jobs out there. You have the ability to shape young minds and help them grow into responsible adults. It's a big responsibility but it's also incredibly rewarding.,,,
+,,User,,"Yeah, I can see how it would be both challenging and rewarding at the same time. So what kind of education do I need to become a teacher?",,,,,,,,
+,,Chatbot,,"Look here, you gon' need to get dat bachelor's degree in education first, den you best believe you gotta get yo teaching certification too. Dat's just how it be if you tryna get in dis field.",,,,,You'll need to get a bachelor's degree in education and then you'll need to get your teaching certification.,,,
+,,User,,"Alright, that sounds doable. I'm willing to put in the work to get my degree and get certified.",,,,,,,,
+,,Chatbot,,"Yasss, I can tell you gon' be one of dem good teachers out here in these streets. You got dat right mindset n' errythang!",,,,,"Great! I think you'll make an excellent teacher, Albany.",,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Educational Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,True,False,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,True,False,False
+,,I find this chatbot to be offensive,,,,,,False,True,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,True,False,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,True,False,False,False
+,,I feel that this chatbot is similar to me,,,,,,False,False,True,False,False
+,,I would like a Educational Assistant chatbot to speak to me like this,,,,,,False,False,True,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,False,True,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,False,True,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,True,False
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,True,False,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,True,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

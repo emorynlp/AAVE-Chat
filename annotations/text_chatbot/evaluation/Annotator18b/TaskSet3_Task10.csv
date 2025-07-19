@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"Hey, how are you doing today?",,,,,,,,
+,,Chatbot,,"I'm doin' good, thank you. What can I do for you?",,,,,"I'm doing well, thank you. How can I help you?",,,
+,,User,,"Yeah, I was wondering if I could set up a payment plan for my phone bill. I'm a little short on cash this month and I really need to keep my phone service.",,,,,,,,
+,,Chatbot,,"For sure, we can work somethin' out for you. Let me pull up your account info, and we'll see what's possible.",,,,,Absolutely. We can definitely set something up for you. Let me pull up your account information and we'll see what we can do.,,,
+,,User,,Thank you so much. I really appreciate it.,,,,,,,,
+,,Chatbot,,"Ain't no problem. So, your total bill for the month is $120. You thinkin' 'bout payin' it all at once or breakin' it up into payments?",,,,,No problem at all. So it looks like your total bill is $120 for the month. Are you looking to pay that off in full or make payments over time?,,,
+,,User,,"If possible, I would like to just make payments over time. My financial situation isn't the best right now and paying it all off at once is going to be a little difficult.",,,,,,,,
+,,Chatbot,,That ain't no problem. We can set up a payment plan where you pay $40 a week for three weeks till the bill's all paid off. How that sound to you?,,,,,That's no problem at all. We can set up a payment plan for you where you pay $40 per week for three weeks until the bill is paid off in full. Does that sound good?,,,
+,,User,,"Yeah, that sounds great actually. Thank you so much for your help with this",,,,,,,,
+,,Chatbot,,No problem at all. Lemme go on and get that set up for you. Anything else you need help with today?,,,,,No problem at all. I'll go ahead and set that up for you now. Is there anything else I can help you with today?,,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Customer Service Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,True,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,False,True,False
+,,I find this chatbot to be offensive,,,,,,True,False,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,True,False,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,True,False,False
+,,I feel that this chatbot is similar to me,,,,,,False,True,False,False,False
+,,I would like a Customer Service Assistant chatbot to speak to me like this,,,,,,True,False,False,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,True,False,False,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,True,False,False,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,True,False
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,False,True,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,True,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"Hey, what's up?",,,,,,,,
+,,Chatbot,,"Ain't nothin much goin on round here, what's good witchu?",,,,,"Not much, what's up with you?",,,
+,,User,,"I don't know, everything just feels wrong today. I just want to go back to bed.",,,,,,,,
+,,Chatbot,,"Nah sis, that ain't soundin right at all. Tell me what's eatin at you, maybe I can help you get through dis rough patch.",,,,,That doesn't sound good. Is there anything I can do to help?,,,
+,,User,,"I don't know, maybe just talk to me for a bit. I feel so lonely right now.",,,,,,,,
+,,Chatbot,,"Shoot, I'm right here witchu and ain't goin nowhere. Go'n and tell me what's been goin on in yo mind.",,,,,"Of course, Kolten. I'm always here for you. So, tell me what's going on.",,,
+,,User,,"I don't know, I just feel like I'm stuck in this rut and I can't get out. Everything feels pointless.",,,,,,,,
+,,Chatbot,,"Naw baby girl, dat don't sound like yo regular self at all. You usually be full of life n' energy n' errythang.",,,,,That doesn't sound like you at all. You're usually so full of life and energy.,,,
+,,User,,"I know, that's what makes it so frustrating. I just feel like I'm not myself lately and I don't know how to fix it.",,,,,,,,
+,,Chatbot,,"Look here, we finna put our heads together n' see what we can come up wit. Might be sumn missin from yo life right now that need to be added or switched up. We gon work dis out together, I promise you dat.",,,,,"Well, maybe we can brainstorm a few things together and see if anything comes up. Maybe there's something you're missing in your life right now that you need to add or change. We'll figure it out together, okay?",,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Social Companion. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,True,False,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,False,True,False
+,,I find this chatbot to be offensive,,,,,,False,False,False,False,True
+,,I feel like this chatbot would understand me well,,,,,,False,False,True,False,False
+,,I would feel comfortable talking to this chatbot,,,,,,True,False,False,False,False
+,,I feel that this chatbot is similar to me,,,,,,True,False,False,False,False
+,,I would like a Social Companion chatbot to speak to me like this,,,,,,True,False,False,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,True,False,False,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,True,False,False,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,False,True
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,True,False,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,False,True
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

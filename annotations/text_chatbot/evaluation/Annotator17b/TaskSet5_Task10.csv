@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,It's math. I'm having a lot of trouble understanding it and I'm really worried about the test next week.,,,,,,,,
+,,Chatbot,,Lemme tell you sum'n - we gon' see what's givin' you dem problems wit' dem numbers n'at. We can work it out together so you can get dat material down pat fo' next week.,,,,,Let's take a look at what you're struggling with. Maybe we can figure out a way to help you understand it better.,,,
+,,User,,"Okay. So, like, this equation here... I don't get how to solve it. And then when we did word problems in class yesterday, I couldn't do any of them.",,,,,,,,
+,,Chatbot,,"Look here sista, we need to break down dis equation first. Tell me whatchu know 'bout dem variables up in there.",,,,,"Okay, well let's start with the equation. Do you know what each variable stands for?",,,
+,,User,,"Uh... no, not really.",,,,,,,,
+,,Chatbot,,"Mmhmm, den we finna start right dere. Once you understand what all dem letters be standin' fo', it's gon' make mo' sense how to work dat equation out.",,,,,"All right, let's start there then. Once you know what each variable represents, it might be easier to see how to solve the equation",,,
+,,User,,"Okay, that makes sense.",,,,,,,,
+,,Chatbot,,"Ayo, tell me whatchu think dat 'x' be representin' up in dis equation right here?",,,,,"So, what do you think x stands for in this equation?",,,
+,,User,,I'm not sure... maybe the answer?,,,,,,,,
+,,Chatbot,,"Nah baby, you on da right track, but lemme break it down real quick - in dis here equation, dat 'x' be standin' fo' how many days it's gon' take to get sum'n done. So when we put 5 up in there where 'x' at, dat mean it's gon' take 5 whole days to finish whateva we talkin' bout. You catchin' what I'm puttin' down?",,,,,"That's a good guess. But in this equation, x represents the number of days it will take to complete a task. So if we plug in 5 for x, that means it will take 5 days to complete the task. Make sense?",,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Educational Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,True,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,False,True,False
+,,I find this chatbot to be offensive,,,,,,False,True,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,True,False,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,True,False,False
+,,I feel that this chatbot is similar to me,,,,,,False,False,True,False,False
+,,I would like a Educational Assistant chatbot to speak to me like this,,,,,,False,True,False,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,True,False,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,True,False,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,True,False
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,True,False,False,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,True,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"So, rocks are made of different materials like minerals, right?",,,,,,,,
+,,Chatbot,,"Mmhm, that's it right there. Rocks be made up o' all kinda stuff, like minerals n' whatnot. Sometimes they even got organic bits in 'em, like plants or shells n' things like that.",,,,,"Yes, that's right. Rocks are made of different materials like minerals. They can also be made of organic material, like plant matter or shells.",,,
+,,User,,Do all rocks have the same colors and sizes?,,,,,,,,
+,,Chatbot,,"Naw, rocks don't all be lookin' the same wit they colors n' sizes. Some be real big, some lil' bitty ones, ya feel me? And some be just one color, but others? They be all mixed up wit a bunch o' colors.",,,,,"No, not all rocks have the same colors and sizes. Some rocks are very big, while others are very small. And some rocks are one color, while others have many different colors.",,,
+,,User,,Why are some rocks different colors?,,,,,,,,
+,,Chatbot,,"Aight, so check it—rocks be havin' all kinda colors 'cause o' the minerals up in 'em. Like, if a rock got a whole lotta iron, it gon' be red or brown. But if it's packed wit quartz, it be lookin' white or clear, ya feel?",,,,,"That's a good question. Some rocks are different colors because of the minerals that they contain. For example, a rock that contains a lot of iron will be red or brown. A rock that contains a lot of quartz will be white or clear.",,,
+,,User,,Do all rocks have the same materials in them?,,,,,,,,
+,,Chatbot,,"Naw, all rocks ain't got the same stuff up in 'em. Some be made outta just one kinda mineral, but others? They be mixin' it up wit all sorts o' minerals. And some even got organic bits, like plants or shells n' stuff.",,,,,"No, not all rocks have the same materials in them. Some rocks are made of just one type of mineral, while others are made of many different types of minerals. And some rocks even contain organic material, like plant matter or shells.",,,
+,,User,,Why do some rocks have different materials in them?,,,,,,,,
+,,Chatbot,,"Aight, lemme break it down fo' ya. Rocks got different stuff in 'em 'cause they ain't all come together the same way. Like, if it's an igneous rock, that one be comin' from lava coolin' down n' hardenin' up. But a sedimentary rock? That one be from sand n' bits settlin' in layers, then gettin' stuck together over time. Now, a metamorphic rock? That one be changin' up when heat n' pressure get all up on a rock that already exist.",,,,,"That's another good question. Some rocks have different materials in them because they formed in different ways. For example, an igneous rock might form when molten lava cools and hardens. A sedimentary rock might form when sand and other particles settle into layers and then become cemented together over time. And a metamorphic rock might form when heat and pressure change the structure of an existing rock",,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Educational Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,True,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,False,True,False
+,,I find this chatbot to be offensive,,,,,,False,False,True,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,True,False,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,True,False,False
+,,I feel that this chatbot is similar to me,,,,,,False,True,False,False,False
+,,I would like a Educational Assistant chatbot to speak to me like this,,,,,,False,True,False,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,True,False,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,True,False,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,True,False
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,False,True,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,True,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

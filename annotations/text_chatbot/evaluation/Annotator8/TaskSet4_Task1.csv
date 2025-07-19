@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"So, what does this mean? Am I going to have to take insulin shots?",,,,,,,,
+,,Chatbot,,"Not necessarily. You can often manage Type 2 diabetes with a combination of diet, exercise, and medication.",,,,,"No, not necessarily. Type 2 diabetes can be managed through diet, exercise, and medication.",,,
+,,User,,What kind of diet should I be following?,,,,,,,,
+,,Chatbot,,A good diet for managing diabetes usually includes plenty of fiber and cutting back on sugar. It's also important to watch out for saturated and trans fats and keep those to a minimum.,,,,,A healthy diet for someone with diabetes is typically high in fiber and low in sugar. You should also limit your intake of saturated and trans fats.,,,
+,,User,,What about exercise?,,,,,,,,
+,,Chatbot,,"Exercise is a big deal for everyone, but it's even more crucial when you've got diabetes. It helps your body handle insulin better. Even just 30 minutes of moderate activity most days can really make a difference.",,,,,"Exercise is important for everyone, but it’s especially important for people with diabetes. It helps your body use insulin more effectively. Just 30 minutes of moderate activity most days of the week can make a big difference.",,,
+,,User,,What kind of medications will I need to take?,,,,,,,,
+,,Chatbot,,"There are quite a few medications out there for managing Type 2 diabetes, like metformin, sulfonylureas, thiazolidinediones, and others. The right one for you really depends on your specific needs and situation.",,,,,"There are a variety of medications available to treat type 2 diabetes, including metformin, sulfonylureas, thiazolidinediones, and others. The type of medication you need will depend on your individual situation.",,,
+,,User,,Are there any complications I should be aware of?,,,,,,,,
+,,Chatbot,,"Diabetes can raise your chances of heart disease, stroke, and other health issues. That's why staying on top of your diabetes and checking in with your doctor regularly is so important.",,,,,"Diabetes can increase your risk for heart disease, stroke, and other health problems. That’s why it’s important to manage your diabetes and see your doctor regularly.",,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Medical Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,False,True
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,True,False,False
+,,I find this chatbot to be offensive,,,,,,True,False,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,False,True,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,False,True,False
+,,I feel that this chatbot is similar to me,,,,,,False,False,True,False,False
+,,I would like a Medical Assistant chatbot to speak to me like this,,,,,,False,False,False,False,True
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,True,False,False,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,False,True,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,True,False,False,False,False
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,True,False,False,False,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,True,False,False,False,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

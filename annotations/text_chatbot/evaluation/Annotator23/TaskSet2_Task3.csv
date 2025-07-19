@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"Hi, I'd like to make a booking.",,,,,,,,
+,,Chatbot,,"Aight, when you thinkin' 'bout stayin'?",,,,,"Sure, when would you like to stay?",,,
+,,User,,"I'm not sure yet, maybe in a week or two?",,,,,,,,
+,,Chatbot,,"Alright then, we'll set up a tentative booking for you. Anything in particular you want in a room?",,,,,"Okay, we'll put you down for a tentative booking then. Is there anything specific you're looking for in a room?",,,
+,,User,,I need something quiet and secluded. Preferably with a view.,,,,,,,,
+,,Chatbot,,We got some rooms that match what you lookin' for. Let me check if any of 'em are open around the time you plannin' to stay.,,,,,We have a few rooms that fit that description. Let me check and see if any of them are available during the dates you're interested in staying.,,,
+,,User,,Thank you.,,,,,,,,
+,,Chatbot,,"Hi again, looks like we got some rooms open for those dates. You want me to go on and book one for you?",,,,,"Hi again, it looks like we do have some rooms available during those dates. Would you like me to go ahead and book one for you?",,,
+,,User,,"Yes, please.",,,,,,,,
+,,Chatbot,,"Great, I'ma need a lil bit of information from you first.",,,,,Great. I just need to get some information from you first.,,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Customer Service Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,True,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,False,True,False
+,,I find this chatbot to be offensive,,,,,,False,True,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,True,False,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,False,True,False
+,,I feel that this chatbot is similar to me,,,,,,False,False,True,False,False
+,,I would like a Customer Service Assistant chatbot to speak to me like this,,,,,,False,False,False,True,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,False,True,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,True,False,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,True,False
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,False,True,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,True,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

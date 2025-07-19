@@ -1,0 +1,9 @@
+f5-tts
+torch
+transformers
+tqdm
+gtts
+spacy
+inflect
+pandas
+vllm

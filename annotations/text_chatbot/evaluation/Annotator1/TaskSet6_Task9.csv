@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,Hi! I'm looking for a new hobby and I wanted to try painting. Do you have any recommendations?,,,,,,,,
+,,Chatbot,,"Listen here, you gon' need a canvas, some paints, and a brush. Lemme show you what we got.",,,,,"Well, you'll need a canvas, some paints, and a brush. Let me show you what we have.",,,
+,,User,,"Ok, great!",,,,,,,,
+,,Chatbot,,"Well baby, we got all kinds of canvases up in here, from small to large ones. And we got different paints too. What colors you thinkin' about workin' with?",,,,,"We have a variety of canvases, from small to large. And we have all sorts of different paints. What kind of colors are you interested in?",,,
+,,User,,"Hmm, I'm not really sure. Maybe something bright and colorful?",,,,,,,,
+,,Chatbot,,"Well, we got some real nice options for you. Now about them brushes - there's synthetic and natural ones to choose from. Which type you think would work best for you?",,,,,"Alright, we have some great options then. As for brushes, we have synthetic ones and natural ones. What kind do you want to use?",,,
+,,User,,Synthetic sounds good.,,,,,,,,
+,,Chatbot,,"Well, I can show you several types of synthetic brushes we have here. Which style would work best for what you're trying to do?",,,,,Great! We have a few different types of synthetic brushes. Which one do you want to use?,,,
+,,User,,I don't know...which one do you recommend?,,,,,,,,
+,,Chatbot,,"Well honey, truth is the type of brush ain't really matter much, long as you comfortable with it. Just go on and pick one that feels right in your hand.",,,,,The type of brush doesn't really matter as long as you're comfortable with it. Just pick one that feels good in your hand.,,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Shopping Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,True,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,False,True,False
+,,I find this chatbot to be offensive,,,,,,True,False,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,True,False,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,False,True,False
+,,I feel that this chatbot is similar to me,,,,,,False,True,False,False,False
+,,I would like a Shopping Assistant chatbot to speak to me like this,,,,,,False,True,False,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,False,True,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,True,False,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,False,True
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,False,False,True
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,False,True
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

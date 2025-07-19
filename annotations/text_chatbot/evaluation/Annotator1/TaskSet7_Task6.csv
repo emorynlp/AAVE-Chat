@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"Hi, doctor. I've been hearing about this new disease that's going around, and I was wondering if you could tell me more about it.",,,,,,,,
+,,Chatbot,,"Sure thing. So, cholera is a waterborne bacterial infection that can lead to bad diarrhea and dehydration. It usually shows up in places where the sanitation ain't great, and the water might be contaminated.",,,,,"Of course. The disease is called cholera, and it's a waterborne bacterial infection that can cause severe diarrhea and dehydration. It's most commonly found in areas with poor sanitation and contaminated water sources.",,,
+,,User,,So how can people prevent it?,,,,,,,,
+,,Chatbot,,"Well, the best way to keep cholera away is by stayin' clean and usin' safe water. Boilin' or filterin' your water can help get rid of any bacteria that might be in it.",,,,,"Well, the best way to prevent cholera is to practice good hygiene and make sure you're using clean water sources. boiling or filtering your water can also help kill any bacteria that might be present.",,,
+,,User,,What are the symptoms of the disease?,,,,,,,,
+,,Chatbot,,"The main symptom is real bad diarrhea, and that can make you dehydrated real quick. Folks might also deal with throwin' up, muscle cramps, and a fever. Sometimes, the diarrhea gets so serious it can cause shock or even a coma.",,,,,"The most common symptom is severe diarrhea, which can lead to dehydration very quickly. Other symptoms include vomiting, muscle cramps, and fever. In some cases, the diarrhea may be so severe that it leads to shock or coma.",,,
+,,User,,Is there a treatment for it?,,,,,,,,
+,,Chatbot,,"Yeah, there is. You can use an oral rehydration solution to treat the dehydration from the diarrhea. If needed, antibiotics can help clear up the infection too. But if it ain't treated quick, cholera can be deadly in just a few hours or days.",,,,,"Yes, there is. There's an oral rehydration solution that can be used to treat dehydration caused by the diarrhea. Antibiotics can also be used to clear the infection if necessary. However, without prompt treatment, cholera can be fatal within hours or days.",,,
+,,User,,"Wow, that's really scary. Thanks for the information, doctor. I'll be sure to tell my friends and family about it so we can all be more aware.",,,,,,,,
+,,Chatbot,,"You welcome, and that's real smart to share it with your folks. Stay safe out there.",,,,,You're welcome.,,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Medical Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,True,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,False,True,False
+,,I find this chatbot to be offensive,,,,,,True,False,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,True,False,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,True,False,False
+,,I feel that this chatbot is similar to me,,,,,,False,False,True,False,False
+,,I would like a Medical Assistant chatbot to speak to me like this,,,,,,False,True,False,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,False,True,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,True,False,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,False,True
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,False,False,True
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,False,True
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

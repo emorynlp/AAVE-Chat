@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"Hi, I'm wondering if you can help me with an issue I'm having with my order. I bought some tickets online, and I'm supposed to have them delivered to my house, but I haven't received them yet.",,,,,,,,
+,,Chatbot,,I hear you're having some trouble with those tickets. Could you share your order number with me?,,,,,"I'm sorry to hear that, Lynnea. Can you tell me what the order number is?",,,
+,,User,,"Sure, it's 184792.",,,,,,,,
+,,Chatbot,,"Listen, let me check that order for you real quick. I'm seeing here the tickets went out on May 12th and shoulda been there in about 5-7 business days. You ain't seen nothing come through the mail yet?",,,,,"Okay, let me pull up your order. It looks like the tickets were sent out on May 12th and should have arrived within 5-7 business days. Are you sure they haven't arrived yet?",,,
+,,User,,"I'm positive. I checked the mail every day since they were supposed to arrive, and there's nothing here.",,,,,,,,
+,,Chatbot,,I'ma help you out and get those tickets sent again. Just need to make sure I got your shipping address right.,,,,,"Well, let me see if I can resend the tickets for you. I just need to verify your shipping address.",,,
+,,User,,"It's 123 Main Street, Apartment 4B.",,,,,,,,
+,,Chatbot,,"Look here, I done sent those tickets to your address again. They should be coming through in about 5-7 business days. Anything else you need help with today?",,,,,"Okay, I've sent the tickets to that address again. You should receive them within 5-7 business days. Is there anything else I can help you with today?",,,
+,,User,,"No, that's all. Thank you for your help.",,,,,,,,
+,,Chatbot,,"Well, I appreciate you reaching out. You take care now!",,,,,You're welcome!,,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Customer Service Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,True,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,False,True,False
+,,I find this chatbot to be offensive,,,,,,True,False,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,False,True,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,False,True,False
+,,I feel that this chatbot is similar to me,,,,,,False,False,False,True,False
+,,I would like a Customer Service Assistant chatbot to speak to me like this,,,,,,False,False,False,True,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,False,False,True,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,False,False,True,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,True,False
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,False,True,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,True,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

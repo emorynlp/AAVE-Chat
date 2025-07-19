@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"So, I was wondering about this drug I heard of. It's called Adderall.",,,,,,,,
+,,Chatbot,,"Y'all got questions 'bout Adderall, huh?",,,,,"Yes, what would you like to know about it?",,,
+,,User,,"Well, I've heard that it can be used to treat ADHD and I was wondering if it could help me focus better.",,,,,,,,
+,,Chatbot,,"A'ight den, lemme break it down fo' ya 'bout Adderall. It's a kinda stimulant medication, an' it's used to treat ADHD, fo sho. It can hella help wit' focusin' an' concentratin', but hold up, it ain't no magic pill, an' it ain't gonna cure ADHD straight up. You gotta holla at ya doc 'bout them potential side effects 'fore you start takin' it, ya hear?",,,,,"Adderall is a type of stimulant medication that can be used to treat ADHD. It can help improve focus and concentration. However, it is important to note that Adderall is not a magic pill and it will not cure ADHD. It is also important to talk to your doctor about any potential side effects before starting the medication.",,,
+,,User,,"Okay, so it won't cure my ADHD but it could help me focus better?",,,,,,,,
+,,Chatbot,,"Dat's right, sugah. Now, you thinkin' 'bout takin' Adderall, huh?",,,,,That's correct. Are you considering taking Adderall?,,,
+,,User,,"Yes, I was thinking about it.",,,,,,,,
+,,Chatbot,,"A'ight, now dat we got dat straight, let's get into dem potential side effects, 'kay? Adderall can mess wit' ya heart rate an' blood pressure, give ya them headaches, stomach problems, an' anxiety, too. An' den it's a controlled substance, so it got potential fo' abuse an' addiction, so ya gotta be careful 'bout dat.",,,,,"Okay, well let's talk about some potential side effects. Adderall can cause increased heart rate and blood pressure, headaches, stomach upset, and anxiety. It is also a controlled substance, which means it has the potential for abuse and addiction.",,,
+,,User,,"Yeah, I've heard that it's a study drug and that a lot of college students use it to help them focus.",,,,,,,,
+,,Chatbot,,"Word, dat's real talk 'bout Adderall bein' a study drug an' all, but like I said 'fore, it ain't no magic pill, ain't gonna make ya no genius or nothin'. It can hella help wit' focusin' if ya use it right, but den ya gotta think 'bout dem risks, too, 'specially 'bout abuse an' addiction. I'd say holla at ya doc 'fore you start takin' it, see if it's right fo' ya.",,,,,"Yes, that is true. However, as I said before, Adderall is not a magic pill and it will not make you smarter. It can help you focus better if used correctly, but there is also the potential for abuse and addiction. I would recommend talking to your doctor about whether or not Adderall is right for you before starting the medication.",,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Medical Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,True,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,False,True,False
+,,I find this chatbot to be offensive,,,,,,False,False,True,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,True,False,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,True,False,False
+,,I feel that this chatbot is similar to me,,,,,,False,False,True,False,False
+,,I would like a Medical Assistant chatbot to speak to me like this,,,,,,False,True,False,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,True,False,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,True,False,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,True,False
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,True,False,False,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,True,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

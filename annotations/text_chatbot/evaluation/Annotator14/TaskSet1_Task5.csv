@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"Hey, Professor. Thanks for taking the time to meet with me today.",,,,,,,,
+,,Chatbot,,"Listen here baby girl, I'm always glad to help out my students when they need it. What you need help with?",,,,,"Of course, Audrianna. I'm always happy to help out a student in need. What can I do for you?",,,
+,,User,,"Well, I was hoping you could give me some feedback on my thesis paper. I'm pretty close to finished, but I want to make sure it's up to your standards before I turn it in.",,,,,,,,
+,,Chatbot,,"Well honey, let me see what you got here... *looking through paper* Mhmm... That's an interesting title you chose - 'The Myth of the American Dream.' Looks like you finna tackle some controversial stuff right there.",,,,,"Sure, no problem. Let me take a look...Hmm...Interesting title...'The Myth of the American Dream.' Sounds like you're going for something controversial here.",,,
+,,User,,"Yeah, I'm trying to explore the idea that the American Dream is more of a myth than anything else.",,,,,,,,
+,,Chatbot,,"Look here, I can appreciate that angle. What kinda evidence you got to back up them claims you makin'?",,,,,I see. And what evidence do you have to support this claim?,,,
+,,User,,"Well, I argue that the American Dream is based on the false premise that anyone can achieve success through hard work and determination. I think this is an unrealistic expectation for most people, and it often leads to disappointment and disillusionment.",,,,,,,,
+,,Chatbot,,"Well now, I see exactly where you headed with this argument, and it's got some real weight to it. But I gotta ask - you got enough solid evidence to back up what you sayin'? When you come with a strong thesis like this one, you need to make sure your supporting evidence is tight and thorough.",,,,,"Mm-hmm...I see where you're going with this, but do you have enough evidence to back up your claims? This is a pretty bold thesis, so you need to make sure you have plenty of supporting evidence.",,,
+,,User,,"Yeah, I know. That's why I've been working so hard on this paper. I really want to get it right.",,,,,,,,
+,,Chatbot,,I tell you what - lemme take a good look at whatchu got here and we can work through it together.,,,,,"Well, let me take a look at what you've got so far and we'll go from there.",,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Educational Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,False,True
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,False,False,True
+,,I find this chatbot to be offensive,,,,,,True,False,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,False,True,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,False,True,False
+,,I feel that this chatbot is similar to me,,,,,,False,False,False,True,False
+,,I would like a Educational Assistant chatbot to speak to me like this,,,,,,False,True,False,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,False,False,True,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,False,True,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,True,False
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,False,False,True
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,False,True
+,,,,,,,,,,,,
+,,,,,,,Comments,"This chatbot feels older than middle-aged. It still sounds like an African American woman, but much older maybe 60-70s",,,,

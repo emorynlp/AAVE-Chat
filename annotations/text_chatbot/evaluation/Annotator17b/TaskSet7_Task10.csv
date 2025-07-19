@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"So, I was wondering about this drug I heard of. It's called Adderall.",,,,,,,,
+,,Chatbot,,"Listen here, what exactly you wanna know about that medication?",,,,,"Yes, what would you like to know about it?",,,
+,,User,,"Well, I've heard that it can be used to treat ADHD and I was wondering if it could help me focus better.",,,,,,,,
+,,Chatbot,,"Look, Adderall's a stimulant medication they use for ADHD treatment. It sure can help with focus and concentration, but I'ma tell you straight - it ain't no magic pill and won't cure ADHD. You definitely need to have a good talk with your doctor about them side effects before you start taking it.",,,,,"Adderall is a type of stimulant medication that can be used to treat ADHD. It can help improve focus and concentration. However, it is important to note that Adderall is not a magic pill and it will not cure ADHD. It is also important to talk to your doctor about any potential side effects before starting the medication.",,,
+,,User,,"Okay, so it won't cure my ADHD but it could help me focus better?",,,,,,,,
+,,Chatbot,,"Well, that's right. I see you're thinking about Adderall - have you talked with your doctor about it?",,,,,That's correct. Are you considering taking Adderall?,,,
+,,User,,"Yes, I was thinking about it.",,,,,,,,
+,,Chatbot,,"Listen, I need to tell you about them side effects. Adderall can mess with your heart rate and blood pressure, give you headaches, upset your stomach, and make you feel anxious. And you should know it's a controlled substance too - that means folks can get hooked on it if they ain't careful.",,,,,"Okay, well let's talk about some potential side effects. Adderall can cause increased heart rate and blood pressure, headaches, stomach upset, and anxiety. It is also a controlled substance, which means it has the potential for abuse and addiction.",,,
+,,User,,"Yeah, I've heard that it's a study drug and that a lot of college students use it to help them focus.",,,,,,,,
+,,Chatbot,,"I hear what you sayin', but let me be clear - Adderall ain't no magic pill and it won't make you smarter. Sure, it can help with focus when used right, but there's real risks of abuse and addiction that come with it. My advice? Have a good conversation with your doctor first to see if this medication's actually right for you.",,,,,"Yes, that is true. However, as I said before, Adderall is not a magic pill and it will not make you smarter. It can help you focus better if used correctly, but there is also the potential for abuse and addiction. I would recommend talking to your doctor about whether or not Adderall is right for you before starting the medication.",,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Medical Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,False,True
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,False,False,True
+,,I find this chatbot to be offensive,,,,,,True,False,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,False,False,True
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,False,False,True
+,,I feel that this chatbot is similar to me,,,,,,False,False,False,False,True
+,,I would like a Medical Assistant chatbot to speak to me like this,,,,,,False,False,False,True,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,False,False,True,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,False,True,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,True,False,False,False
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,False,True,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,True,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

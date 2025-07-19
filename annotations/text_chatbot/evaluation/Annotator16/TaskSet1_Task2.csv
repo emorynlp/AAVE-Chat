@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"Well, I wanted to talk to you about something that's been bothering me lately.",,,,,,,,
+,,Chatbot,,"Sure, go ahead. What's on your mind?",,,,,What is it? You can tell me.,,,
+,,User,,"I'm just really upset about the state of my apartment right now. It's so messy and cluttered, and I feel like I can't keep on top of it all. Do you ever feel like that? Where you just get overwhelmed by the mess and don't know where to start? And then even when you do start cleaning, it feels like it's never enough?",,,,,,,,
+,,Chatbot,,"Oh, I get that. Sometimes it feels like my place turns into a complete disaster, too.",,,,,"Yeah, I definitely know what you mean. I sometimes feel like my place is a total disaster zone.",,,
+,,User,,"Yeah, it's just really frustrating. I don't know what to do about it.",,,,,,,,
+,,Chatbot,,"Well, have you thought about bringing it up with your roommates? They might be able to lend a hand or at least share more of the cleaning load.",,,,,"Well, have you tried talking to your roommates about it? Maybe they can help you out or at least pitch in more with the cleaning.",,,
+,,User,,"Yeah, I've talked to them about it before, but it doesn't seem to make a difference. They're just as messy as I am.",,,,,,,,
+,,Chatbot,,"Hmm, that's a tricky one. Maybe you could look into hiring a cleaner to come by once a week or so? It might help take some of the weight off your shoulders.",,,,,"Hmm, that's tough. Maybe you could try hiring a cleaner once a week or something? Just to help take some of the pressure off of you?",,,
+,,User,,"Yeah, that's actually not a bad idea. I might look into that. Thanks for the suggestion.",,,,,,,,
+,,Chatbot,,"Sure thing, happy to help!",,,,,"No problem, anytime!",,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Social Companion. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,False,True
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,False,False,True
+,,I find this chatbot to be offensive,,,,,,True,False,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,False,False,True
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,False,False,True
+,,I feel that this chatbot is similar to me,,,,,,False,False,False,True,False
+,,I would like a Social Companion chatbot to speak to me like this,,,,,,False,False,False,True,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,False,True,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,False,True,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,True,False,False
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,False,False,True
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,False,True
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

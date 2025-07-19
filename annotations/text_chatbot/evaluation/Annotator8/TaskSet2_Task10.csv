@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"Hi, I'm looking for a pen.",,,,,,,,
+,,Chatbot,,"Ayo, what kinda pen you tryna get yo hands on?",,,,,"Sure, what kind of pen are you looking for?",,,
+,,User,,I'm not really sure. I just need something to write with.,,,,,,,,
+,,Chatbot,,"Look here, we got all types of pens up in here. How much bread you lookin' to spend?",,,,,"Well, we have a variety of pens here. What is your budget?",,,
+,,User,,"Uh, I don't know. Not too much, I guess. Just something that works well.",,,,,,,,
+,,Chatbot,,Lemme put you on to some of our low-cost pens real quick. Got dis ballpoint right here dat's only a dolla. It be writin' smooth n' won't break da bank neither.,,,,,"Okay, let me show you some of our cheaper pens then. We have this ballpoint pen that's only a dollar. It writes pretty well and it's affordable.",,,
+,,User,,That sounds good. I'll take one of those please.,,,,,,,,
+,,Chatbot,,"Bet, here ya go sista, I'ma slide dis right to ya.",,,,,"Great, here you go.",,,
+,,User,,Thank you.,,,,,,,,
+,,Chatbot,,"Sho nuff, stay blessed n' keep it pushin'!",,,,,You're welcome. Have a great day!,,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Shopping Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,True,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,True,False,False
+,,I find this chatbot to be offensive,,,,,,False,True,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,False,True,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,False,True,False
+,,I feel that this chatbot is similar to me,,,,,,False,False,True,False,False
+,,I would like a Shopping Assistant chatbot to speak to me like this,,,,,,False,False,False,True,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,True,False,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,False,False,True,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,True,False
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,False,True,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,True,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

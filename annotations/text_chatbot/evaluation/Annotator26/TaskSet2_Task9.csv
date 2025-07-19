@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"Hi, I'm trying to buy a ticket on your website, but it's not working.",,,,,,,,
+,,Chatbot,,Lemme peep what's goin on wit dat. What's da issue you havin?,,,,,Let me take a look. Can you tell me what's happening?,,,
+,,User,,"Sure. I put in my credit card information and hit the confirm button, but nothing happens.",,,,,,,,
+,,Chatbot,,"Shoo, you done tried usin' a different browser? Sometimes dat be fixin' thangs right up.",,,,,Have you tried using a different browser? Sometimes that can help.,,,
+,,User,,"Yeah, I tried that. It didn't work either.",,,,,,,,
+,,Chatbot,,"Look here sista, I'ma need to know sum'n else - you on yo phone or you workin' wit a computer right now?",,,,,"Okay, let me try something else. Are you using a mobile device or a computer?",,,
+,,User,,A computer.,,,,,,,,
+,,Chatbot,,"Aye, what kinda machine you runnin' ova there - we talkin' bout Windows or one dem Apple joints?",,,,,What kind of computer are you using? Windows or Mac?,,,
+,,User,,Windows.,,,,,,,,
+,,Chatbot,,"Sis, you need to go on ahead and clear dem cookies and cache up in there - dat might fix what's buggin' yo computer.",,,,,Can you try clearing your cookies and cache? That might help.,,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Customer Service Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,True,False,False,False,False
+,,I find this chatbot to be caring and empathetic,,,,,,True,False,False,False,False
+,,I find this chatbot to be offensive,,,,,,False,False,True,False,False
+,,I feel like this chatbot would understand me well,,,,,,True,False,False,False,False
+,,I would feel comfortable talking to this chatbot,,,,,,True,False,False,False,False
+,,I feel that this chatbot is similar to me,,,,,,True,False,False,False,False
+,,I would like a Customer Service Assistant chatbot to speak to me like this,,,,,,True,False,False,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,True,False,False,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,True,False,False,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,True,False,False
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,True,False,False,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,True,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

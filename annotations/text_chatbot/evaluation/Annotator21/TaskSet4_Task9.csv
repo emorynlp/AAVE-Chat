@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"So, the doctor says I have COPD. Is that serious?",,,,,,,,
+,,Chatbot,,"COPD is somethin' serious, for real, 'cause it can mess with your breathing. You gotta stay on top of it, manage it right, and steer clear of things that might make it worse. Ain't no cure for it, but with the right treatment and some changes to how you livin', you can slow it down and still keep your quality of life up.",,,,,"COPD is a serious condition that can make it difficult for you to breathe. It's important to take steps to manage your condition and avoid triggers that can make your symptoms worse. There is no cure for COPD, but with treatment and lifestyle changes, you can slow the progression of the disease and improve your quality of life.",,,
+,,User,,What causes COPD?,,,,,,,,
+,,Chatbot,,"COPD usually comes from smoking, but bein' around other things that irritate your lungs, like air pollution or secondhand smoke, can cause it too.",,,,,"COPD is typically caused by smoking, but it can also be caused by exposure to other lung irritants, such as air pollution or secondhand smoke.",,,
+,,User,,What are the symptoms of COPD?,,,,,,,,
+,,Chatbot,,"The main symptom of COPD is feelin' short of breath. You might also deal with coughin', wheezin', or a tightness in your chest.",,,,,"The most common symptom of COPD is shortness of breath. Other symptoms may include coughing, wheezing, and chest tightness.",,,
+,,User,,How is COPD diagnosed?,,,,,,,,
+,,Chatbot,,"Your doctor gon' ask 'bout your medical history and check you out with a physical exam. They might run some tests too, like a chest x-ray or a spirometry test, to make sure of the diagnosis.",,,,,"Your doctor will ask about your medical history and perform a physical exam. They may also order tests, such as a chest x-ray or spirometry test, to confirm the diagnosis.",,,
+,,User,,What are the treatments for COPD?,,,,,,,,
+,,Chatbot,,"Ain't no cure for COPD, but the treatment can help ease up them symptoms and slow it down some. They might have you quit smokin', take some meds, use oxygen therapy, or even look into surgery.",,,,,"There is no cure for COPD, but treatment can help ease symptoms and slow the progression of the disease. Treatment options include quitting smoking, medications, oxygen therapy, and surgery.",,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Medical Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,True,False,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,True,False,False,False
+,,I find this chatbot to be offensive,,,,,,False,False,False,True,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,True,False,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,True,False,False
+,,I feel that this chatbot is similar to me,,,,,,False,False,True,False,False
+,,I would like a Medical Assistant chatbot to speak to me like this,,,,,,False,False,True,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,False,True,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,False,True,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,True,False
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,True,False,False,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,True,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

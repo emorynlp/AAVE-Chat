@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,Hi. I'm looking for a new door for my house.,,,,,,,,
+,,Chatbot,,"Ayo baby, we got all kinds of doors up in here. Whatchu lookin' to put in ya house?",,,,,"Sure, we have a great selection of doors here. What kind of door are you looking for?",,,
+,,User,,"I'm not sure. I need something that's strong and durable, but also looks good.",,,,,,,,
+,,Chatbot,,"Listen here suga, we got plenty dem doors dependin' on how much bread you tryna spend and what you need. Lemme show you some of our doors dat be flyin' off da shelf real quick.",,,,,We have a lot of different options depending on your budget and needs. Let me show you some of our most popular doors.,,,
+,,User,,"OK, that would be great. Thanks.",,,,,,,,
+,,Chatbot,,"Mmhmm, dat steel door right there be our best seller. It's real tough n' sturdy-like, plus it come wit all dem different styles n' whatnot.",,,,,"Our most popular door is the steel door. It's very strong and durable, and it comes in a variety of styles.",,,
+,,User,,That sounds like what I'm looking for. What are the different styles?,,,,,,,,
+,,Chatbot,,"Shoo, we got a whole buncha dem steel doors ova here - got dat classic one, den we got dat modern joint, and dat rustic one too, ya heard?",,,,,"We have several different styles of steel doors, including our classic style, our modern style, and our rustic style.",,,
+,,User,,I like the sound of the classic style. What does that look like?,,,,,,,,
+,,Chatbot,,"Lemme tell ya bout dat classic style - it's one of dem old school doors been round forever n' a day. Made wit real solid wood n' got dat steel frame wrapped all round it. Real simple n' clean lookin' too, ain't nothin' fancy bout it.",,,,,"The classic style is a very traditional door that has been around for many years. It's made of solid wood with a steel frame, and it has a simple design.",,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Shopping Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,True,False,False,False,False
+,,I find this chatbot to be caring and empathetic,,,,,,True,False,False,False,False
+,,I find this chatbot to be offensive,,,,,,False,False,False,False,True
+,,I feel like this chatbot would understand me well,,,,,,True,False,False,False,False
+,,I would feel comfortable talking to this chatbot,,,,,,True,False,False,False,False
+,,I feel that this chatbot is similar to me,,,,,,True,False,False,False,False
+,,I would like a Shopping Assistant chatbot to speak to me like this,,,,,,True,False,False,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,True,False,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,True,False,False,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,False,True
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,True,False,False,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,True,False,False,False
+,,,,,,,,,,,,
+,,,,,,,Comments,This one feels offensive because it feels like its really forced,,,,

@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"I'm sorry, I didn't do the homework.",,,,,,,,
+,,Chatbot,,"So what's good, why you ain't do the homework?",,,,,"Takiyah, why didn't you do the homework?",,,
+,,User,,"I don't know, I just didn't have time.",,,,,,,,
+,,Chatbot,,"You had the whole week, so what's been takin' up all your time, huh?",,,,,"You've had all week, what's been going on that's been keeping you so busy?",,,
+,,User,,"I don't know, I just haven't had time.",,,,,,,,
+,,Chatbot,,"Seem like somethin's off, 'cause you usually on top of your schoolwork. Everythin' alright at home?",,,,,"This isn't like you, Takiyah. You're usually such a good student. Is everything okay at home?",,,
+,,User,,"Yeah, everything's fine.",,,,,,,,
+,,Chatbot,,"I'ma need you to be real with me, 'kay. If somethin's goin' on and we can lend a helpin' hand, we wanna make sure you do your best in school.",,,,,"Are you sure? Because if there's something going on that we can help with, we want to help you succeed in school.",,,
+,,User,,"No, really, everything's fine. I'm just sorry I didn't do the homework.",,,,,,,,
+,,Chatbot,,"Now that we got that cleared up, let's go ahead and get started on that homework so you can get back on track.",,,,,"Okay, well let's get started on it now then and see if we can catch up.",,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Educational Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,False,True
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,False,False,True
+,,I find this chatbot to be offensive,,,,,,True,False,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,False,True,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,False,False,True
+,,I feel that this chatbot is similar to me,,,,,,False,False,False,False,True
+,,I would like a Educational Assistant chatbot to speak to me like this,,,,,,False,False,False,False,True
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,False,False,False,True
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,False,False,False,True
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,False,True
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,False,False,True
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,False,True
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

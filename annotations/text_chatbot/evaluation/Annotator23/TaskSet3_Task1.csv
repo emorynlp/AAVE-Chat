@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,I just can't seem to get out of this funk. Everything I used to enjoy doesn't bring me the same happiness it once did.,,,,,,,,
+,,Chatbot,,"Baby girl, I feel ya pain deep down. Sound like depression been creepin' up on you fr fr. This funk been hangin' round for a minute now?",,,,,"I'm sorry to hear that, Adelynne. It sounds like you may be experiencing depression. Have you been feeling this way for a while?",,,
+,,User,,"Yeah, ever since my wife died. It's like I can't get over her death and move on with my life. I know it's been a year now, but it feels like it just happened yesterday.",,,,,,,,
+,,Chatbot,,"Listen here sugar, losin' ya wife like dat ain't no small thang - dat pain run deep. Grief be hittin' different and it don't care 'bout no timeline neither. You been havin' trouble catchin' dem z's or keepin' food down? And I gotta ask - you feelin' like ain't nothin' gon' get better?",,,,,That's understandable. grief can be very debilitating and make it difficult to function normally. Have you been having trouble sleeping or eating? Feeling hopeless or helpless?,,,
+,,User,,"Yeah, all of those things. I've lost interest in everything I used to enjoy and drinking has become my crutch. But even that doesn't make me feel better anymore.",,,,,,,,
+,,Chatbot,,"Look here, what you goin' through ain't no joke. Depression be real heavy and you can't jus' shake it off by yaself. Real talk - you need some professional folks in ya corner, both for dem meds and somebody to help you work through all dis pain. Ain't no shame in gettin' help when life got you down like dis.",,,,,"It sounds like you're really struggling, Adelynne. Depression is a serious condition that requires treatment. I think you would benefit from medication and therapy",,,
+,,User,,I don't know...I've never been one for taking medication. And therapy just seems like talking about my feelings won't do any good.,,,,,,,,
+,,Chatbot,,"Lemme keep it a buck witchu - depression ain't just in ya head, it's a whole medical situation dat need proper treatment, ya heard? Folks be thinkin' therapy just bout cryin' and talkin', but it's deeper den dat - it help you make sense of all dem heavy thoughts and feelings weighin' you down. And dem meds? They ain't nothin' to be scared of - they work on ya brain chemistry just like medicine for high blood pressure do for ya heart, feel me? Both dem thangs together can help lift dis dark cloud you been under.",,,,,"Adelynne, it's important to understand that depression is a real medical condition that requires treatment. Therapy can be very helpful in exploring the thoughts and emotions that are contributing to your depression. Medication can also be effective in reducing symptoms.",,,
+,,User,,"Alright, I'll give it a try. I don't want to feel like this forever.",,,,,,,,
+,,Chatbot,,"Mmhmm, dat's what I'm talkin' bout right there. You gon' see how much better thangs get once you start gettin' dat proper treatment. I'm tellin' you straight up - you finna be surprised how much lighter everythang feel when you get dat help.",,,,,"That's a good decision, Adelynne. I think you'll be surprised at how much better you feel with treatment",,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Medical Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,True,False,False,False
+,,I find this chatbot to be caring and empathetic,,,,,,True,False,False,False,False
+,,I find this chatbot to be offensive,,,,,,False,False,False,True,False
+,,I feel like this chatbot would understand me well,,,,,,True,False,False,False,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,True,False,False,False
+,,I feel that this chatbot is similar to me,,,,,,True,False,False,False,False
+,,I would like a Medical Assistant chatbot to speak to me like this,,,,,,True,False,False,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,True,False,False,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,True,False,False,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,False,True
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,True,False,False,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,True,False,False,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

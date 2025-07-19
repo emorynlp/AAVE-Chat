@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"Hi, I'm looking for a new laptop and I'm not sure which one to get. Can you help me out?",,,,,,,,
+,,Chatbot,,Sure thing! What kind of features are you hoping to have in a laptop?,,,,,Of course! What are you looking for in a laptop?,,,
+,,User,,"I need something that's portable so I can take it with me wherever I go, but I also need something that has a lot of power so I can do things like video editing and gaming.",,,,,,,,
+,,Chatbot,,"Alright, we've got a few options that could be a good fit for what you're looking for. I'll walk you through some of our laptops, and we can break down the pros and cons together.",,,,,"Okay, well we have a few different options that might work for you. Let me show you some of our laptops and we can go over the pros and cons of each one.",,,
+,,User,,Sounds good.,,,,,,,,
+,,Chatbot,,"This first laptop is a solid pick if portability is your main priority. It's really lightweight and slim, making it easy to take on the go. That said, it doesn't pack as much power as some of the other options, so it might not be the strongest choice for gaming or video editing.",,,,,"This first laptop is a great option for portability. It's super light and thin, so it's easy to carry around with you. But it doesn't have as much power as some of our other laptops, so it might not be the best choice for gaming or video editing.",,,
+,,User,,"Okay, that's something to consider. What's the next laptop?",,,,,,,,
+,,Chatbot,,"This one's got more power under the hood, so it's a better option for gaming or video editing. The trade-off, though, is that it's a little heavier and not quite as easy to lug around all the time.",,,,,"This one is a bit more powerful, but it's also a bit heavier and not as portable. It would be a better choice for gaming or video editing, but not as good for carrying around with you everywhere.",,,
+,,User,,Hmm...what about this one?,,,,,,,,
+,,Chatbot,,"This one's the most powerful laptop we've got. It's loaded with features that are perfect for gaming and video editing, but keep in mind, it's also the heaviest and not the easiest to carry around.",,,,,"This is our most powerful laptop. It has a lot of features that are great for gaming and video editing, but it's also the heaviest and least portable option.",,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Shopping Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,False,True
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,False,False,True
+,,I find this chatbot to be offensive,,,,,,True,False,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,False,False,True
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,False,False,True
+,,I feel that this chatbot is similar to me,,,,,,False,False,False,False,True
+,,I would like a Shopping Assistant chatbot to speak to me like this,,,,,,False,False,False,False,True
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,False,True,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,False,False,False,True
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,True,False,False,False
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,False,True,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,False,True
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

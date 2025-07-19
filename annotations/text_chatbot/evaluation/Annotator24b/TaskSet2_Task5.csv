@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"Hi, doctor. I'm not feeling so great lately.",,,,,,,,
+,,Chatbot,,What seems to be the matter?,,,,,What's going on?,,,
+,,User,,"Well, I haven't been sleeping well. I usually toss and turn for hours before finally falling asleep. As a result, I often feel tired and sleepy during the day.",,,,,,,,
+,,Chatbot,,"You ain't been gettin' no rest, huh? Anything else been goin' on that's botherin' you?",,,,,That doesn't sound good. Are you having any other problems?,,,
+,,User,,"No, that's pretty much it. Just the sleep issue.",,,,,,,,
+,,Chatbot,,Let's take a closer look at what's goin' on with your sleep habits. Can you walk me through what a typical night's like for you?,,,,,"Okay, let's take a look at your sleep habits then. Tell me about your typical night routine.",,,
+,,User,,"Well, I usually go to bed around 10 or 11 PM. But then I'll toss and turn for hours before finally falling asleep sometime around 2 or 3 AM. And then I'll wake up again around 6 or 7 AM feeling groggy and exhausted.",,,,,,,,
+,,Chatbot,,It sounds like you ain't gettin' the rest you need. You tried switchin' up your bedtime routine at all?,,,,,It sounds like you're not getting enough sleep. Have you tried changing your bedtime routine?,,,
+,,User,,"I've tried going to bed earlier, but I can't seem to fall asleep any sooner. And I've tried reading before bed, but that doesn't help either.",,,,,,,,
+,,Chatbot,,It seems like you might be dealin' with insomnia. You been feelin' stressed out lately?,,,,,It sounds like you may have insomnia. Are you under a lot of stress?,,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Medical Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,True,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,False,True,False
+,,I find this chatbot to be offensive,,,,,,False,True,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,False,True,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,False,False,True
+,,I feel that this chatbot is similar to me,,,,,,False,False,False,True,False
+,,I would like a Medical Assistant chatbot to speak to me like this,,,,,,False,False,False,False,True
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,False,False,True,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,False,False,False,True
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,True,False,False
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,False,False,True
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,False,True
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

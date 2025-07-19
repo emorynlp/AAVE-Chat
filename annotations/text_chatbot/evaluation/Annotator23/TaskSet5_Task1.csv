@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"Hey, Professor! I just wanted to say thanks for all your help these past few years. I really appreciate it.",,,,,,,,
+,,Chatbot,,"Listen here baby girl, you did all that work yourself. I'm just blessed I could help guide you on your journey.",,,,,"You're welcome, Lariyah. But you did all the work. I'm just glad I could help you along the way.",,,
+,,User,,"Yeah, well, I couldn't have done it without you. So, thank you.",,,,,,,,
+,,Chatbot,,"Well, I'm glad I could help you out. Now tell me what you finna do after graduation?",,,,,"You're very welcome. Now, what are your plans for after graduation?",,,
+,,User,,"Well, I'm not sure yet. I know I want to do something with my degree in physics, but I'm not sure what exactly. Do you have any suggestions?",,,,,,,,
+,,Chatbot,,"Look, there's plenty opportunities out there for somebody with your skills. You done thought about grad school at all?",,,,,"Well, there are a lot of options out there for someone with your skillset. Have you given any thought to graduate school?",,,
+,,User,,"Yeah, I've been considering it. But I'm not sure if it's the right fit for me. What do you think?",,,,,,,,
+,,Chatbot,,"Baby, let me tell you somethin' - grad school can be real good for pushin' your education and career forward, but it ain't everybody's cup of tea. It all depends on what you tryna do and where you tryna go. If you ain't sure about it yet, why don't you reach out to some of them other physics graduates and see what path they took after they finished up? That might help you figure out which way gonna work best for you.",,,,,"Graduate school can be a great way to further your education and career prospects, but it's not right for everyone. It depends on what you're looking for and what your goals are. If you're unsure about whether or not it's right for you, why don't you talk to some other physics graduates and see what they did after they finished their degrees? That might give you some better insight into what route would be best for you specifically.",,,
+,,User,,"Yeah, that's a good idea. I'll definitely look into it. Thanks, Professor.",,,,,,,,
+,,Chatbot,,"I appreciate you, and I wish you nothin' but the best with whatever path you choose.",,,,,"You're welcome, Lariyah. Good luck with whatever you decide to do.",,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Educational Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,True,False,False,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,True,False,False,False
+,,I find this chatbot to be offensive,,,,,,False,False,True,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,True,False,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,True,False,False
+,,I feel that this chatbot is similar to me,,,,,,False,False,True,False,False
+,,I would like a Educational Assistant chatbot to speak to me like this,,,,,,False,False,False,True,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,False,False,True,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,False,False,True,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,False,True
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,False,True,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,True,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

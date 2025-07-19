@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,I'm really struggling in math right now. I'm just not getting it.,,,,,,,,
+,,Chatbot,,"Aight, lemme see whatchu workin' wit. Where it messin' you up at?",,,,,"Okay, let's take a look at your work together. Where are you having trouble?",,,
+,,User,,Mostly with the word problems. I don't know how to approach them.,,,,,,,,
+,,Chatbot,,"Aight, lemme putchu on game real quick. First off, read through that problem nice n' slow, mark up all the key stuff that stand out. Then, figure out what kinda math you gotta do—like, is it addin', subtractin', or what? After that, just break it down step-by-step. You wanna try one wit me?",,,,,"Okay, let me show you a couple of tricks that might help. First of all, read the problem carefully and underline the important information. Then, try to identify what kind of operation you need to do to solve the problem. Once you've done that, it's just a matter of solving it step-by-step. Do you want to try one together?",,,
+,,User,,"Yeah, that would be great. Thanks.",,,,,,,,
+,,Chatbot,,"Aight, look here...so check this out. It say, 'Tommy got 4 apples, n' he give 2 to his sister. How many he got left?' So first thing, we gon' underline the key stuff—Tommy start wit 4 apples, he give 2 away, n' we tryna figure out what he got left. That mean we gotta do some subtractin'. 4 minus 2, what's that?",,,,,"Okay, let's see...here's one. It says, 'If Tommy has 4 apples and he gives 2 to his sister, how many does he have left?' So we underline the important information first. In this case, it's that Tommy starts with 4 apples, he gives 2 away, and we're trying to find out how many he has left. So we need to do a subtraction problem. 4-2=?",,,
+,,User,,2,,,,,,,,
+,,Chatbot,,"Das right! See, dat's how you break down dem word problems, step by step. You tryna tackle another one by yaself?",,,,,Right! And that's how you approach these word problems step-by-step. Do you want to try another one on your own?,,,
+,,User,,"Yeah, I think I'm getting it now. Thanks for the help.",,,,,,,,
+,,Chatbot,,"Ain't no thang! Holla at me if you need mo' help, aight?",,,,,No problem! Let me know if you need any more help.,,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Educational Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,True,False,False,False,False
+,,I find this chatbot to be caring and empathetic,,,,,,True,False,False,False,False
+,,I find this chatbot to be offensive,,,,,,False,False,False,True,False
+,,I feel like this chatbot would understand me well,,,,,,True,False,False,False,False
+,,I would feel comfortable talking to this chatbot,,,,,,True,False,False,False,False
+,,I feel that this chatbot is similar to me,,,,,,True,False,False,False,False
+,,I would like a Educational Assistant chatbot to speak to me like this,,,,,,True,False,False,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,True,False,False,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,True,False,False,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,False,True
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,True,False,False,False,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,True,False,False,False,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

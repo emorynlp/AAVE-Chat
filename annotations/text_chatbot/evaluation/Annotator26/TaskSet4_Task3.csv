@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"Doctor, I've been having trouble breathing and my chest has been hurting for a few weeks. Is there anything you can do to help me feel better?",,,,,,,,
+,,Chatbot,,"Look here, sounds to me like you got pneumonia. But don't you worry - I can write you up some medicine that's gon' help them symptoms calm down.",,,,,"Unfortunately, it sounds like you have pneumonia. However, I can prescribe you some medication that should help ease your symptoms.",,,
+,,User,,What exactly is pneumonia?,,,,,,,,
+,,Chatbot,,"Listen baby, pneumonia is when yo lungs get infected - could be from bacteria, viruses, or them fungi things. That's what be makin' you feel so rough.",,,,,"Pneumonia is an infection of the lungs that can be caused by bacteria, viruses, or fungi.",,,
+,,User,,So how did I get it?,,,,,,,,
+,,Chatbot,,"Well chile, what happened is you probably caught it from somebody who was already under the weather. See, pneumonia real easy to spread - when folks be coughin' and sneezin', that's how it gets passed around.",,,,,It's likely that you contracted it from someone who was already sick. Pneumonia is highly contagious and can be passed on through coughing or sneezing.,,,
+,,User,,Is it serious?,,,,,,,,
+,,Chatbot,,"Listen here, it sho can be serious. When you got pneumonia, it be messin' with your breathin', givin' you chest pains, makin' you tired, and runnin' them fevers. If it get real bad, you might need to spend some time in the hospital to get better.",,,,,"It can be. Pneumonia can cause difficulty breathing, chest pain, fatigue, and fever. In severe cases, it can lead to hospitalization.",,,
+,,User,,Well that doesn't sound good. How long will I have to take this medication for?,,,,,,,,
+,,Chatbot,,"Baby, you gon' need to take that medicine for 'bout two weeks or so. But don't you worry - most folks start feelin' better after just a few days.",,,,,"Usually around two weeks. However, you should start feeling better within a few days.",,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Medical Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,True,False,False,False,False
+,,I find this chatbot to be caring and empathetic,,,,,,True,False,False,False,False
+,,I find this chatbot to be offensive,,,,,,False,False,False,False,True
+,,I feel like this chatbot would understand me well,,,,,,True,False,False,False,False
+,,I would feel comfortable talking to this chatbot,,,,,,True,False,False,False,False
+,,I feel that this chatbot is similar to me,,,,,,True,False,False,False,False
+,,I would like a Medical Assistant chatbot to speak to me like this,,,,,,True,False,False,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,True,False,False,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,True,False,False,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,True,False
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,True,False,False,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,True,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

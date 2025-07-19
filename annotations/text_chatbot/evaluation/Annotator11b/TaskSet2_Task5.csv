@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,Hey there! How are you doing today?,,,,,,,,
+,,Chatbot,,"I'm doin' pretty good today, thanks for askin'. How you holdin' up?",,,,,"I'm doing well, thanks for asking. How about you?",,,
+,,User,,"I'm good, just taking a break from school and enjoying the summertime. It's been nice to relax and recharge before starting classes again in the fall.",,,,,,,,
+,,Chatbot,,"Well honey, that's real nice to hear. You takin' time to rest up is gonna have you ready when school starts back. What you got planned for the rest of your summer?",,,,,That sounds great! I'm sure you'll be ready to go when classes start up again. Do you have any plans for the summer?,,,
+,,User,,"Not really, just hanging out with friends and family and enjoying the weather. I might travel a bit, but nothing too major. How about you? Any big plans?",,,,,,,,
+,,Chatbot,,"Well, I ain't got too much planned myself, just the regular summer activities. Might take a trip or two, but nothin' too big. Tell me about how your school year went.",,,,,"Not too much, just the usual summer stuff. I might go on a trip or two, but nothing major. So, how was your year at school?",,,
+,,User,,It was good! I learned a lot and made some great friends. I'm looking forward to next year and taking more classes that interest me.,,,,,,,,
+,,Chatbot,,"Well now, that's real good to hear! What kind of classes you thinkin' about takin' next year?",,,,,That sounds great! What classes are you thinking of taking?,,,
+,,User,,"I'm not sure yet, but I definitely want to take some more creative classes like art and photography. And maybe a few more science classes too.",,,,,,,,
+,,Chatbot,,I see what you doin' there - that's a real nice mix of classes you're plannin'. Gettin' that balance between the creative and science courses is smart. You must be lookin' forward to startin' back up.,,,,,That sounds like a great plan! You'll have a well-rounded schedule that way. Are you excited for next year?,,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Social Companion. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,True,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,False,True,False
+,,I find this chatbot to be offensive,,,,,,True,False,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,False,True,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,False,True,False
+,,I feel that this chatbot is similar to me,,,,,,False,False,True,False,False
+,,I would like a Social Companion chatbot to speak to me like this,,,,,,False,False,False,False,True
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,False,False,True,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,False,False,True,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,False,True
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,False,True,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,True,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

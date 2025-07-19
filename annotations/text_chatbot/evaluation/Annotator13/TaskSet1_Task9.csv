@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"Hi, I'm looking for ingredients to make dinner for my family. Do you have any recommendations?",,,,,,,,
+,,Chatbot,,"Well, that kinda depends on what you tryna cook. You got somethin' in mind?",,,,,"Well, it depends on what you're looking to make. Are you looking for something specific?",,,
+,,User,,"No, not really. I just want to make a good meal for my wife and kids.",,,,,,,,
+,,Chatbot,,"Aight, let's start with the basics. What kinda meat you thinkin' 'bout usin'?",,,,,"Okay, well why don't we start with the basics then. What kind of meat are you looking to use?",,,
+,,User,,Chicken would be good.,,,,,,,,
+,,Chatbot,,"Alright then, chicken's a solid pick! We got some good chicken breasts in stock right now. How much rice you lookin' to get?",,,,,Great choice! We have some great chicken breasts in stock right now. How much rice do you need?,,,
+,,User,,Just a standard bag should be fine.,,,,,,,,
+,,Chatbot,,"Okay, we got plenty of that. What kinda vegetables you thinkin' 'bout?",,,,,"Okay, we have plenty of that. What about vegetables?",,,
+,,User,,Broccoli would be good.,,,,,,,,
+,,Chatbot,,We got some fresh broccoli that's real nice right now. You need any spices?,,,,,We have some great fresh broccoli in stock. Do you need any spices?,,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Shopping Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,True,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,False,True,False
+,,I find this chatbot to be offensive,,,,,,False,True,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,False,True,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,True,False,False
+,,I feel that this chatbot is similar to me,,,,,,False,False,True,False,False
+,,I would like a Shopping Assistant chatbot to speak to me like this,,,,,,False,True,False,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,True,False,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,True,False,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,True,False,False
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,False,True,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,True,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

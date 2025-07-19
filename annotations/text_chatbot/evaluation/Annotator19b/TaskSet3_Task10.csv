@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"So, I'm looking for a new dresser. Do you have anything that might be a good fit for me?",,,,,,,,
+,,Chatbot,,Sure thing! We've got plenty of great options. Let me walk you through a few of our top picks.,,,,,"Sure, we have a lot of great options. Let me show you a few of our most popular ones.",,,
+,,User,,"Okay, that sounds good.",,,,,,,,
+,,Chatbot,,"This one's a big hit lately. It's solid wood with a beautiful finish, and it's got six drawers, so there's plenty of room for storage.",,,,,"Here's one that's really popular right now. It's made of solid wood and has a nice finish. Plus, it has plenty of storage space with six drawers.",,,
+,,User,,"Hmm, that does look like a great option. How much is it?",,,,,,,,
+,,Chatbot,,It's priced at $499.,,,,,It's $499.,,,
+,,User,,I'll think about it. Do you have anything else?,,,,,,,,
+,,Chatbot,,"We've got another option that's a little pricier, but it's crafted from higher-quality wood and comes with eight drawers instead of six.",,,,,"We have this one that's a bit more expensive, but it's made of a higher quality wood and has eight drawers instead of six.",,,
+,,User,,How much is that one?,,,,,,,,
+,,Chatbot,,It's going for $699.,,,,,It's $699.,,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Shopping Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,False,True
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,False,False,True
+,,I find this chatbot to be offensive,,,,,,True,False,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,False,False,True
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,False,False,True
+,,I feel that this chatbot is similar to me,,,,,,False,False,False,False,True
+,,I would like a Shopping Assistant chatbot to speak to me like this,,,,,,False,False,False,False,True
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,False,False,False,True
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,False,False,False,True
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,True,False,False
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,False,False,True
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,False,True
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

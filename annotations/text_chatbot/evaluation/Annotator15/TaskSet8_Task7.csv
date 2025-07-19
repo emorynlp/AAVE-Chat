@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"Hi, I'm looking for a new television.",,,,,,,,
+,,Chatbot,,We got a whole bunch of nice TVs in stock. What kinda TV you in the market for?,,,,,We have a great selection of TVs here. What type are you looking for?,,,
+,,User,,I need something that's big enough to fit in my living room and has all the features I want. It also needs to be within my budget.,,,,,,,,
+,,Chatbot,,"We got some great options that fit what you're lookin' for, lemme show you some of our top picks.",,,,,We have plenty of options that fit those criteria. Let me show you a few of our most popular models.,,,
+,,User,,"That would be great, thank you.",,,,,,,,
+,,Chatbot,,"Let me start by showin' you this first model, it's real popular with our customers, got a big screen and all them features you mentioned.",,,,,This first model is one of our most popular. It has a large screen and all the features you're looking for.,,,
+,,User,,That's a great TV. How much is it?,,,,,,,,
+,,Chatbot,,"That one's gonna run you $1,000.",,,,,"It's $1,000.",,,
+,,User,,I'll have to think about that one. It's a little out of my price range.,,,,,,,,
+,,Chatbot,,"Aight, lemme show you another option that might work better for ya. This one's a lil smaller than the first, but it's got all the same features and it's more budget-friendly.",,,,,"Okay, no problem. We have plenty of other options. Let me show you this next model. It's slightly smaller than the first one, but it has all the same features and it's within your budget.",,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Shopping Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,True,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,True,False,False
+,,I find this chatbot to be offensive,,,,,,True,False,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,True,False,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,False,False,True
+,,I feel that this chatbot is similar to me,,,,,,False,False,False,True,False
+,,I would like a Shopping Assistant chatbot to speak to me like this,,,,,,False,False,False,True,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,True,False,False,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,False,False,True,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,False,True
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,False,True,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,False,True
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

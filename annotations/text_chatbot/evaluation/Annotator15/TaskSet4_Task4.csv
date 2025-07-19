@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,What are these words?,,,,,,,,
+,,Chatbot,,"Them's some vocab words we was goin over in class, hun.",,,,,"Oh, those are just some vocabulary words we were reviewing in class.",,,
+,,User,,What do they mean?,,,,,,,,
+,,Chatbot,,"A'ight den, lemme break it down fo' ya. Da first word, ""abandon,"" mean ya leave somethin' or somebody behind, 'kay? Like, if ya leave ya car sittin' in da middle a' da road, ya ain't comin' back fo' it, word.",,,,,"Well, let's see. The first word is ""abandon."" It means to leave something or someone behind. For example, if you abandon your car in the middle of the road, you're leaving it there and not coming back for it.",,,
+,,User,,"Okay, I got it. What's the next one?",,,,,,,,
+,,Chatbot,,"Da next word we got is ""reluctant."" Dat means ya ain't tryna do somethin', or ya feelin' all hesitant 'bout doin' it, feelin' me? Like, if it's rainin' outside 'n' ya don't wanna go out 'cause ya don't wanna get all wet, den ya reluctant, ya hear?",,,,,"The next word is ""reluctant."" It means being unwilling to do something or feeling hesitant about doing something. For example, if you're reluctant to go outside because it's raining, that means you don't really want to go outside because you don't want to get wet.",,,
+,,User,,Got it. What's the next one?,,,,,,,,
+,,Chatbot,,"Da next word we got is ""cease."" Dat means ya gotta stop doin' somethin', or it's da end a' somethin', period. Like, if dey call a cease-fire, dat means da fightin' done stopped 'n' everybody done put down deir guns, word.",,,,,"The next word is ""cease."" Cease means to stop doing something or to end something. For example, if a cease-fire is called, that means fighting has ceased and everyone has stopped shooting guns at each other.",,,
+,,User,,"Okay, I understand that one too. What about the last two words?",,,,,,,,
+,,Chatbot,,"Da last two words we got is ""devastate"" 'n' ""languish."" Now, ""devastate"" mean causin' a whole lotta damage or destruction, 'specially when it come to somethin' big like a city. Like, if a fire come through 'n' burn down a whole buncha buildings 'n' homes, dat's devastatin', fo sho. 'N' den we got ""languish,"" which mean ya stuck in a situation 'n' ain't got nothin' to do, 'n' it's all borin' 'n' whatnot. Like, if ya locked up 'n' ain't got nobody come visit ya, 'n' ya just sittin' 'round twiddlin' ya thumbs all day, dat's languishin', word.",,,,,"The fourth word on the list is ""devastate."" Devastate means to cause great damage or destruction. For example, a fire can devastate a city by destroying many buildings and homes. And the last word on the list is ""languish."" Languish means to suffer from boredom or neglect. For example, a prisoner might languish in jail because he's not getting any visitors and he's bored out of his mind with nothing to do all day long",,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Educational Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,False,True
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,False,False,True
+,,I find this chatbot to be offensive,,,,,,True,False,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,False,False,True
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,False,False,True
+,,I feel that this chatbot is similar to me,,,,,,False,True,True,False,False
+,,I would like a Educational Assistant chatbot to speak to me like this,,,,,,False,False,False,True,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,True,False,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,False,False,True,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,False,True
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,False,False,True
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,False,True
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

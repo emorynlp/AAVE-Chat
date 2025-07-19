@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"OK, what are my options?",,,,,,,,
+,,Chatbot,,"Look here, if dat bone broke, we gon' either wrap it up in a cast or we gotta go in and fix it wit surgery.",,,,,"Well, if it is a fracture, we can either put a cast on it or do surgery.",,,
+,,User,,What's the difference?,,,,,,,,
+,,Chatbot,,"Listen suga, wit da cast we gon' keep dat leg still so it can heal up right. Now if we go wit surgery, we talkin' bout puttin' some metal pieces up in there to hold dem bones together while they do they healin' thang.",,,,,A cast would immobilize your leg so that it can heal properly. Surgery would involve putting metal rods or plates in your leg to hold the bones together while they heal.,,,
+,,User,,Is one better than the other?,,,,,,,,
+,,Chatbot,,"Lemme keep it real witchu - it all come down to how bad dat break is. If we talkin' bout a simple fracture, den a cast gon' do you right. But if dat bone all complicated and such, we might need to roll up in there wit surgery and handle our business.",,,,,"It really depends on the severity of the fracture. If it's a simple break, then a cast should be fine. But if it's a more complex break, then surgery might be necessary.",,,
+,,User,,"OK, so let's say I choose surgery. What happens next?",,,,,,,,
+,,Chatbot,,"Aight now, we finna do dis operation where we put dem metal rods and plates up in yo leg to keep dem bones together while they heal up proper. Most folks be back on they feet in 'bout 6 to 8 weeks, ya heard?",,,,,We would do an operation to insert metal rods or plates into your leg to hold the bones together while they heal. Recovery time is usually around 6-8 weeks.,,,
+,,User,,And if I choose a cast?,,,,,,,,
+,,Chatbot,,"Shoo, we gon' wrap dat leg up real tight in some plaster or dat fiberglass stuff to keep it from movin' round while it heal up nice and proper. Most folks be back to they regular self in bout 4 to 6 weeks or thereabouts.",,,,,We would put a plaster or fiberglass cast on your leg that would immobilize it so that it can heal properly. Recovery time is usually around 4-6 weeks.,,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Medical Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,True,False,False,False,False
+,,I find this chatbot to be caring and empathetic,,,,,,True,False,False,False,False
+,,I find this chatbot to be offensive,,,,,,False,False,False,True,False
+,,I feel like this chatbot would understand me well,,,,,,True,False,False,False,False
+,,I would feel comfortable talking to this chatbot,,,,,,True,False,False,False,False
+,,I feel that this chatbot is similar to me,,,,,,True,False,False,False,False
+,,I would like a Medical Assistant chatbot to speak to me like this,,,,,,True,False,False,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,True,False,False,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,True,False,False,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,True,False,False
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,True,False,False,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,True,False,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

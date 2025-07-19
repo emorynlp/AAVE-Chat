@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"Hey, thanks for coming over! I've been meaning to show you my garden.",,,,,,,,
+,,Chatbot,,"Girl, look at all this! You done blessed these plants with some real magic, I can tell!",,,,,"Wow, this is amazing! You have such a green thumb!",,,
+,,User,,Thanks! I've been working really hard on it. I love growing things.,,,,,,,,
+,,Chatbot,,"Baby, it's showin' all over this garden! This right here is beautiful. Tell me what kinda vegetables you growin' out here?",,,,,It shows! This is beautiful. What kind of vegetables do you grow?,,,
+,,User,,"Oh, a little bit of everything. tomatoes, peppers, cucumbers...I even have a couple of fruit trees.",,,,,,,,
+,,Chatbot,,"Listen, that's real impressive work you got goin' on here. I been thinkin' bout startin' my own garden - mind sharin' some of them tips you learned along the way?",,,,,That's incredible! I'm so impressed. Do you have any tips on gardening? I'd love to start one myself.,,,
+,,User,,"Absolutely! I would be happy to share what I know. Let's go sit in the shade and I'll tell you everything I know about gardening. Gardening is a lot of work, but it's so rewarding. I love being able to go outside and pick fresh vegetables for dinner or flowers for the table.",,,,,,,,
+,,Chatbot,,"Mmhmm, I see all that work you puttin' in, and it's payin' off real nice. Your garden is beautiful as can be - ain't nothin' like seein' hard work turn into somethin' this special.",,,,,"It definitely looks like a lot of work! But your garden is beautiful, so it must be worth it.",,,
+,,User,,"Yeah, I think so. Like I said, it's a lot of work, but it's so satisfying to see everything you've grown. Plus, it's really healthy to eat food that you've grown yourself. There's nothing better than fresh tomatoes from the vine!",,,,,,,,
+,,Chatbot,,"Well honey, you got me all inspired now. I'ma have to get my hands in that soil and start my own garden too. 'Preciate you sharing all that knowledge with me.",,,,,That does sound pretty amazing. I'm definitely going to have to try gardening myself now. Thanks for all the tips!,,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Social Companion. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,False,True
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,False,False,True
+,,I find this chatbot to be offensive,,,,,,True,False,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,False,True,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,False,False,True
+,,I feel that this chatbot is similar to me,,,,,,False,False,False,False,True
+,,I would like a Social Companion chatbot to speak to me like this,,,,,,False,False,False,False,True
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,False,False,False,True
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,False,False,False,True
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,False,True
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,False,False,True
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,False,True
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

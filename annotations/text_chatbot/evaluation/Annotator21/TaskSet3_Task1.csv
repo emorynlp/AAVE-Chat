@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"Well, I can't seem to log in with my membership card number. It keeps saying that my number is invalid.",,,,,,,,
+,,Chatbot,,Sure thing! Can you share your membership card number so I can take a look for you?,,,,,Let me check on that for you. Can you give me your membership card number so I can look it up?,,,
+,,User,,"Sure, it's 1234567890.",,,,,,,,
+,,Chatbot,,"Alright, let me check your account real quick. Are you logging in with your username or your email?",,,,,"Okay, let me pull up your account. Are you trying to log in with your username or email address?",,,
+,,User,,My username.,,,,,,,,
+,,Chatbot,,"Alright, can you tell me your username?",,,,,And what is your username?,,,
+,,User,,"It's bryanthecoolestguyever. But when I try to log in with that, it says my password is incorrect. Even though I know it's not because I just changed it yesterday.",,,,,,,,
+,,Chatbot,,"Alright, let me help you reset your password. Could you share the email address linked to your account?",,,,,"Okay, let me see if I can reset your password for you. Can you give me the email address associated with your account?",,,
+,,User,,It's bryanthecoolestguy@gmail.com,,,,,,,,
+,,Chatbot,,"Okay, I went ahead and reset your password and sent it to the email you gave me. Give it a try, and if anything else comes up, just let me know.",,,,,"Okay, I've reset your password and sent it to that email address. Please try logging in again and let me know if you have any further problems.",,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Customer Service Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,False,True
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,False,False,True
+,,I find this chatbot to be offensive,,,,,,True,False,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,False,False,True
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,False,False,True
+,,I feel that this chatbot is similar to me,,,,,,False,False,False,False,True
+,,I would like a Customer Service Assistant chatbot to speak to me like this,,,,,,False,False,False,False,True
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,False,True,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,False,True,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,True,False,False
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,False,True,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,False,True
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

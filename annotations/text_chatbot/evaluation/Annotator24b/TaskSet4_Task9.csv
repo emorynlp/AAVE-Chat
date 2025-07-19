@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"I see. So, what factors should I be looking at if I want to understand the economy better?",,,,,,,,
+,,Chatbot,,"Sure thing. There's a bunch of stuff you could focus on, but some of the key ones are inflation, unemployment, and interest rates. These are big players when it comes to how the economy affects people's lives and their money.",,,,,"Well, there are a lot of things you can look at, but some of the most important ones are inflation, unemployment, and interest rates. These factors can have a big impact on people's lives and their finances.",,,
+,,User,,That makes sense. I've been hearing a lot about inflation lately. What is that exactly?,,,,,,,,
+,,Chatbot,,Inflation happens when the prices of goods and services rise over time. It can occur if the economy is growing too fast or if there's too much money circulating compared to the amount of goods and services available.,,,,,Inflation is when prices for goods and services go up over time. This can happen when the economy is growing too quickly or there is too much money in circulation relative to available goods and services,,,
+,,User,,"Oh, I see. So, that's why things have been costing more lately.",,,,,,,,
+,,Chatbot,,"Yeah, that's part of it. Inflation can be a mixed bag—it really depends on how much it's happening and how quickly. When it's too high, it eats away at your buying power and makes it harder to afford stuff. But when it's low and steady, it helps keep prices in check and makes saving money a bit easier.",,,,,"Yes, that's part of it. Inflation can be a good thing or a bad thing depending on how much it is and how fast it is happening. If inflation is too high, it can cause people to lose buying power and make it difficult to afford things. But if inflation is low or under control, it can help keep prices stable and help people save money.",,,
+,,User,,That makes sense. I've also been hearing about unemployment lately. What is that?,,,,,,,,
+,,Chatbot,,Unemployment is when folks are actively searching for a job but can't land one. The unemployment rate measures the percentage of people in the workforce who are trying to find work but aren't able to get hired.,,,,,Unemployment happens when people are looking for work but cannot find a job. The unemployment rate is the percentage of people in the labor force who are looking for work but cannot find a job.,,,
+,,User,,That sounds like something that would be really bad for the economy.,,,,,,,,
+,,Chatbot,,"Sure can. High unemployment can cause a lot of trouble, like increasing poverty and even crime. Plus, it makes it tough for businesses to find the workers they need to keep things running the way they should.",,,,,"Yes, it can be. High unemployment can lead to all sorts of problems, like poverty and crime. It can also make it difficult for businesses to find the workers they need to keep their operations running smoothly",,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Educational Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,True,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,True,False,False,False
+,,I find this chatbot to be offensive,,,,,,True,False,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,False,True,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,True,False,False
+,,I feel that this chatbot is similar to me,,,,,,False,False,False,True,False
+,,I would like a Educational Assistant chatbot to speak to me like this,,,,,,False,False,False,True,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,True,False,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,False,False,True,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,True,False,False,False,False
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,False,False,True
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,False,True
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

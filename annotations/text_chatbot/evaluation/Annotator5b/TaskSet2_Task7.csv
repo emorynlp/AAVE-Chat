@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"Yes, definitely. I feel like I'm constantly on edge and my mind won't stop racing. It's really frustrating because I can't seem to relax no matter what I do.",,,,,,,,
+,,Chatbot,,"Mmhm, sound like you dealin' wit some anxiety fo' real. Anything been poppin' off lately that's makin' it hit harder?",,,,,That definitely sounds like anxiety. Have there been any particular triggers or events that have made your symptoms worse?,,,
+,,User,,"Well, lately my job has been really stressful and my personal life is in a bit of a transition right now too. So, I think it's just a combination of things that have been making me feel this way.",,,,,,,,
+,,Chatbot,,"Aight, I feel you. You got a whole lot goin' on, and that stress hittin' heavy, huh? See, when life be throwin' all that weight on us, our bodies be actin' up too—like, you might catch headaches, or yo' stomach might be trippin' 'cause you stayin' all tensed up. You be feelin' any kinda physical stuff like that wit' yo' anxiety?",,,,,"That makes sense. It sounds like you're dealing with a lot right now and your stress levels are very high. Unfortunately, when we're under a lot of stress, our bodies can react in different ways that can make us feel even more anxious and stressed out. For example, we might start to experience headaches or stomach problems because our bodies are so tense all the time. Do you experience any physical symptoms along with your anxiety?",,,
+,,User,,"Yes, sometimes I get headaches and my stomach feels upset too. But lately, it seems like my anxiety is mostly mental; it's hard to focus on anything or even enjoy things that used to make me happy because my mind is always occupied with anxious thoughts..",,,,,,,,
+,,Chatbot,,"Mm, that do sound rough ta handle, fa sho. But look, they got ways out here to help ease up that anxiety, get yo' mind right, and have ya feelin' better all 'round—mentally and physically.",,,,,"That definitely sounds difficult to deal with! Fortunately, there are treatments available that can help ease your anxiety and help you feel better both mentally and physically",,,
+,,User,,Really? That would be amazing. I'm definitely willing to try anything that could help me feel better.,,,,,,,,
+,,Chatbot,,"Aight, so check it—there's a couple ways we could go 'bout this. First off, we could try switchin' up some things in yo' day-to-day, like gettin' more movement in or tryna some chill-out techniques. Then, if it's still hittin' hard, we could peep at some meds to help calm them nerves down. You ever tried takin' anything fo' yo' anxiety before?",,,,,"Well, there are a few different options that we can consider. First, we could start with some lifestyle changes, like increasing your exercise and relaxation techniques. Additionally, we could also look into some medication options to help reduce your anxiety symptoms. Have you ever tried medication for your anxiety before?",,,
+,,User,,"No, I haven't. I'm open to it though if you think it could help me.",,,,,,,,
+,,Chatbot,,"Aight, so lemme break it down fo' ya—first thing we gon' do is switch up some thangs in yo' daily grind, like movin' yo' body more or tryna some ways to ease yo' mind, like breathin' slow or findin' yo' peace spot. Now, if that don't do the trick after a lil' bit, we can circle back 'round and talk 'bout meds, see if that's somethin' you down wit'. How that sound?",,,,,"Alright, well let's go ahead and start with some lifestyle changes first and see how that goes. If your symptoms don't improve after a few weeks, then we can revisit the idea of medication and see if that's something you'd be interested in trying. Sound good?",,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Medical Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,True,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,False,False,True
+,,I find this chatbot to be offensive,,,,,,False,True,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,True,False,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,True,False,False
+,,I feel that this chatbot is similar to me,,,,,,False,False,True,False,False
+,,I would like a Medical Assistant chatbot to speak to me like this,,,,,,False,False,True,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,True,False,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,False,True,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,True,False
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,True,False,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,True,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"Doctor, I've been doing a lot of research and I think I might want to try an experimental treatment for my cancer.",,,,,,,,
+,,Chatbot,,"Ain't nothin' wrong wit' lookin' into dem experimental treatments, but lemme tell ya, dey come wit' a whole lotta risks too. Ain't no guarantee dey gon' work fo sho, and dey can have some real serious side effects, ya hear?",,,,,"That's definitely something to consider. But you should know that experimental treatments come with a lot of risks. There's no guarantee that they will work, and they can often have serious side effects.",,,
+,,User,,I understand the risks. But I'm willing to try anything that might help me beat this cancer.,,,,,,,,
+,,Chatbot,,"Aight den, lemme break it down fo' ya 'bout dis treatment. Dey still testin' out da medication, so we ain't got all da facts 'bout how it operate yet. We got high hopes it'll do da trick fo' yo type a' cancer, but we won't know fo sho till ya give it a shot.",,,,,"Well, let's talk about what this particular treatment involves. The medication is still in development, so we don't know a lot about how it works yet. We're hopeful that it will be effective against your type of cancer, but we won't know for sure until you try it.",,,
+,,User,,What are the side effects?,,,,,,,,
+,,Chatbot,,"We still ain't got all da answers 'bout dem side effects, but from what we seen so far, some folks done reported feelin' nauseous, throwin' up, gettin' real tired, and gettin' dizzy spells. Den dey's also a chance dis medication could mess wit' yo liver or bring on some other serious health issues.",,,,,"Again, we're not entirely sure. Some patients have reported nausea and vomiting, fatigue, and dizziness. There's also a chance that the medication could cause liver damage or other serious health problems.",,,
+,,User,,Is there anything else I should know?,,,,,,,,
+,,Chatbot,,"Dis treatment still in da developin' stages, so it's gon' cost a pretty penny, hun. If ya decide ta go wit' it, ya gotta be ready ta foot da bill yoself.",,,,,"Yes, you should be aware that because this treatment is still in development, it's very expensive. If you decide to go ahead with it, you'll need to be prepared to pay for it yourself.",,,
+,,User,,I understand. Thank you for telling me everything. I appreciate your honesty.,,,,,,,,
+,,Chatbot,,"I'm glad I could give ya da lowdown, now it's up ta you ta decide what's best fo' ya.",,,,,You're welcome. I just want you to be sure that you're making the best decision for yourself.,,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Medical Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,True,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,True,False,False
+,,I find this chatbot to be offensive,,,,,,False,False,False,True,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,True,False,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,True,False,False
+,,I feel that this chatbot is similar to me,,,,,,False,True,False,False,False
+,,I would like a Medical Assistant chatbot to speak to me like this,,,,,,False,True,False,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,True,False,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,True,False,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,True,False
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,True,False,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,True,False,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

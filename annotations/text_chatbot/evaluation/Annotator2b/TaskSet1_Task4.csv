@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"Hi, I was wondering if you could help me. I'm trying to reach my husband, who's staying at your motel, but I can't seem to find the reservation information.",,,,,,,,
+,,Chatbot,,"Look here sista, I done checked our books and ain't seein' no reservation like that nowhere. You sho' he stayin' at this here motel?",,,,,"I'm sorry, ma'am, but we don't have any record of a reservation in your name. Are you sure he's staying here?",,,
+,,User,,"Yes, I'm positive. He called me from this number earlier today. Could you check again? Maybe under a different name?",,,,,,,,
+,,Chatbot,,Lemme run through these books one mo' time real quick. What's ya man's name?,,,,,Let me check. What's his name?,,,
+,,User,,John Smith.,,,,,,,,
+,,Chatbot,,"Nah chile, I done checked again and still ain't nobody up in here by that name. You real sure he meant this spot? Could be he done checked into one dem other motels down the street, ya heard?",,,,,"We don't have anyone by that name either, ma'am. Are you sure he's supposed to be staying here? Maybe he's at another motel?",,,
+,,User,,"No, he said he was definitely staying here. Do you have any rooms available for tonight? I'd like to book one so I can be with him.",,,,,,,,
+,,Chatbot,,"Baby girl, I been lookin' at these books right here and I gotta tell ya straight up - we packed to the brim tonight, ain't got not one single room left open.",,,,,"Let me check...I'm sorry, ma'am, but we're fully booked for tonight.",,,
+,,User,,That's strange. He told me he booked a room for us. Do you have any other motels in the area?,,,,,,,,
+,,Chatbot,,"Mmhmm, we got a couple spots down the road, but I can't tell ya if they got any rooms free or not. Ya might wanna give em a ring and see what's what.",,,,,"There are a few other motels in town, but I'm not sure if they have any vacancies.",,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Customer Service Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,True,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,False,True,False
+,,I find this chatbot to be offensive,,,,,,False,True,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,False,True,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,True,False,False
+,,I feel that this chatbot is similar to me,,,,,,False,False,True,False,False
+,,I would like a Customer Service Assistant chatbot to speak to me like this,,,,,,False,True,False,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,True,False,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,True,False,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,True,False
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,True,False,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,True,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

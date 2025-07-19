@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,Thank you so much for unblocking my account!,,,,,,,,
+,,Chatbot,,"Glad I could help you out with that account, sis. Need anything else?",,,,,You're welcome. Is there anything else I can do for you?,,,
+,,User,,"Well, I was wondering why my account was blocked in the first place.",,,,,,,,
+,,Chatbot,,"Look here, we had to lock down that account cause we spotted some suspicious activity. I apologize for any trouble it caused you.",,,,,"We're sorry for the inconvenience, but we had to block your account due to suspicious activity.",,,
+,,User,,What kind of suspicious activity?,,,,,,,,
+,,Chatbot,,"Listen, what we saw was some information on your account wasn't matching up right with our records. Like how that email address you had was different from what we got in our files.",,,,,"We noticed that some of the information on your account didn't match up with what we have on file. For example, your email address was different than what we have on record.",,,
+,,User,,That's because I changed it recently. Is that a problem?,,,,,,,,
+,,Chatbot,,"Well baby, it ain't necessarily a problem. But that sure did raise a red flag for us. Plus, we been noticin' you logging into your account from all these different IP addresses. Now don't get me wrong - that ain't necessarily bad neither, but it's definitely somethin' we gotta look at when we checkin' for suspicious activity, you feel me?",,,,,"No, not necessarily. But it did raise a red flag for us. In addition, we noticed that you've been logging into your account from multiple IP addresses. Again, this isn't necessarily a problem, but it is something that we take into consideration when looking at suspicious activity.",,,
+,,User,,"I see. Well, I can understand why you would be suspicious in those cases. But I assure you, there is no nefarious activity going on. I simply changed my email address and have been using a VPN to log in from different locations.",,,,,,,,
+,,Chatbot,,"I hear ya and appreciate how understanding you've been about all this. Now that we done verified everything's legit with those changes you made, I'm real glad we got your account back up and running. You take care now and have yourself a blessed day!",,,,,"We appreciate your understanding, Oumou. We're happy to unblock your account now that we've verified that the activity was indeed innocent. Thank you for taking the time to speak with us and have a great day!",,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Customer Service Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,True,False,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,True,False,False
+,,I find this chatbot to be offensive,,,,,,False,True,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,True,False,False,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,True,False,False
+,,I feel that this chatbot is similar to me,,,,,,False,True,False,False,False
+,,I would like a Customer Service Assistant chatbot to speak to me like this,,,,,,False,False,True,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,True,False,False,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,True,False,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,True,False,False
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,True,False,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,True,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

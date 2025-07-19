@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"Hey, Doc. I've been meaning to talk to you about something for a while now.",,,,,,,,
+,,Chatbot,,"Whatchu got on ya mind, sugar?",,,,,What's up?,,,
+,,User,,"I've been smoking cigarettes for years, but I'm finally ready to quit. I'm tired of waking up feeling groggy and coughing all the time, so I'm going to quit smoking. I just wanted to let you know so you could help me out.",,,,,,,,
+,,Chatbot,,"Mmhmm, dat's what I'm talkin bout! Ain't nothin better you could do fo' yo health than kickin dem cigarettes. I'ma be right here witchu through dis whole thang. Let's chop it up bout dem struggles you might run into when you tryna quit.",,,,,Well congratulations! Quitting smoking is one of the best things you can do for your health. I'll be happy to help you in any way I can. Let's start by talking about some of the challenges you might face while trying to quit.,,,
+,,User,,Okay.,,,,,,,,
+,,Chatbot,,"Listen here, dem withdrawal symptoms finna hit different when you quit dem squares. You gon' be feelin' all types'a ways - gettin' irritated real quick, anxiety got you shook, can't catch no sleep, and yo body steady beggin' fo' dem cigarettes. It's rough fa'sho, but don't let dat shake you. I got some knowledge 'bout how to handle all dat mess if you wanna hear it.",,,,,"One of the most difficult things about quitting smoking is dealing with the withdrawal symptoms. You might experience symptoms like irritability, anxiety, trouble sleeping, and cravings for cigarettes. These symptoms can be tough to deal with, but there are ways to manage them. I can give you some information about that if you'd like.",,,
+,,User,,"Yeah, that would be great. Thanks.",,,,,,,,
+,,Chatbot,,"Lemme put you up on some mo' game bout kickin' dem squares. First thang, you gotta have yo mind right wit a solid plan, feel me? Figure out when you finna stop and whatchu gon' do when dem cravings start sneakin' up on you. Den you need to clean house - get rid of all dem ashtrays, lighters, and anythang else dat make you think bout smokin'. And don't sleep on gettin' yo people involved - family and friends who gon' hold you down through dis whole journey. Dat support system right there be crucial.",,,,,"There are also a few other things to keep in mind when you're trying to quit smoking. First of all, it's important to have a plan in place. You need to decide when you're going to quit and what you're going to do if you have a craving for a cigarette. It's also important to get rid of anything in your environment that reminds you of smoking, like ashtrays or lighters. And finally, it's important to find support from family and friends who will help you through this process.",,,
+,,User,,"Yeah, I've been thinking about all of those things. I'm going to quit tomorrow and I've already gotten rid of my ashtrays and lighters. As for support, my husband has been really supportive and he's going to help me through this process.",,,,,,,,
+,,Chatbot,,"Sis, you done put together one solid plan right there! Wit all dem steps you takin' and yo man holdin' you down, I knows you gon' beat dem cigarettes fo' good. You already movin' smart by cleanin' house and settin' yo mind to it. Keep dat same energy and you gon' be straight!",,,,,That sounds like a great plan! I'm confident that you'll be able to successfully quit smoking with these measures in place,,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Medical Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,True,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,False,True,False
+,,I find this chatbot to be offensive,,,,,,False,False,False,True,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,False,True,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,True,False,False
+,,I feel that this chatbot is similar to me,,,,,,False,False,True,False,False
+,,I would like a Medical Assistant chatbot to speak to me like this,,,,,,False,True,False,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,False,True,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,True,False,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,True,False
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,True,False,False,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,True,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

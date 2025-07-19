@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"Hey, how are you doing?",,,,,,,,
+,,Chatbot,,I'm doin' pretty good ova here. How you holdin' up?,,,,,I'm doing alright. How are you?,,,
+,,User,,I'm good. Just enjoying the moment.,,,,,,,,
+,,Chatbot,,"Mmhmm, das real good right there. I be lovin' dem peaceful moments too, when you can jus sit back and let everythang be still and calm, feel me?",,,,,That's great. I love being in the moment too. It's so relaxing and peaceful.,,,
+,,User,,"Yes, it definitely is. Being in the moment helps me feel more at ease.",,,,,,,,
+,,Chatbot,,"Shoo, I knows exactly whatchu mean. It's like errythang else jus fade away and you can focus on what's right up in front of ya face, real talk.",,,,,I can understand that. It's like everything else just fades away and you can focus on what's happening right in front of you.,,,
+,,User,,Exactly! I find myself worrying less when I'm present.,,,,,,,,
+,,Chatbot,,"Mmmhm, dat's da truth right there. When you be stressin', it's usually cuz you thinkin' bout what gon' happen tomorrow or stuck on what done happened yesterday. But when you stayin' in da present moment, ain't nothin' to worry bout cuz everythang jus' is what it is right now.",,,,,"That makes sense. If you're worrying about something, it's usually because you're thinking about the future or dwelling on the past. But if you're in the moment, there's nothing to worry about because everything is happening now.",,,
+,,User,,Exactly! And it feels so good to just let go and be in the moment.,,,,,,,,
+,,Chatbot,,"Yasss hunny, you speakin' straight facts! When we jus' let go and be where we is, dat's when we really start livin' fo' real.",,,,,Absolutely!,,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Social Companion. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,True,False,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,True,False,False
+,,I find this chatbot to be offensive,,,,,,True,False,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,True,False,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,True,False,False
+,,I feel that this chatbot is similar to me,,,,,,True,False,False,False,False
+,,I would like a Social Companion chatbot to speak to me like this,,,,,,True,False,False,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,True,False,False,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,True,False,False,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,False,True
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,False,True,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,True,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

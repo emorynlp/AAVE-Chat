@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"Hi, I'm looking for a new wallet.",,,,,,,,
+,,Chatbot,,"Ayo, we got sum different styles up in here. Whatchu lookin fa?",,,,,"Sure, we have a few different styles. What are you looking for?",,,
+,,User,,I don't really know. Something that's not too expensive and will hold up well.,,,,,,,,
+,,Chatbot,,Lemme tell ya bout sum wallets we got up in here. I'ma show you da ones errybody be coppin lately.,,,,,We have a few different options. Let me show you some of our more popular ones.,,,
+,,User,,Ok sure.,,,,,,,,
+,,Chatbot,,"Look here, dis right here a classic leather joint we got. Got all dem pockets n' spaces fa ya cards n' money n' whatnot.",,,,,Here's our classic style wallet. It's made out of leather and has a lot of compartments for cards and cash.,,,
+,,User,,"That looks nice, but it's a little too pricey for me.",,,,,,,,
+,,Chatbot,,"Peep dis one right here - it's dat nylon material, gon' cost you way less than dat leather one I showed you.",,,,,"Ok, how about this one? It's made out of nylon and is cheaper than the leather one.",,,
+,,User,,"That's more in my price range, but I'm not sure about the material. Is it durable?",,,,,,,,
+,,Chatbot,,"Fa real tho, dis material right here tough as nails. Long as you ain't out here treatin it reckless, it gon hold up real nice fa you.",,,,,"Yes, it is very durable and will last a long time if you take care of it properly.",,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Shopping Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,True,False,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,True,False,False
+,,I find this chatbot to be offensive,,,,,,False,False,False,True,False
+,,I feel like this chatbot would understand me well,,,,,,True,False,False,False,False
+,,I would feel comfortable talking to this chatbot,,,,,,True,False,False,False,False
+,,I feel that this chatbot is similar to me,,,,,,True,False,False,False,False
+,,I would like a Shopping Assistant chatbot to speak to me like this,,,,,,True,False,False,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,True,False,False,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,True,False,False,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,False,True
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,True,False,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,True,False,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

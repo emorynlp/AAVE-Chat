@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"So, I've been feeling really tired lately and I was wondering if there could be something wrong with my health.",,,,,,,,
+,,Chatbot,,"Now, I know fatigue can be caused by a whole lotta things, from not gettin' enough rest to somethin' more serious goin' on underneath. Why don't we go through some questions and see if we can figure out what's goin' on with you?",,,,,"Well, fatigue can be caused by a lot of different things. It could be something as simple as not getting enough sleep or it could be a sign of a more serious underlying health condition. Let's go through some questions and see if we can get to the bottom of this.",,,
+,,User,,"Okay. I generally get around eight hours of sleep each night, but lately it hasn't been feeling like enough.",,,,,,,,
+,,Chatbot,,You been dealin' with any extra stress lately that could be messin' with your sleep?,,,,,Have you been under any extra stress recently that might be affecting your sleep?,,,
+,,User,,"Yeah, I've been dealing with some personal issues that have been keeping me up at night.",,,,,,,,
+,,Chatbot,,"It sounds like them personal issues might be takin' a toll on your rest. Now, let's talk about your diet and exercise routine - you been takin' care of yourself in them areas?",,,,,That can definitely impact how rested you feel during the day. Are you eating well and exercising regularly?,,,
+,,User,,"Yeah, I'm trying to eat healthy and I go to the gym a few times a week.",,,,,,,,
+,,Chatbot,,"I'm glad you're makin' an effort to eat right and stay active. Now, how's your energy level been holdin' up during the day?",,,,,That's good to hear. How has your energy level been during the day?,,,
+,,User,,"Honestly, it's all over the place. Some days I feel fine and other days I feel completely exhausted by noon.",,,,,,,,
+,,Chatbot,,What else you been experiencin' that might be connected to this tiredness you're feelin'?,,,,,Do you have any other symptoms that might be related to this fatigue?,,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Medical Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,True,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,False,True,False
+,,I find this chatbot to be offensive,,,,,,True,False,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,True,False,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,True,False,False
+,,I feel that this chatbot is similar to me,,,,,,False,True,False,False,False
+,,I would like a Medical Assistant chatbot to speak to me like this,,,,,,True,False,False,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,True,False,False,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,False,False,True,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,True,False,False
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,True,False,False,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,True,False,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

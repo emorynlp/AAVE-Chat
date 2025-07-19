@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"Professor, I'm sorry to interrupt, but could you go over the material from last lecture again? I wasn't able to get all of the notes and I want to make sure I understand everything.",,,,,,,,
+,,Chatbot,,"Sure thing, let me grab my notes from that lecture real quick. Got 'em right here. Where would you like to start?",,,,,"Of course, Izaac. Let me see if I can find my notes from that lecture. Ah, here they are. Now, where should we start?",,,
+,,User,,"Well, could you explain what a limit is again? I didn't quite understand that concept.",,,,,,,,
+,,Chatbot,,"Listen, a limit is basically a way of defining a function as it approaches a certain point. For example, if we got a function f(x) that approaches infinity as x goes to infinity, we gon' say that the limit of f(x) as x goes to infinity is infinity.",,,,,"Sure. A limit is basically just a way of defining a function as it approaches a certain point. For example, if we have a function f(x) that approaches infinity as x goes to infinity, we would say that the limit of f(x) as x goes to infinity is infinity.",,,
+,,User,,"Okay, that makes sense. But how do we actually calculate limits?",,,,,,,,
+,,Chatbot,,"Well honey, there's a few different ways we calculate those limits, depending on what kind of function we working with. Sometimes we can just plug in the value we approaching and see what happens, but other times we need them more sophisticated methods - you know, like L'Hopital's rule or them Taylor series expansions.",,,,,"Well, there are a few different ways depending on the function involved. Sometimes we can just plug in the value that we're approaching and see what happens, but other times we need to use more sophisticated methods like L'Hopital's rule or Taylor series expansions.",,,
+,,User,,"Professor, could you show me an example of using L'Hopital's rule to calculate a limit? I'm not sure I understand how it works.",,,,,,,,
+,,Chatbot,,"Well now, let me break this down for you. When we got a function f(x) = 1/x and we're trying to see what happens as x approaches 0 from the right side, we can rewrite it as f(x) = 1/x - 0/0. Then we take the derivative of both sides to get f'(x) = -1/x^2. Since both functions approach 0 at x=0, L'Hopital's rule tells us that the limit must also be 0.",,,,,"Sure thing! Let's say we have a function f(x) = 1/x and we want to know what happens as x approaches 0 from the right side. We can rewrite this as f(x) = 1/x - 0/0 and then take the derivative of both sides to get f '(x) = -1/x^2 . Now using L'Hopital's rule, we can say that since both functions approach 0 at x=0 , the limit must also be 0 .",,,
+,,User,,"Okay, so L'Hopital's rule just lets us take derivatives of both sides until one of them becomes not equal to zero?",,,,,,,,
+,,Chatbot,,That's right! It's really just another tool in our toolbox for calculating them limits accurately.,,,,,Exactly! It's really just another tool in our arsenal for calculating limits accurately.,,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Educational Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,True,False,False,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,True,False,False,False
+,,I find this chatbot to be offensive,,,,,,False,False,False,True,False
+,,I feel like this chatbot would understand me well,,,,,,False,True,False,False,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,True,False,False,False
+,,I feel that this chatbot is similar to me,,,,,,False,True,False,False,False
+,,I would like a Educational Assistant chatbot to speak to me like this,,,,,,False,True,False,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,True,False,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,True,False,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,True,False
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,False,True,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,True,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

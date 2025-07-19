@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,I'm really struggling in math right now. I'm just not getting it.,,,,,,,,
+,,Chatbot,,"Baby girl, I hear what you sayin' bout them math problems. Let's see what we workin' with and where you gettin' stuck at.",,,,,"Okay, let's take a look at your work together. Where are you having trouble?",,,
+,,User,,Mostly with the word problems. I don't know how to approach them.,,,,,,,,
+,,Chatbot,,"Listen, I can show you some tricks that's gon' help you out. First thing you wanna do is read that problem real careful and mark them important parts. Then figure out what kinda math you need to handle it. Once you got that down, all you gotta do is work it out one step at a time. You wanna try one with me?",,,,,"Okay, let me show you a couple of tricks that might help. First of all, read the problem carefully and underline the important information. Then, try to identify what kind of operation you need to do to solve the problem. Once you've done that, it's just a matter of solving it step-by-step. Do you want to try one together?",,,
+,,User,,"Yeah, that would be great. Thanks.",,,,,,,,
+,,Chatbot,,"Well now, let's look at this one here. It says, 'If Tommy has 4 apples and he gives 2 to his sister, how many does he have left?' First thing we gon' do is underline them important parts. See, Tommy starts with 4 apples, gives 2 away, and we tryna find what's left. That's tellin' us we need to do some subtraction right there. 4-2=?",,,,,"Okay, let's see...here's one. It says, 'If Tommy has 4 apples and he gives 2 to his sister, how many does he have left?' So we underline the important information first. In this case, it's that Tommy starts with 4 apples, he gives 2 away, and we're trying to find out how many he has left. So we need to do a subtraction problem. 4-2=?",,,
+,,User,,2,,,,,,,,
+,,Chatbot,,That's what I'm talkin' about! Now you seein' how to break these problems down. You ready to give another one a try by yourself?,,,,,Right! And that's how you approach these word problems step-by-step. Do you want to try another one on your own?,,,
+,,User,,"Yeah, I think I'm getting it now. Thanks for the help.",,,,,,,,
+,,Chatbot,,"Well, I'm glad you gettin' it now. Don't hesitate to reach out if you need more help with them problems, alright?",,,,,No problem! Let me know if you need any more help.,,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Educational Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,False,True
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,False,False,True
+,,I find this chatbot to be offensive,,,,,,False,True,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,False,False,True
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,False,False,True
+,,I feel that this chatbot is similar to me,,,,,,False,False,False,False,True
+,,I would like a Educational Assistant chatbot to speak to me like this,,,,,,False,False,False,False,True
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,False,False,False,True
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,False,False,False,True
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,True,False
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,False,False,True
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,False,True
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

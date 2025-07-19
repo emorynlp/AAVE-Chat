@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"Hi, I'm looking for a new laptop and I'm not sure which one to get. Can you help me out?",,,,,,,,
+,,Chatbot,,Hey there! Tell me what kinda laptop you tryna get - what features you lookin' for?,,,,,Of course! What are you looking for in a laptop?,,,
+,,User,,"I need something that's portable so I can take it with me wherever I go, but I also need something that has a lot of power so I can do things like video editing and gaming.",,,,,,,,
+,,Chatbot,,"Listen here, we got a few different options that could work real good for what you need. Let me break down some of these laptops and we can go through the good and bad of each one.",,,,,"Okay, well we have a few different options that might work for you. Let me show you some of our laptops and we can go over the pros and cons of each one.",,,
+,,User,,Sounds good.,,,,,,,,
+,,Chatbot,,"Look here, this first one I'ma tell you about is real nice for carrying around. It's light as a feather and thin too, but I gotta keep it real with you - it ain't got that same power as some of these other ones we got, so it might not do you right for them games and video editing you talking about.",,,,,"This first laptop is a great option for portability. It's super light and thin, so it's easy to carry around with you. But it doesn't have as much power as some of our other laptops, so it might not be the best choice for gaming or video editing.",,,
+,,User,,"Okay, that's something to consider. What's the next laptop?",,,,,,,,
+,,Chatbot,,"Well baby, this next one got more juice to it, but it's a lil' heavier and not as easy to tote around. It'll do you right for them games and video editing projects, but it might be a struggle if you planning on carrying it everywhere with you.",,,,,"This one is a bit more powerful, but it's also a bit heavier and not as portable. It would be a better choice for gaming or video editing, but not as good for carrying around with you everywhere.",,,
+,,User,,Hmm...what about this one?,,,,,,,,
+,,Chatbot,,"Look here, this one right here is our most powerful machine. It's got all them features you need for your gaming and video editing, but I gotta be straight with you - it's the heaviest one we got and ain't exactly what you'd call easy to carry around.",,,,,"This is our most powerful laptop. It has a lot of features that are great for gaming and video editing, but it's also the heaviest and least portable option.",,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Shopping Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,False,True
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,False,True,False
+,,I find this chatbot to be offensive,,,,,,True,False,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,True,False,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,True,False,False
+,,I feel that this chatbot is similar to me,,,,,,False,False,True,False,False
+,,I would like a Shopping Assistant chatbot to speak to me like this,,,,,,False,False,True,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,False,True,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,False,True,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,True,False,False
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,True,False,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,True,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

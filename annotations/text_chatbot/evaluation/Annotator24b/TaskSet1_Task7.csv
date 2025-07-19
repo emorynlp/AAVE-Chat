@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,So there are eight planets in the solar system?,,,,,,,,
+,,Chatbot,,"Mhm, that's right baby girl. We got them eight planets up there.",,,,,"Yes, that's right.",,,
+,,User,,And they all orbit the sun?,,,,,,,,
+,,Chatbot,,"Sho nuff, all them planets be circling round the sun like clockwork.",,,,,That's correct.,,,
+,,User,,What determines their orbit? Is it just their distance from the sun?,,,,,,,,
+,,Chatbot,,"Listen here, it ain't just how far they is from the sun. Each one of them planets got they own special path up there. Some of 'em stay closer to the sun than others, and some be moving in them oval shapes while others go round and round in more of a circle, you understand what I'm saying?",,,,,"No, it's not just their distance from the sun. Each planet has a different orbital path. For example, some planets are closer to the sun than others, and some have elliptical orbits while others have more circular orbits.",,,
+,,User,,So it sounds like there is a lot of variation in how the planets orbit the sun.,,,,,,,,
+,,Chatbot,,"Well let me tell you somethin' - there sho is a whole lot of variation up there. But when you get right down to it, it's all about that gravity. The sun's pull be keepin' all them planets movin' round and round like they supposed to.",,,,,"Yes, there is quite a bit of variation. But ultimately, it all comes down to gravity. The gravity of the sun pulls on each planet and causes them to orbit around it.",,,
+,,User,,"That makes sense. I'm just curious, why don't they all fall into the sun?",,,,,,,,
+,,Chatbot,,"Look here, if them planets was fallin' straight toward the sun, they'd end up crashin' right into it. But since they movin' in them orbits round and round, they stays just far enough away so they don't never fall in.",,,,,"Well, if they were falling straight towards the sun, then they would eventually fall into it. But because they are orbiting around the sun, they never get close enough to actually fall into it.",,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Educational Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,True,False,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,True,False,False
+,,I find this chatbot to be offensive,,,,,,True,False,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,True,False,False,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,False,True,False
+,,I feel that this chatbot is similar to me,,,,,,False,True,False,False,False
+,,I would like a Educational Assistant chatbot to speak to me like this,,,,,,False,False,True,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,True,False,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,False,False,True,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,True,False
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,False,True,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,False,True
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

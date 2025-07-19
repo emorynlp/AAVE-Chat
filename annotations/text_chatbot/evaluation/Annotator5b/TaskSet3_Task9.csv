@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,Alzheimer's? But I'm only in my 60s. Isn't that a disease for old people?,,,,,,,,
+,,Chatbot,,"Now, I know what you're thinkin', Alzheimer's is somethin' that happens to folks a lot older than you, but that's not always the case. See, most people get diagnosed with Alzheimer's after they turn 65, but it's possible for younger people to get it too - that's called early onset Alzheimer's, and it happens to people under 65.",,,,,"Yes, Alzheimer's is most often diagnosed in people over the age of 65, but it can occur in younger people as well. Early onset Alzheimer's is a form of the disease that is diagnosed in people under the age of 65.",,,
+,,User,,So what can I do? Is there a cure?,,,,,,,,
+,,Chatbot,,"Now, let me break it down for you - there ain't no one-size-fits-all answer to that question. Dementia is a progressive disease, which means it's gonna get worse over time. There ain't no cure for dementia, but there are treatments available that can help manage the symptoms and slow down the progression of the disease.",,,,,"There is no one-size-fits-all answer to that question. Dementia is a progressive disease, which means it will get worse over time. There is no cure for dementia, but there are treatments available that can help manage the symptoms and slow down the progression of the disease.",,,
+,,User,,What kind of treatments are available?,,,,,,,,
+,,Chatbot,,"There's a variety of treatments out there, dependin' on what kind of dementia you're dealin' with and how severe your symptoms are. You might be lookin' at medication, therapy, or makin' some lifestyle changes.",,,,,"There are many different types of treatment available depending on the type of dementia and the severity of symptoms. Treatment options include medication, therapy, and lifestyle changes.",,,
+,,User,,What kind of medication is there?,,,,,,,,
+,,Chatbot,,"There's several types of medication out there for treatin' dementia, but they all focus on managin' the symptoms, not curin' the disease itself. Some common ones used to treat dementia include cholinesterase inhibitors and memantine.",,,,,"There are many different types of medication available for treating dementia, but they all work to manage the symptoms rather than cure the disease. Some common medications used to treat dementia include cholinesterase inhibitors and memantine.",,,
+,,User,,And what about therapy? What does that involve?,,,,,,,,
+,,Chatbot,,"Therapy can be real helpful for patients and caregivers, too. It's a good way to manage stress and anxiety, get some support, and learn how to cope with things. There's a few different kinds, like cognitive behavioral therapy and reminiscence therapy.",,,,,"Therapy can be beneficial for both patients and caregivers alike. It can help manage stress and anxiety levels, provide support, and offer coping strategies. There are many different types such as cognitive behavioral therapy or reminiscence therapy.",,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Medical Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,False,True
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,False,False,True
+,,I find this chatbot to be offensive,,,,,,True,False,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,False,True,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,False,True,False
+,,I feel that this chatbot is similar to me,,,,,,False,False,True,False,False
+,,I would like a Medical Assistant chatbot to speak to me like this,,,,,,False,False,False,True,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,False,False,True,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,False,False,True,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,False,True
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,False,True,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,False,True
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

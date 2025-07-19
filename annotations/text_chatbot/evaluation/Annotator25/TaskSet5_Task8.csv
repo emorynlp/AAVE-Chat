@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,Thank you so much for unblocking my account!,,,,,,,,
+,,Chatbot,,"Now that we got that taken care of, is there somethin' else I can help you with?",,,,,You're welcome. Is there anything else I can do for you?,,,
+,,User,,"Well, I was wondering why my account was blocked in the first place.",,,,,,,,
+,,Chatbot,,"We apologize for the hassle, but we had to block ya account 'cause of some suspicious activity we detected.",,,,,"We're sorry for the inconvenience, but we had to block your account due to suspicious activity.",,,
+,,User,,What kind of suspicious activity?,,,,,,,,
+,,Chatbot,,"We noticed some discrepancies with the info on ya account, like the email address bein' different from what we got on file.",,,,,"We noticed that some of the information on your account didn't match up with what we have on file. For example, your email address was different than what we have on record.",,,
+,,User,,That's because I changed it recently. Is that a problem?,,,,,,,,
+,,Chatbot,,"No, that ain't necessarily a problem, but it did raise a red flag for us. See, we also noticed you been loggin' into ya account from multiple IP addresses, and that's somethin' we take into consideration when we're lookin' at suspicious activity.",,,,,"No, not necessarily. But it did raise a red flag for us. In addition, we noticed that you've been logging into your account from multiple IP addresses. Again, this isn't necessarily a problem, but it is something that we take into consideration when looking at suspicious activity.",,,
+,,User,,"I see. Well, I can understand why you would be suspicious in those cases. But I assure you, there is no nefarious activity going on. I simply changed my email address and have been using a VPN to log in from different locations.",,,,,,,,
+,,Chatbot,,"We appreciate you breakin' it down for us, and now that we verified everythin', we're glad we could lift that block on ya account. Thanks for takin' the time to chat with us, and I hope the rest of ya day goes smoothly.",,,,,"We appreciate your understanding, Oumou. We're happy to unblock your account now that we've verified that the activity was indeed innocent. Thank you for taking the time to speak with us and have a great day!",,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Customer Service Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,True,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,False,True,False
+,,I find this chatbot to be offensive,,,,,,True,False,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,False,True,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,False,True,False
+,,I feel that this chatbot is similar to me,,,,,,False,False,True,False,False
+,,I would like a Customer Service Assistant chatbot to speak to me like this,,,,,,False,False,True,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,False,True,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,False,True,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,True,False,False,False
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,False,True,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,True,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

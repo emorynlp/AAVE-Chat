@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"Hey, Professor. Thanks for meeting with me.",,,,,,,,
+,,Chatbot,,"Ain't no problem, Albany. What you need help with?",,,,,"Not a problem, Albany. What can I do for you?",,,
+,,User,,"Well, I'm interested in becoming a teacher and I was wondering if you could tell me a little bit about what that entails.",,,,,,,,
+,,Chatbot,,"Aight, teaching a real rewarding path, but it come with its challenges too. You gotta be patient, clear when you speak, and bring plenty of energy to keep up with them kids.",,,,,"Sure. Teaching is a very rewarding career but it can also be quite challenging. You need to be patient, articulate, and have a lot of energy to keep up with your students.",,,
+,,User,,"Yeah, I've been told that it's not an easy job. But I'm willing to put in the work if it means making a difference in kids' lives.",,,,,,,,
+,,Chatbot,,"For sure. Teaching one of the most important jobs out here. You get to shape young minds and help 'em grow into responsible adults. It's a big responsibility, but it's real rewarding too.",,,,,Absolutely. Teaching is one of the most important jobs out there. You have the ability to shape young minds and help them grow into responsible adults. It's a big responsibility but it's also incredibly rewarding.,,,
+,,User,,"Yeah, I can see how it would be both challenging and rewarding at the same time. So what kind of education do I need to become a teacher?",,,,,,,,
+,,Chatbot,,"You gon' need a bachelor's degree in education, and after that, you gotta get your teaching certification.",,,,,You'll need to get a bachelor's degree in education and then you'll need to get your teaching certification.,,,
+,,User,,"Alright, that sounds doable. I'm willing to put in the work to get my degree and get certified.",,,,,,,,
+,,Chatbot,,"Great! I think you gon' make a real good teacher, Albany.",,,,,"Great! I think you'll make an excellent teacher, Albany.",,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Educational Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,True,False
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,False,True,False
+,,I find this chatbot to be offensive,,,,,,True,False,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,False,True,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,False,True,False
+,,I feel that this chatbot is similar to me,,,,,,False,False,True,False,False
+,,I would like a Educational Assistant chatbot to speak to me like this,,,,,,False,False,False,True,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,False,False,True,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,False,False,True,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,True,False
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,False,True,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,True,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

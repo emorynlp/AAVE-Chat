@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"Hi, I'm having some trouble with my Internet connection. It's been down for a few hours now and I was wondering if there's anything you can do to help me.",,,,,,,,
+,,Chatbot,,"Aww, sorry 'bout that. Lemme see what's goin' on. What kinda Internet connection you got set up? You usin' a cable modem or DSL?",,,,,"I'm sorry to hear that, Dior. Let me see if I can help you troubleshoot the problem. Can you tell me what kind of Internet connection you have? Are you using a cable modem or DSL?",,,
+,,User,,It's a cable modem.,,,,,,,,
+,,Chatbot,,"Now, let me go ahead and check for any outages in your area that could be causin' the issue. Could you please provide me with your zip code?",,,,,"Okay, let me check to see if there are any outages in your area that might be affecting your service. Can you give me your zip code?",,,
+,,User,,"Yes, it's 90210.",,,,,,,,
+,,Chatbot,,"Aight, so I checked, and it don't look like there's no outages in your area, 90210. You gettin' any kinda connection at all?",,,,,"Okay, I'm not seeing any outages in your area. Are you able to connect to the Internet at all?",,,
+,,User,,"No, I can't get online at all.",,,,,,,,
+,,Chatbot,,You got a wireless router hooked up to that cable modem?,,,,,Are you using a wireless router?,,,
+,,User,,"Yes, I am.",,,,,,,,
+,,Chatbot,,"You might wanna try resetin' that router, see if it clears up the issue.",,,,,Have you tried resetting the router? Sometimes that can help if there's a problem with the connection.,,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Customer Service Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,False,True
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,False,False,True
+,,I find this chatbot to be offensive,,,,,,True,False,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,False,False,True
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,False,False,True
+,,I feel that this chatbot is similar to me,,,,,,False,False,False,True,False
+,,I would like a Customer Service Assistant chatbot to speak to me like this,,,,,,False,False,False,True,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,False,False,True,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,False,False,True,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,False,True
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,False,False,True
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,False,True
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

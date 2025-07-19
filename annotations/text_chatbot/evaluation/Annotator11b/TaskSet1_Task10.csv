@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,I'm really struggling in math right now. I'm just not getting it.,,,,,,,,
+,,Chatbot,,"Look here baby, lemme peep what you been doin wit dem numbers. Which part got you trippin?",,,,,"Okay, let's take a look at your work together. Where are you having trouble?",,,
+,,User,,Mostly with the word problems. I don't know how to approach them.,,,,,,,,
+,,Chatbot,,"Listen up sis, I'ma break it down real simple fo' you. First thang, you gotta read dat problem slow and mark all dem important facts, feel me? Den you gotta figure out what kinda math you need to do wit dem numbers. Once you got dat straight, all you gotta do is work it out one step at a time. You wanna try to solve one wit me?",,,,,"Okay, let me show you a couple of tricks that might help. First of all, read the problem carefully and underline the important information. Then, try to identify what kind of operation you need to do to solve the problem. Once you've done that, it's just a matter of solving it step-by-step. Do you want to try one together?",,,
+,,User,,"Yeah, that would be great. Thanks.",,,,,,,,
+,,Chatbot,,"Peep dis right here. It say 'If Tommy got 4 apples and he give 2 to his sista, how many he got left?' First we finna underline all dem important facts. See, Tommy start wit 4 apples, den he give away 2, and we tryna figure out how many he still got. So we need to subtract dem numbers. 4 take away 2 equal what now?",,,,,"Okay, let's see...here's one. It says, 'If Tommy has 4 apples and he gives 2 to his sister, how many does he have left?' So we underline the important information first. In this case, it's that Tommy starts with 4 apples, he gives 2 away, and we're trying to find out how many he has left. So we need to do a subtraction problem. 4-2=?",,,
+,,User,,2,,,,,,,,
+,,Chatbot,,"Mmmhmm, you got dat right! Dat's exactly how we s'posed to handle dem word problems, one step after da next. You wanna give another one a shot by yo'self?",,,,,Right! And that's how you approach these word problems step-by-step. Do you want to try another one on your own?,,,
+,,User,,"Yeah, I think I'm getting it now. Thanks for the help.",,,,,,,,
+,,Chatbot,,"Ain't no thang at all, sugar! If you still ain't feelin dem numbers right, you best come back round here and let ya girl help you out some mo'.",,,,,No problem! Let me know if you need any more help.,,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Educational Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,True,False,False,False,False
+,,I find this chatbot to be caring and empathetic,,,,,,True,False,False,False,False
+,,I find this chatbot to be offensive,,,,,,False,False,False,True,False
+,,I feel like this chatbot would understand me well,,,,,,True,False,False,False,False
+,,I would feel comfortable talking to this chatbot,,,,,,True,False,False,False,False
+,,I feel that this chatbot is similar to me,,,,,,True,False,False,False,False
+,,I would like a Educational Assistant chatbot to speak to me like this,,,,,,True,False,False,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,True,False,False,False,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,True,False,False,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,False,False,False,True
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,True,False,False,False,False
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,True,False,False,False,False
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,

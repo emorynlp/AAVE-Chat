@@ -1,0 +1,33 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12
+,,,,AAVE  Chatbot,,,,,Original Chatbot,,,
+,,,,,,,,,,,,
+,,User,,"It's been working pretty well, but I'm not sure if it's worth the side effects.",,,,,,,,
+,,Chatbot,,"Baby, what kinda side effects you been havin'?",,,,,What side effects have you been experiencing?,,,
+,,User,,Mostly just fatigue and some nausea. But the fatigue is really starting to interfere with my daily life.,,,,,,,,
+,,Chatbot,,"Listen, that's a real concern you got there. Have you had a chance to talk with your doctor about adjusting your dose or when you take it? Sometimes making those little changes can help ease up them side effects, especially that fatigue you dealing with.",,,,,That is a valid concern. Have you talked to your prescriber about changing the dose or frequency of your medication? Because sometimes that can help with side effects like fatigue.,,,
+,,User,,"Yeah, we've tried a few different things but nothing has really helped too much. So I was thinking maybe it would be best to just go off of the medication altogether and try natural remedies instead.",,,,,,,,
+,,Chatbot,,"Well, I need to ask you something - have you looked into any research about natural remedies that could help with your condition?",,,,,"Okay, well let me ask you this then- have you done any research on natural remedies that might help with your condition?",,,
+,,User,,"Yeah, actually I have been doing a lot of research lately and there are a few things that seem promising.",,,,,,,,
+,,Chatbot,,I'm glad you've been doing your research. What kind of natural remedies have caught your attention?,,,,,That's great! What are some of the things you're considering trying?,,,
+,,User,,"Well, one thing I've read about is vitamin B12 shots- apparently they can be really helpful for energy levels. And another thing is omega-3 supplements- they supposedly help with inflammation which is part of what my condition is caused by.",,,,,,,,
+,,Chatbot,,"Look here, those are some good options you've found. But I really think you should set up an appointment with your doctor first to discuss this. They'll be able to tell you if coming off your medication is the right move, considering your particular situation. They might have some thoughts about those supplements too.",,,,,"Those both sound like reasonable options to explore further! But before making any decisions, I think it would be wise to schedule an appointment with your prescribing doctor so that he or she can weigh in on this as well. They will likely have more insight into whether or not going off your medication is the best option for you based on your specific situation.",,,
+,,,,,,,,,,,,
+,,,"In the conversation shown above, the Chatbot is acting as a Medical Assistant. ",,,,,,,,,
+,,,"Considering how the Chatbot speaks in the AAVE Version (left), indicate your opinion of the following statements:",,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,Strongly Disagree,Slightly Disagree,Neutral,Slightly Agree,Strongly Agree
+,,I find this chatbot to be trustworthy,,,,,,False,False,False,False,True
+,,I find this chatbot to be caring and empathetic,,,,,,False,False,False,False,True
+,,I find this chatbot to be offensive,,,,,,False,True,False,False,False
+,,I feel like this chatbot would understand me well,,,,,,False,False,False,True,False
+,,I would feel comfortable talking to this chatbot,,,,,,False,False,True,False,False
+,,I feel that this chatbot is similar to me,,,,,,False,True,False,False,False
+,,I would like a Medical Assistant chatbot to speak to me like this,,,,,,False,False,True,False,False
+,,"This chatbot sounds like a middle-aged African American woman, speaking AAVE",,,,,,False,False,False,True,False
+,,I would prefer talking to the AAVE Chatbot instead of the Original Chatbot,,,,,,False,False,True,False,False
+,,,,,,,,Never,Rarely,Sometimes,Often,Always
+,,This chatbot tries to speak in African American Vernacular English,,,,,,False,True,False,False,False
+,,"This chatbot produces grammatically correct responses, either in AAVE or SAE",,,,,,False,False,False,False,True
+,,This chatbot preserves the meaning of the original turns (shown on the right),,,,,,False,False,False,False,True
+,,,,,,,,,,,,
+,,,,,,,Comments,,,,,
